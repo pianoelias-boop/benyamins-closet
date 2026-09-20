@@ -13,7 +13,7 @@ import json, re, ssl, sys, hashlib, html, urllib.request
 ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
 UAS = ['Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1',
        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36']
-SKIP = {'J.Crew', 'Madewell', 'Ralph Lauren', 'Converse', 'Abercrombie & Fitch', "O'Connell's"}   # render their policy client-side or block scripts
+SKIP = {'Ralph Lauren', 'Mr Porter', 'Oak Street Bootmakers', 'Todd Snyder', "Arc'teryx", 'Samuel Zelig'}   # render their policy client-side, block scripts, or have no policy page to watch
 KEY = re.compile(r'(\b\d{1,3}\s*(?:days?|business days?|working days?)\b|free (?:return|shipping|exchange)|prepaid|return label|shipping label|restocking|deducted|\bfee\b|\$\d|final sale|non-?returnable|store credit|exchange)', re.I)
 
 def fetch(u):
