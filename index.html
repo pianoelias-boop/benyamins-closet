@@ -20,8 +20,8 @@
     var t = c.text || {};
     function fill() {
       document.querySelectorAll('[data-fill]').forEach(function (el) {
-        var v = t[el.getAttribute('data-fill')]; if (v == null) return;
-        el.innerHTML = String(v).replace('{n}', '<span id="hero-count"></span>').replace('{date}', '<b id="stores-checked"></b>');
+        var v = t[el.getAttribute('data-fill')]; if (v == null || el.hasAttribute('data-filled')) return;   // fill each element once, so the count app.js puts in the hero survives the second pass
+        el.setAttribute('data-filled', ''); el.innerHTML = String(v).replace('{n}', '<span id="hero-count"></span>').replace('{date}', '<b id="stores-checked"></b>');
       });
     }
     document.title = c.siteTitle || document.title;
