@@ -30,7 +30,8 @@
   {
    "name": "A Kind of Guise",
    "site": "https://akindofguise.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Arc'teryx",
@@ -42,8 +43,8 @@
   {
    "name": "Axel Arigato",
    "site": "https://axelarigato.com",
-   "status": "approved",
-   "note": "no feed; events only",
+   "status": "proposed",
+   "note": "no feed; events only; from his list, but its pieces had sold out by 2026-09-20",
    "feed": false
   },
   {
@@ -54,7 +55,8 @@
   {
    "name": "Billy Reid",
    "site": "https://www.billyreid.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Blacksmith",
@@ -81,7 +83,8 @@
   {
    "name": "Buck Mason",
    "site": "https://www.buckmason.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Canterbury",
@@ -118,8 +121,8 @@
   {
    "name": "Glasswing",
    "site": "https://glasswingshop.com",
-   "status": "approved",
-   "note": "stockist: Brain Dead and others"
+   "status": "proposed",
+   "note": "stockist: Brain Dead and others; from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Haspel",
@@ -141,12 +144,14 @@
   {
    "name": "Keen",
    "site": "https://www.keenfootwear.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Knickerbocker",
    "site": "https://www.knickerbocker.nyc",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Labour Union",
@@ -156,7 +161,8 @@
   {
    "name": "Maharishi",
    "site": "https://www.maharishistore.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Manresa",
@@ -183,13 +189,14 @@
   {
    "name": "Nantucket Reds",
    "site": "https://www.nantucketreds.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Nepenthes New York",
    "site": "https://nepenthesny.com",
-   "status": "approved",
-   "note": "stockist: Needles, Engineered Garments, South2 West8"
+   "status": "proposed",
+   "note": "stockist: Needles, Engineered Garments, South2 West8; from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "No Man Walks Alone",
@@ -200,7 +207,8 @@
   {
    "name": "Noah",
    "site": "https://noahny.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Oak Street Bootmakers",
@@ -212,13 +220,14 @@
   {
    "name": "Okayama Denim",
    "site": "https://www.okayamadenim.com",
-   "status": "approved",
-   "note": "stockist: Studio D'Artisan and other Japanese denim"
+   "status": "proposed",
+   "note": "stockist: Studio D'Artisan and other Japanese denim; from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Older Best",
    "site": "https://www.olderbest.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Outlier",
@@ -242,7 +251,8 @@
   {
    "name": "Res Ipsa",
    "site": "https://www.resipsausa.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Samuel Zelig",
@@ -268,8 +278,8 @@
   {
    "name": "Spier & Mackay",
    "site": "https://us.spierandmackay.com",
-   "status": "approved",
-   "note": "no feed; events only",
+   "status": "proposed",
+   "note": "no feed; events only; from his list, but its pieces had sold out by 2026-09-20",
    "feed": false
   },
   {
@@ -286,7 +296,8 @@
   {
    "name": "Stitch Spring",
    "site": "https://stitchspring.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "TOAST",
@@ -311,7 +322,8 @@
   {
    "name": "Uskees",
    "site": "https://uskees.com",
-   "status": "approved"
+   "status": "proposed",
+   "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
    "name": "Yitai",

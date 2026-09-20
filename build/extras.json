@@ -76,7 +76,7 @@
   "id": 4,
   "brand": "Morning Witch",
   "retailer": "Morning Witch",
-  "name": "PREORDER [KNIT SWEATER] Amanita Mushroom",
+  "name": "Amanita Mushroom Knit Sweater",
   "category": "Knitwear",
   "color": "Orange/Rust",
   "occasions": [
@@ -100,7 +100,7 @@
   "id": 5,
   "brand": "Nantucket Reds",
   "retailer": "Murray's Toggery Shop",
-  "name": "Nantucket Reds® Men's Pleated Front Pants",
+  "name": "Nantucket Reds Pleated Front Pants",
   "category": "Trousers",
   "color": "Red",
   "occasions": [
@@ -200,7 +200,7 @@
   "id": 9,
   "brand": "Blacksmith",
   "retailer": "Blacksmith",
-  "name": "Blacksmith - Tonal Cargo Pants - Indigo Denim",
+  "name": "Tonal Cargo Pants - Indigo Denim",
   "category": "Trousers",
   "color": "Denim",
   "occasions": [
@@ -221,7 +221,7 @@
   "id": 10,
   "brand": "Blacksmith",
   "retailer": "Blacksmith",
-  "name": "Blacksmith - Patchwork Corduroy Shirt - Green",
+  "name": "Patchwork Corduroy Shirt - Green",
   "category": "Shirts",
   "color": "Green",
   "occasions": [
@@ -270,7 +270,7 @@
   "id": 12,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "REWORK® TERRITORY SHIRT",
+  "name": "Rework Territory Shirt (USAF map rayon)",
   "category": "Shirts",
   "color": "Multi/Print",
   "occasions": [
@@ -344,7 +344,7 @@
   "id": 15,
   "brand": "Canterbury",
   "retailer": "Canterbury",
-  "name": "Canterbury Open Hem Stadium Pant",
+  "name": "Open Hem Stadium Pant",
   "category": "Trousers",
   "color": "Black",
   "occasions": [
@@ -492,7 +492,7 @@
   "id": 21,
   "brand": "ONI Denim",
   "retailer": "Son of a Stag",
-  "name": "ONI Denim 222-NEP 13.7oz Extra Wide Straight Jean - One Wash",
+  "name": "222-NEP 13.7oz Extra Wide Straight Jean",
   "category": "Jeans",
   "color": "Denim",
   "occasions": [
@@ -564,7 +564,7 @@
   "id": 24,
   "brand": "Yonetomi",
   "retailer": "Son of a Stag",
-  "name": "Yonetomi Brushed Mohair Border Knit Jumper - Ivory",
+  "name": "Brushed Mohair Border Knit Jumper",
   "category": "Knitwear",
   "color": "White/Ivory",
   "occasions": [
@@ -613,7 +613,7 @@
   "id": 26,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "REWORK® WAX JACKET - V5",
+  "name": "Rework Wax Jacket V5",
   "category": "Jackets & Coats",
   "color": "Brown",
   "occasions": [
@@ -711,7 +711,7 @@
   "id": 30,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "DOVER RUGGED CABLEKNIT CREWNECK SWEATER - UNDYED ANDEAN WOOL",
+  "name": "Dover Rugged Cable-Knit Crewneck Sweater",
   "category": "Knitwear",
   "color": "White/Ivory",
   "occasions": [
@@ -783,7 +783,7 @@
   "id": 33,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "GORECKI CARGO PANT - ANCIENT OLIVE DOUBLE WEAVE JACQUARD COTTON",
+  "name": "Gorecki Cargo Pant",
   "category": "Trousers",
   "color": "Green",
   "occasions": [
@@ -807,7 +807,7 @@
   "id": 34,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "JOSEPH COACH'S JACKET - NAVY ORGANIC COTTON SHERPA",
+  "name": "Joseph Coach's Jacket (organic cotton sherpa)",
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
@@ -830,7 +830,7 @@
   "id": 35,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "PILCHUCK HAND-EMBROIDERED OVERSHIRT - CLAY / BUTTER /TANGERINE / FOG / ECRU / LAVENDAR COTTON FLANNEL WITH KANTHA STITCHING",
+  "name": "Pilchuck Hand-Embroidered Flannel Overshirt",
   "category": "Shirts",
   "color": "Multi/Print",
   "occasions": [
@@ -854,7 +854,7 @@
   "id": 36,
   "brand": "ONI Denim",
   "retailer": "Son of a Stag",
-  "name": "ONI Denim 822ZR-LBR 20oz Brown Weft 'Secret Denim' Extra Wide Tapered Jean - One Wash",
+  "name": "822ZR-LBR 20oz Brown Weft 'Secret Denim' Extra Wide Tapered Jean",
   "category": "Jeans",
   "color": "Denim",
   "occasions": [
@@ -878,7 +878,7 @@
   "id": 37,
   "brand": "Full Count",
   "retailer": "Full Count",
-  "name": "0105SSW - Wide Denim (Super Smooth) -",
+  "name": "0105SSW Wide Denim (Super Smooth)",
   "category": "Jeans",
   "color": "Denim",
   "occasions": [
@@ -979,7 +979,7 @@
   "id": 41,
   "brand": "Universal Surplus",
   "retailer": "Universal Surplus",
-  "name": "UNIVERSAL FRENCH PARATROOPER PANTS - BLACK",
+  "name": "French Paratrooper Pants",
   "category": "Trousers",
   "color": "Black",
   "occasions": [
@@ -1003,7 +1003,7 @@
   "id": 42,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE RAIN CROPPED JACKET",
+  "name": "The Rain Cropped Jacket",
   "category": "Jackets & Coats",
   "color": "Green",
   "occasions": [
@@ -1027,7 +1027,7 @@
   "id": 43,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "FOLA V-NECK CARDIGAN\n - MIRKWOOD GREEN REVERSE BOUCLÉ BLENDED WOOL",
+  "name": "Fola V-Neck Cardigan",
   "category": "Knitwear",
   "color": "Green",
   "occasions": [
@@ -1052,7 +1052,7 @@
   "id": 44,
   "brand": "Indi + Ash",
   "retailer": "Kaidu Utility",
-  "name": "Study Jacket - Ticking Stripe - 2 (S), 3(M), 4(L)",
+  "name": "Study Jacket, Ticking Stripe",
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
@@ -1100,7 +1100,7 @@
   "id": 46,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "CALISTO DOUBLE PLEATED BIG JEANS - 13 oz. RAW DENIM",
+  "name": "Calisto Double Pleated Big Jeans",
   "category": "Jeans",
   "color": "Denim",
   "occasions": [
@@ -1394,7 +1394,7 @@
   "id": 58,
   "brand": "Indi + Ash",
   "retailer": "Standard & Strange",
-  "name": "George Coat -  Handspun Midnight Teal/Iron Black HB",
+  "name": "George Coat, Handspun Herringbone",
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
@@ -1414,5 +1414,390 @@
    "100% cotton yarns"
   ],
   "fabric": "100% cotton yarns"
+ },
+ {
+  "id": 59,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Orani Straight Hem Work Shirt",
+  "category": "Shirts",
+  "color": "Blue",
+  "occasions": [
+   "dance",
+   "work",
+   "hang"
+  ],
+  "why": "Featherweight khadi cotton; the coolest shirt on a hot night.",
+  "price": 178.0,
+  "colorDetail": "Natural indigo / kelp melange",
+  "categoryDetail": "Khadi work shirt",
+  "url": "https://18east.co/collections/new-arrivals/products/orani-straight-hem-work-shirt-indigo-kelp",
+  "img": "images/full/59.jpg",
+  "hi": true,
+  "desc": "Based on our popular Wes workshirt, we updated the Orani's fit to fall more in line with the rest of our woven shirt assortment. It is cut from an impossibly light and subtly stunning Khadi - a handloomed mix of superfine natural indigo and olive cotton yarns. It features a straight hem, deep side vents, and beautifully curved lines throughout its chest pockets and long pointed collar. Proudly made in India from a 100% handwoven cotton. This garment runs true to size - we recommend sizing up one full size if you prefer a more relaxed fit.",
+  "details": [
+   "100% handwoven cotton"
+  ],
+  "fabric": "100% handwoven cotton"
+ },
+ {
+  "id": 60,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Civilita Asymmetrical Cargo Pant",
+  "category": "Trousers",
+  "color": "Green",
+  "occasions": [
+   "dance",
+   "hang",
+   "work"
+  ],
+  "why": "Linen twill cargos; airy, with pockets.",
+  "price": 228.0,
+  "colorDetail": "Olive linen twill",
+  "categoryDetail": "Asymmetrical cargo pants",
+  "url": "https://18east.co/collections/new-arrivals/products/civilita-cargo-pant-olive",
+  "img": "images/full/60.jpg",
+  "hi": true,
+  "desc": "\"When you already make t he world's best cargo pant it can be a real challenge to design a new one. I worked on these for a really long time but am very happy where they landed. With asymmetrical inset hip pockets, the Civilita nods to some of my favorite military styles but ends up a silhouette all its own.\" - The Management Proudly made in India from a piece dyed 100% Linen twill This garment runs true to size. We recommend taking your usual alpha size on this.",
+  "details": [
+   "100% Linen twill This garment runs true to size"
+  ],
+  "fabric": "100% Linen twill This garment runs true to size"
+ },
+ {
+  "id": 61,
+  "brand": "TOAST",
+  "retailer": "TOAST",
+  "name": "Gabriel Cord Pants",
+  "category": "Trousers",
+  "color": "Yellow/Gold",
+  "occasions": [
+   "work",
+   "dressy",
+   "hang"
+  ],
+  "why": "Cotton corduroy in amber; a trouser for autumn trips.",
+  "price": 315.0,
+  "colorDetail": "Golden amber",
+  "categoryDetail": "Gabriel cord trousers",
+  "url": "https://us.toa.st/products/gabriel-cord-trousers-golden-amber",
+  "img": "images/full/61.jpg",
+  "hi": true,
+  "desc": "Our relaxed Gabriel pants are made from supple organic cotton cord. With an elasticated waist, falling to slightly tapered legs, and punctuated by back patch pockets. Part of our Menswear collection. Organic cotton cord. Elasticated waist. Side pockets. Back patch pockets. Slightly tapered legs.",
+  "details": [
+   "Your note: size M",
+   "100% cotton",
+   "100% cotton lining",
+   "Machine wash at 30°C",
+   "Made in China"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 62,
+  "brand": "TOAST",
+  "retailer": "TOAST",
+  "name": "Shadow Cotton Ikat Shirt",
+  "category": "Shirts",
+  "color": "Beige/Tan",
+  "occasions": [
+   "dance",
+   "work",
+   "dressy"
+  ],
+  "why": "Handwoven ikat cotton; breathes, and dresses up.",
+  "price": 430.0,
+  "colorDetail": "Neutral ikat",
+  "categoryDetail": "Shadow cotton ikat shirt",
+  "url": "https://us.toa.st/products/shadow-cotton-ikat-shirt-neutral",
+  "img": "images/full/62.jpg",
+  "hi": true,
+  "desc": "Our shirt is made from hand-dyed and handwoven organic ikat with a geometric pattern. The cotton yarns are carefully bound and dyed to create the pattern, then handwoven to create a soft fabric. Cut with a straight hem which falls to the mid hip, then finished with corozo buttons. Handwoven and hand-dyed organic cotton ikat. Collar. Buttoned cuffs. Mid-hip length. Straight hem. Corozo buttons.",
+  "details": [
+   "Your note: Size m",
+   "100% organic cotton",
+   "Machine wash at 30°C on a gentle cycle",
+   "Made in India"
+  ],
+  "fabric": "100% organic cotton"
+ },
+ {
+  "id": 63,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "The Board Shorts",
+  "category": "Shorts & Swim",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "exercise"
+  ],
+  "why": "Board shorts that might actually fit.",
+  "price": 110.0,
+  "colorDetail": "Green",
+  "categoryDetail": "Board shorts",
+  "url": "https://brut-clothing.us/products/the-board-short-green",
+  "img": "images/full/63.jpg",
+  "hi": true,
+  "desc": "Natural waist. Loose & relaxed fit. Short leg. Elasticated waistband, Braided cotton drawstring. Mesh Swim Lining. Two front pockets in mesh. One embroidery on front.",
+  "details": [
+   "Your note: Maybe M or L. The only hoochie daddy short I've found that might fit"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 64,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Portofino Linen Herringbone Dress Pant",
+  "category": "Trousers",
+  "color": "Brown",
+  "occasions": [
+   "work",
+   "dressy",
+   "dance"
+  ],
+  "why": "Linen herringbone in a wide leg: tailored enough for work, light enough to dance in.",
+  "price": 325.0,
+  "colorDetail": "Mocha melange",
+  "categoryDetail": "Wide-leg linen-blend dress trousers",
+  "url": "https://propercloth.com/tailored-clothing/portofino-mocha-melange-linen-blend-herringbone-dress-pant-239736.html",
+  "img": "images/full/64.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: Love the herringbone and wide leg",
+   "Made to your measurements (custom fit)"
+  ],
+  "fabric": "Linen blend herringbone"
+ },
+ {
+  "id": 65,
+  "brand": "Oak Street Bootmakers",
+  "retailer": "Oak Street Bootmakers",
+  "name": "Beefroll Penny Loafer",
+  "category": "Shoes",
+  "color": "Brown",
+  "occasions": [
+   "work",
+   "dressy",
+   "hang"
+  ],
+  "why": "A casual penny loafer that still passes at dinner; resoleable.",
+  "price": 348.0,
+  "colorDetail": "Brown Chromexcel",
+  "categoryDetail": "Penny loafer, leather sole",
+  "url": "https://oakstreetbootmakers.com/beefroll-penny-loafer-brown-chromexcel-leather-sole-with-dovetail-toplift",
+  "img": "images/full/65.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: A casual penny loafer that is much more casual than others in wardrobe",
+   "Made in USA",
+   "Leather sole with dovetail toplift"
+  ],
+  "fabric": "Horween Chromexcel leather"
+ },
+ {
+  "id": 66,
+  "brand": "Outlier",
+  "retailer": "Outlier",
+  "name": "Hard/co Merino Twoway Hoodie",
+  "category": "Knitwear",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang",
+   "work"
+  ],
+  "why": "Merino terry inside, cotton outside: warm-up layer, plane layer, cosy layer.",
+  "price": 390.0,
+  "colorDetail": "Black Lightning",
+  "categoryDetail": "Merino-lined hoodie",
+  "url": "https://outlier.nyc/collections/layers/hard-co-merino-twoway-hoodie?Color=Black+Lightning&Size=M",
+  "img": "images/full/66.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: Merino terry inside with a cotton outside is interesting and cozy"
+  ],
+  "fabric": "Merino terry inside, cotton outside"
+ },
+ {
+  "id": 67,
+  "brand": "Small Talk",
+  "retailer": "Mr Porter",
+  "name": "Straight-Leg Striped Jeans",
+  "category": "Jeans",
+  "color": "Blue",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "Striped cotton denim in a straight leg; a jean that reads as a trouser.",
+  "price": 180.0,
+  "colorDetail": "Blue stripe",
+  "categoryDetail": "Striped straight-leg jeans",
+  "url": "https://www.mrporter.com/en-us/mens/product/small-talk/clothing/straight-jeans/straight-leg-striped-jeans/1647597342843933",
+  "img": "images/full/67.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Mr Porter price on 2026-09-20: $180, was $450"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 68,
+  "brand": "Ralph Lauren",
+  "retailer": "Ralph Lauren",
+  "name": "Shearling-Collar Corduroy Ranch Coat",
+  "category": "Jackets & Coats",
+  "color": "Brown",
+  "occasions": [
+   "dressy",
+   "work"
+  ],
+  "why": "A corduroy ranch coat with a shearling collar; the coat for a cold trip.",
+  "price": 1200.0,
+  "colorDetail": "Brown corduroy",
+  "categoryDetail": "Corduroy ranch coat with shearling collar",
+  "url": "https://www.ralphlauren.com/men-clothing-jackets-coats-vests/shearling-collar-corduroy-ranch-coat/100066326.html",
+  "img": "images/full/68.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: I mean it's cool",
+   "Listed as out of stock on 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 69,
+  "brand": "Ralph Lauren",
+  "retailer": "Ralph Lauren",
+  "name": "The Wainwright Corduroy Down Jacket",
+  "category": "Jackets & Coats",
+  "color": "Brown",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Down warmth in corduroy; a winter jacket that is not a puffer.",
+  "price": 600.0,
+  "colorDetail": "Corduroy",
+  "categoryDetail": "Corduroy down jacket",
+  "url": "https://www.ralphlauren.com/men-clothing-jackets-coats-vests/the-wainwright-corduroy-down-jacket/100059326.html",
+  "img": "images/full/69.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: A corduroy down jacket? dope",
+   "Listed as out of stock on 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 70,
+  "brand": "Arc'teryx",
+  "retailer": "Arc'teryx",
+  "name": "Konseal Shoe",
+  "category": "Shoes",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "A trail shoe comfortable enough for a whole day of walking.",
+  "price": 190.0,
+  "colorDetail": "Forage / Black",
+  "categoryDetail": "Approach shoe",
+  "url": "https://arcteryx.com/us/en/shop/mens/konseal-shoe-9834",
+  "img": "images/full/70.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: Comfy trail shoe"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 71,
+  "brand": "Flamborough Marine",
+  "retailer": "Flamborough Marine",
+  "name": "Made-to-Order Gansey",
+  "category": "Knitwear",
+  "color": "Blue",
+  "occasions": [
+   "hang",
+   "work",
+   "dressy"
+  ],
+  "why": "A made-to-order fisherman's gansey in 5-ply worsted wool; the one sweater for a lifetime.",
+  "price": 700.0,
+  "colorDetail": "Made to order in 28 colours",
+  "categoryDetail": "Hand-framed made-to-order gansey",
+  "url": "https://www.flamboroughmanor.co.uk/flamboroughmarine/ganseys.htm",
+  "img": "images/full/71.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: Insane MTO gansey",
+   "Made to measure in Flamborough, Yorkshire",
+   "price is approximate, quoted on order"
+  ],
+  "fabric": "100% British worsted wool, 5-ply"
+ },
+ {
+  "id": 72,
+  "brand": "Indi + Ash",
+  "retailer": "Kaidu Utility",
+  "name": "Shakoor Wide Cut Pants",
+  "category": "Trousers",
+  "color": "Blue",
+  "occasions": [
+   "dressy",
+   "work",
+   "dance"
+  ],
+  "why": "Handwoven ticking stripe in a wide cut: non-traditional suiting.",
+  "price": 268.0,
+  "colorDetail": "Dark blue ticking stripe",
+  "categoryDetail": "Handwoven wide-cut trousers",
+  "url": "https://www.kaidutility.com/collections/bottoms-by-other-makers/products/shakoor-wide-cut-pants-midnight-teal-2-3-5",
+  "img": "images/full/72.jpg",
+  "hi": true,
+  "desc": "Made in handwoven ticking stripe cotton. Size 2 (size 32): waist 34\". inseam 31 1/2\", bottom opening: 19\" Size 3 (size 34): waist 37\", inseam 31 1/2\", bottom opening: 19\" Size 4 (size 36) : waist 39\". inseam 31 1/2\", bottom opening: 19 1/2\" Maker: Indi Brand",
+  "details": [
+   "Your note: Nontraditional suiting option",
+   "Size 2 = 32 (waist 34 in, inseam 31.5 in, leg opening 19 in), size 3 = 34, size 4 = 36"
+  ],
+  "fabric": "98% cotton, 2% elastane"
+ },
+ {
+  "id": 73,
+  "brand": "Tarvas",
+  "retailer": "Haven",
+  "name": "Easy Hiker Hairy Suede",
+  "category": "Shoes",
+  "color": "Grey",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "A hairy-suede hiker with soft lines; trail or town.",
+  "price": 430.0,
+  "colorDetail": "Iron",
+  "categoryDetail": "Hiking shoe",
+  "url": "https://havenshop.com/products/haven-tarvas-easy-hiker-hairy-suede-iron-fw25",
+  "img": "images/full/73.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Your note: Hairy suede hiking shoe, rugged but with some versatility",
+   "Made in Portugal"
+  ],
+  "fabric": "Italian hairy suede and leather, Vibram sole"
  }
 ]
