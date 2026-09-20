@@ -20,6 +20,8 @@ used for Benyamin's Closet (the same as Becca's):
 - Tools: Bash, Read, Write, Edit, Glob, Grep. The sandbox has no internet except GitHub.
 - Connectors: the "Claude Code Remote" connector supplies the GitHub file tool the prompt relies on.
 
+Created for this closet on 2026-09-20: routine id `trig_01JCor7Xm1gAjkzAWoPUTPyx`, "Benyamin's Closet · Saturday round (judge)", Saturday 13:00 UTC, claude-sonnet-5, manage at https://claude.ai/code/routines.
+
 ## Personalise before you use it
 
 The prompt below is the live one for Benyamin's Closet. If you copy this repository for someone else, change:
