@@ -7,7 +7,7 @@
 window.CLOSET_CONFIG = {
  "slug": "benyamins-closet",
  "notebookKey": "benyamin",
- "syncUrl": "",
+ "syncUrl": "https://script.google.com/macros/s/AKfycbwQjmEeX99EVBaFZqXHTSdfFV8meXq5uFyeYC4CAMJlb5GQIBOzharnK4THG5WcE8YX/exec",
  "siteTitle": "Benyamin's Closet",
  "description": "The pieces Benyamin has his eye on, in one place.",
  "icon": "🌿",
