@@ -347,14 +347,14 @@
   "retailer": "Canterbury",
   "name": "Open Hem Stadium Pant",
   "category": "Trousers",
-  "color": "Black",
+  "color": "Blue",
   "occasions": [
    "exercise",
    "hang"
   ],
   "why": "Cotton-lined track pants with a leg zip; built for warming up.",
   "price": 68.99,
-  "colorDetail": null,
+  "colorDetail": "Navy",
   "categoryDetail": "Open-hem stadium pants",
   "url": "https://canterburyusa.com/products/canterbury-open-hem-stadium-pant?variant=43532835291287",
   "img": "images/full/15.jpg",
@@ -469,7 +469,7 @@
   "retailer": "No Man Walks Alone",
   "name": "Raglan sweater in green-hued multicolor Norwegian Wool",
   "category": "Knitwear",
-  "color": "Multi/Print",
+  "color": "Green",
   "occasions": [
    "hang",
    "work",
@@ -640,7 +640,7 @@
   "retailer": "Scarpa",
   "name": "Mojito GTX",
   "category": "Shoes",
-  "color": "Grey",
+  "color": "Green",
   "occasions": [
    "exercise",
    "hang",
@@ -648,7 +648,7 @@
   ],
   "why": "A waterproof approach shoe for rainy travel days and long walks.",
   "price": 179.95,
-  "colorDetail": null,
+  "colorDetail": "Olive",
   "categoryDetail": "Mojito GTX",
   "url": "https://scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-30?variant=56048454697342",
   "img": "images/full/27.jpg",
@@ -956,7 +956,7 @@
   "retailer": "Universal Works",
   "name": "Brown Kennedy Stripe Duke Pant",
   "category": "Trousers",
-  "color": "Brown",
+  "color": "Beige/Tan",
   "occasions": [
    "dance",
    "work",
@@ -1222,7 +1222,7 @@
   "retailer": "Universal Works",
   "name": "Brown Kennedy Stripe Franck Jacket",
   "category": "Suits & Blazers",
-  "color": "Brown",
+  "color": "Beige/Tan",
   "occasions": [
    "work",
    "dressy",
@@ -1373,14 +1373,14 @@
   "retailer": "Yitai",
   "name": "Herringbone Selvedge Denim",
   "category": "Jeans",
-  "color": "Denim",
+  "color": "Grey",
   "occasions": [
    "hang",
    "work"
   ],
   "why": "Herringbone selvedge at a fair price; a 34 fits the hip.",
   "price": 160.0,
-  "colorDetail": "Herringbone",
+  "colorDetail": "Charcoal herringbone",
   "categoryDetail": "Herringbone selvedge denim",
   "url": "https://www.yitai.la/products/herringbone-selvedge-denim",
   "img": "images/full/57.jpg",
@@ -1397,7 +1397,7 @@
   "retailer": "Standard & Strange",
   "name": "George Coat, Handspun Herringbone",
   "category": "Jackets & Coats",
-  "color": "Blue",
+  "color": "Green",
   "occasions": [
    "dressy",
    "work"
@@ -1472,7 +1472,7 @@
   "retailer": "TOAST",
   "name": "Gabriel Cord Pants",
   "category": "Trousers",
-  "color": "Yellow/Gold",
+  "color": "Brown",
   "occasions": [
    "work",
    "dressy",
@@ -1655,14 +1655,14 @@
   "retailer": "Ralph Lauren",
   "name": "Shearling-Collar Corduroy Ranch Coat",
   "category": "Jackets & Coats",
-  "color": "Brown",
+  "color": "Blue",
   "occasions": [
    "dressy",
    "work"
   ],
   "why": "A corduroy ranch coat with a shearling collar; the coat for a cold trip.",
   "price": 1200.0,
-  "colorDetail": "Brown corduroy",
+  "colorDetail": "Navy corduroy with shearling collar",
   "categoryDetail": "Corduroy ranch coat with shearling collar",
   "url": "https://www.ralphlauren.com/men-clothing-jackets-coats-vests/shearling-collar-corduroy-ranch-coat/100066326.html",
   "img": "images/full/68.jpg",
@@ -1680,14 +1680,14 @@
   "retailer": "Ralph Lauren",
   "name": "The Wainwright Corduroy Down Jacket",
   "category": "Jackets & Coats",
-  "color": "Brown",
+  "color": "Red",
   "occasions": [
    "hang",
    "work"
   ],
   "why": "Down warmth in corduroy; a winter jacket that is not a puffer.",
   "price": 600.0,
-  "colorDetail": "Corduroy",
+  "colorDetail": "Red corduroy",
   "categoryDetail": "Corduroy down jacket",
   "url": "https://www.ralphlauren.com/men-clothing-jackets-coats-vests/the-wainwright-corduroy-down-jacket/100059326.html",
   "img": "images/full/69.jpg",
