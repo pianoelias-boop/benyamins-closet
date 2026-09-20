@@ -583,5 +583,444 @@
    "Your note: Cool, might fit me in the length. check the brand for more."
   ],
   "fabric": null
+ },
+ {
+  "id": 25,
+  "brand": "Drake's",
+  "retailer": "Drake's",
+  "name": "Navy Waxed Coverall Jacket",
+  "category": "Jackets & Coats",
+  "color": "Blue",
+  "occasions": [
+   "work",
+   "hang"
+  ],
+  "why": "Waxed cotton coverall; rain jacket for a city trip.",
+  "price": 1175.0,
+  "colorDetail": "Navy",
+  "categoryDetail": "Waxed cotton coverall jacket",
+  "url": "https://us.drakes.com/products/navy-waxed-cotton-coverall-jacket",
+  "img": "images/full/25.jpg",
+  "hi": true,
+  "desc": "A resounding piece of outerwear synonymous with the protean British weather. A hearty waxed cotton composition offers unrivalled patination that will only improve with wear, while patch and stud bellows pockets provide ample utility whether strolling in town or stalking in the country. The mid-wale corduroy tab collar and soft oxford cotton lining lend a sense of comfort to a timeless and rugged jacket that is just smart enough to throw on over a suit. 100% Cotton Made in Italy Waxed Cotton Three Outer Patch Pockets with Enamel Snaps Corduroy Collar Two-Way Zip Check Lining Please contact our ",
+  "details": [
+   "Your note: A waxed jacket that might fit the chest",
+   "Made in Italy"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 26,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "REWORK® WAX JACKET - V5",
+  "category": "Jackets & Coats",
+  "color": "Brown",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Reworked waxed cotton in brown and green.",
+  "price": 725.0,
+  "colorDetail": "Brown / green",
+  "categoryDetail": "Rework waxed jacket",
+  "url": "https://brut-clothing.us/products/rework%C2%AE-wax-jacket-v5-brown-green",
+  "img": "images/full/26.jpg",
+  "hi": true,
+  "desc": "The REWORK® WAX JACKET - V5 is crafted from old stock British Millerain dry waxed fabric in a patchwork style. Each jacket is one of a kind, made from vintage materials and quality hardware. Colors and shades may slightly vary from one jacket to another due to the unique nature of each piece. To honor this legacy, all of our REWORK® WAX JACKETS - V5 are cut and sewn by hand using vintage machinery in our atelier in Paris. Boxy and cropped fit. Two-way zip closure protected by a snap-button flap. Three front pockets and two large back pockets. Detachable throat latch and corduroy collar. Checke",
+  "details": [
+   "Your note: I think I would be an XL? Also color scheme is really similar to my leather bomber"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 27,
+  "brand": "Scarpa",
+  "retailer": "Scarpa",
+  "name": "Mojito GTX",
+  "category": "Shoes",
+  "color": "Grey",
+  "occasions": [
+   "exercise",
+   "hang",
+   "work"
+  ],
+  "why": "A waterproof approach shoe for rainy travel days and long walks.",
+  "price": 179.95,
+  "colorDetail": null,
+  "categoryDetail": "Mojito GTX",
+  "url": "https://scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-30?variant=56048454697342",
+  "img": "images/full/27.jpg",
+  "hi": true,
+  "desc": "Waterproof lifestyle sneaker for leisure and travel",
+  "details": [
+   "Your note: Allegedly super comfy"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 28,
+  "brand": "Mephisto",
+  "retailer": "Mephisto",
+  "name": "Match - Black",
+  "category": "Shoes",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang",
+   "work"
+  ],
+  "why": "Walking shoes built for all day on your feet.",
+  "price": 425.0,
+  "colorDetail": "Black",
+  "categoryDetail": "Match",
+  "url": "https://mephistousa.com/products/match-black",
+  "img": "images/full/28.jpg",
+  "hi": true,
+  "desc": "Our most iconic men’s shoe – and for good reason. The Match pairs handsome classic lines with absolutely unparalleled all-day comfort, guaranteed to become your go-to shoe for both long shifts and long trips. The unique speed lacing makes slipping them on a breeze and gives these kicks a sleek contemporary flare. A supple leather lining and unique midsole give the Match luxurious comfort and excellent arch support. Add to that our unrivaled build quality, and you’ve got footwear that’ll effortlessly (and stylishly) soak up the hours and miles for years to come.",
+  "details": [
+   "Your note: Allegedly super comfy"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 29,
+  "brand": "Mephisto",
+  "retailer": "Mephisto",
+  "name": "Endrik - Light Sand",
+  "category": "Shoes",
+  "color": "Beige/Tan",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A comfortable sneaker in sand for lighter trousers.",
+  "price": 174.5,
+  "colorDetail": "Light sand",
+  "categoryDetail": "Endrik",
+  "url": "https://mephistousa.com/collections/men-sneakers/products/endrik-light-sand",
+  "img": "images/full/29.jpg",
+  "hi": true,
+  "desc": "This sneaker has a sporty design and a great fit, giving it an elegant and original look. The SOFT-AIR midsole and SHOCK-ABSORBER help reduce shock to a minimum for a smooth, fatigue-free ride. AIR-RELAX technology respects the anatomy of the foot to prevent arch collapse. In addition to lacing, a side zip makes it easy to slip into the shoe without effort. The genuine leather lining guarantees a high standard of quality and comfort. This beige model for men features suede leather over the entire foot and smooth leather on the sides and forefoot.",
+  "details": [
+   "Your note: Should be really comfy. Pretty cool, would probably wear with lighter pants mostly"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 30,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "DOVER RUGGED CABLEKNIT CREWNECK SWEATER - UNDYED ANDEAN WOOL",
+  "category": "Knitwear",
+  "color": "White/Ivory",
+  "occasions": [
+   "hang",
+   "work",
+   "dressy"
+  ],
+  "why": "Undyed cable knit; a sweater that works with everything.",
+  "price": 378.0,
+  "colorDetail": "Ecru",
+  "categoryDetail": "Rugged cable sweater",
+  "url": "https://18east.co/collections/sweaters/products/dover-rugged-cable-ecru",
+  "img": "images/full/30.jpg",
+  "hi": true,
+  "desc": "“Earlier this year Samantha and I headed down to Lima, Peru to follow a lead on a new handloom knitwear manufacturer and were blown away with what we found. Small workshops, local yarns, generational expertise. A lot of similarities to our partners in India. We developed a handful of easy-wearing styles that will hopefully serve as a cornerstone of a growing partnership with the people and the region. We’ve been dying for the temps to drop so we could wear test the samples and, unsurprisingly, haven’t really taken them off since. Based on an incredible piece of vintage knitwear from my hometow",
+  "details": [],
+  "fabric": null
+ },
+ {
+  "id": 31,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Yellow British Wax Cotton Boston Parka",
+  "category": "Jackets & Coats",
+  "color": "Yellow/Gold",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "British waxed cotton in yellow; a rain parka that fits.",
+  "price": 169.0,
+  "colorDetail": "Yellow",
+  "categoryDetail": "Waxed cotton Boston parka",
+  "url": "https://universalworks.com/products/yellow-british-wax-cotton-boston-parka",
+  "img": "images/full/31.jpg",
+  "hi": true,
+  "desc": "Boston Parka is an oversized lightweight parka, inspired by military jackets and Scandinavian style. Generous in all its proportions, from its hood (to accommodate a hat) to the large 3D pockets. Size down for a closer fit, or adjust the sleeves and waist with the cord adjusters. Model is 6’1” with a 40” chest and a 32” waist, wearing a size ‘Large' top and size ’32' bottoms. Based in Lancashire, England, British Millerain has been a pioneer in the manufacture of waxed cotton for well over 100 years. With a dry handle, this is not a 'wet' wax, with a synthetic application to give some water-re",
+  "details": [
+   "Your note: Actually fits, cool raincoat",
+   "100% Cotton"
+  ],
+  "fabric": "100% Cotton"
+ },
+ {
+  "id": 32,
+  "brand": "3sixteen",
+  "retailer": "3sixteen",
+  "name": "Square Toe Side Zip Boot ~ Black Calf Leather",
+  "category": "Shoes",
+  "color": "Black",
+  "occasions": [
+   "dressy",
+   "work"
+  ],
+  "why": "A side-zip boot in black calf for dressed-up days.",
+  "price": 550.0,
+  "colorDetail": "Black calf",
+  "categoryDetail": "Square-toe side-zip boot",
+  "url": "https://www.3sixteen.com/collections/new/products/square-toe-side-zip-boot-black-calf-leather",
+  "img": "images/full/32.jpg",
+  "hi": true,
+  "desc": "The Square Toe Side Zip Boot pulls design detailing from some of our favorite vintage boots. We designed them to include the square toe and side zip shape usually found on 70’s campus boots combined with the apron toe panelling detail that's often seen on 60’s Beatle boots. These boots are manufactured exclusively for us in Portugal using a vegetable tanned calf leather that will age beautifully over time. The Italian cowhide upper has a supple hand with a matte finish that will soften and mold to your foot with wear. Goodyear welt construction and a thick, textured rubber sole offer maximum c",
+  "details": [
+   "Made in Portugal"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 33,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "GORECKI CARGO PANT - ANCIENT OLIVE DOUBLE WEAVE JACQUARD COTTON",
+  "category": "Trousers",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Jacquard cotton cargos in army green.",
+  "price": 178.0,
+  "colorDetail": "Army",
+  "categoryDetail": "Jacquard cargo trousers",
+  "url": "https://18east.co/collections/all/products/gorecki-cargo-army",
+  "img": "images/full/33.jpg",
+  "hi": true,
+  "desc": "One of our most beloved silhouettes is back. If you’ve never had a pair, trust us when we tell you that they’re about to become your favorite thing we make. Proudly made in India from an all-cotton, double weave jacquard that becomes more pronounced with each wash and wear. Machine wash cold & hang dry. Tumble drying makes the fabric more 3-dimensional and interesting but also shrinks the style slightly. This garment runs true to size. James is 6’1”, 29 waist with a 32 inseam and wears Medium.",
+  "details": [
+   "Machine wash cold & hang dry"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 34,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "JOSEPH COACH'S JACKET - NAVY ORGANIC COTTON SHERPA",
+  "category": "Jackets & Coats",
+  "color": "Blue",
+  "occasions": [
+   "hang"
+  ],
+  "why": "Cotton sherpa on one side, coach jacket on the other.",
+  "price": 378.0,
+  "colorDetail": "Navy / ecru / orange",
+  "categoryDetail": "Reversible sherpa coach jacket",
+  "url": "https://18east.co/collections/all/products/joseph-reversible-coach-jacket-navy-ecru-orange",
+  "img": "images/full/34.jpg",
+  "hi": true,
+  "desc": "\"We simplified this season's Joseph jacket after receiving a good amount of feedback that its reversible predecessor felt unnecessarily tight when worn fleece side in. It's now just an easy, deep pile shirt. Is it insane to take one of everything from this collection? - The Management The Joseph features boxy fit, custom-tooled button front closure, two oversized, button-through hip pockets and a nylon micro-ripstop backed turn down collar. Proudly made in India from 100% organic cotton deep pile sherpa. This style runs true to size. We recommend taking your normal alpha size or sizing up for ",
+  "details": [
+   "100% organic cotton deep pile sherpa"
+  ],
+  "fabric": "100% organic cotton deep pile sherpa"
+ },
+ {
+  "id": 35,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "PILCHUCK HAND-EMBROIDERED OVERSHIRT - CLAY / BUTTER /TANGERINE / FOG / ECRU / LAVENDAR COTTON FLANNEL WITH KANTHA STITCHING",
+  "category": "Shirts",
+  "color": "Multi/Print",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A flannel with embroidery; warm enough for a shirt-jacket.",
+  "price": 268.0,
+  "colorDetail": "Clay / lavender / ecru",
+  "categoryDetail": "Embroidered flannel shirt",
+  "url": "https://18east.co/collections/all/products/embroidered-pilchuck-flannel-clay-lavender-ecru",
+  "img": "images/full/35.jpg",
+  "hi": true,
+  "desc": "Embroidered entirely by hand with butter-hued cotton yarn, the Pilchuck is a subtly handcraft-focused update to our Caleb straight hem work shirt with two open top patch pockets and hidden hip pockets on the side seams. Great fit, fabric and details on this one. Proudly made in India from 100% cotton twill flannel. We recommend taking your usual alpha size on this style.",
+  "details": [
+   "100% cotton twill flannel"
+  ],
+  "fabric": "100% cotton twill flannel"
+ },
+ {
+  "id": 36,
+  "brand": "ONI Denim",
+  "retailer": "Son of a Stag",
+  "name": "ONI Denim 822ZR-LBR 20oz Brown Weft 'Secret Denim' Extra Wide Tapered Jean - One Wash",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Relaxed through the hip with a gentle taper; brown weft denim.",
+  "price": 329.0,
+  "colorDetail": "Brown weft",
+  "categoryDetail": "822LZ relaxed jeans",
+  "url": "https://sonofastag.com/products/oni-denim-822lz-lbr",
+  "img": "images/full/36.jpg",
+  "hi": true,
+  "desc": "The 822 silhouette showcases a super wide tapered fit, ideal if you like a lot of room in the thighs. This special denim boasts a classic 5 pocket design and ONI's usual deer skin leather patch packs its signature punch. Weighing in at 20 ounces, this denim features an indigo ward and a light brown weft, and has been woven on vintage shuttle looms on a super-low tension to achieve a finish which is perfectly imperfect.",
+  "details": [
+   "Your note: Relaxed fit but with a reasonable taper"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 37,
+  "brand": "Full Count",
+  "retailer": "Full Count",
+  "name": "0105SSW - Wide Denim (Super Smooth) -",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A wide, plain Japanese jean for normal days.",
+  "price": 365.0,
+  "colorDetail": "Indigo",
+  "categoryDetail": "0105 wide jeans",
+  "url": "https://fullcount.co/collections/0105-silhouette/products/0105ssw",
+  "img": "images/full/37.jpg",
+  "hi": true,
+  "desc": "11.5oz Original Selvedge Denim 0105 Wide Silhouette Zimbabwean cotton 100% Made in Okayama, Japan. For the best fit, we recommend measuring a similar jean, jacket, or shirt you own. Fullcount has always prioritized stress-free comfort, and has offered our 13.7oz denim as our flagship material for many years. While maintaining that same fade potential, we have now created a lighter and softer 11.5oz SS denim. Aside from being ridiculously comfortable, this material also nicely reproduces that unique look you find in vintage items. When this fabric was done, expectations ran high that we had cre",
+  "details": [
+   "Your note: For when I want a normal jean, size 31",
+   "100% Made in Okayama",
+   "Made in Okayama"
+  ],
+  "fabric": "100% Made in Okayama"
+ },
+ {
+  "id": 38,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Wander etc. FD/08 Low in Black Asphalt/Gum Hairy Suede",
+  "category": "Shoes",
+  "color": "Black",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Hairy suede on a gum sole; odd in a good way.",
+  "price": 99.0,
+  "colorDetail": "Black asphalt hairy suede",
+  "categoryDetail": "Wander FD-08",
+  "url": "https://universalworks.com/products/low-black-asphalt-gum-hairy-suede-wander-fd-08",
+  "img": "images/full/38.jpg",
+  "hi": true,
+  "desc": "wander .etc is a shoe brand from Indonesia, offering urban footwear that combines style, practicality, and comfort for various situations. The FD/08 low is a lower version of the FD/08, with slimmer laces, featuring a traditional suede upper and Wander's staple chunky sole. *Please note - UK 4 - 8 fit true to size, UK9 - UK12 we recommend you size up one size.*",
+  "details": [],
+  "fabric": null
+ },
+ {
+  "id": 39,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Navy Derby Stripe Duke Pant",
+  "category": "Trousers",
+  "color": "Blue",
+  "occasions": [
+   "dance",
+   "work",
+   "hang"
+  ],
+  "why": "Seersucker that fits; cool on a dance floor and on a plane.",
+  "price": 69.0,
+  "colorDetail": "Navy derby stripe seersucker",
+  "categoryDetail": "Duke pants",
+  "url": "https://universalworks.com/products/navy-derby-stripe-duke-pant",
+  "img": "images/full/39.jpg",
+  "hi": true,
+  "desc": "A wide-leg pant with slight taper, the Duke pants have a single pleat front, a fixed waistband and two rear back pockets. Model is 6’1” with a 40” chest and a 32” waist, wearing a size ‘Large' top and size ’32' bottoms. A classic seersucker, woven with varying tension to create the classic seersucker structure. In 100% cotton, with subtle tonal stripes. • Wide leg. • Slight taper. • Single pleat front. • Two rear patch pockets. • Two front hand pockets with internal ticket pocket. • Button fly. • Fabric Content: 100% Cotton. • Washcare: Wash at 30 degrees. Do not bleach. Do not tumble dry. War",
+  "details": [
+   "Your note: Seersucker that will actually fit me, could be good dancing",
+   "100% cotton",
+   "100% Cotton"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 40,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Brown Kennedy Stripe Duke Pant",
+  "category": "Trousers",
+  "color": "Brown",
+  "occasions": [
+   "dance",
+   "work",
+   "hang"
+  ],
+  "why": "Light brown seersucker with a stripe; breathes.",
+  "price": 85.0,
+  "colorDetail": "Brown Kennedy stripe seersucker",
+  "categoryDetail": "Duke pants",
+  "url": "https://universalworks.com/products/brown-kennedy-stripe-duke-pant",
+  "img": "images/full/40.jpg",
+  "hi": true,
+  "desc": "A wide-leg pant with slight taper, the Duke pants have a single pleat front, a fixed waistband and two rear back pockets. Model is 6’0\" with a 37\" chest and a 30.5\" waist, wearing a size ‘Large' top and size ’32' bottoms. A summer classic, an American-style, casual suiting fabric, synonymous with the Preppy look. • Wide leg. • Slight taper. • Single pleat front. • Two rear patch pockets. • Two front hand pockets with internal ticket pocket. • Button fly. • Fabric Content: 100% Cotton. • Washcare: Wash at 30 degrees. Do not bleach. Do not tumble dry. Warm iron. Do not dry clean. • Please be awa",
+  "details": [
+   "Your note: Seersucker in a light brown with a stripe",
+   "100% Cotton"
+  ],
+  "fabric": "100% Cotton"
+ },
+ {
+  "id": 41,
+  "brand": "Universal Surplus",
+  "retailer": "Universal Surplus",
+  "name": "UNIVERSAL FRENCH PARATROOPER PANTS - BLACK",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "hang"
+  ],
+  "why": "Paratrooper pants in black; specific, and cool.",
+  "price": 225.0,
+  "colorDetail": "Black",
+  "categoryDetail": "French paratrooper pants",
+  "url": "https://universal-surplus.com/collections/collection-universal-surplus/products/universal-french-paratrooper-pants-black?variant=51829160214856",
+  "img": "images/full/41.jpg",
+  "hi": true,
+  "desc": "DESCRIPTION Developed for French airborne troops and used during the Indochina War in the early 1950s, these jump trousers were built specifically for parachute operations and jungle combat. Worn by paratroopers including Foreign Legion units, they combine durability, mobility, and equipment carrying capacity in a purpose driven design. Produced in green grey and in early French lizard camouflage, the pants feature large high placed cargo pockets accessible under webbing, reinforced knees and seat, and adjustment tabs to secure the fit during jumps. The cut is roomy and functional, shaped by r",
+  "details": [
+   "Your note: The measurements are not all available but I think they would fit and they are cool but pretty specific.",
+   "Made in China"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 42,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE RAIN CROPPED JACKET",
+  "category": "Jackets & Coats",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A cropped rain jacket that should actually fit.",
+  "price": 460.0,
+  "colorDetail": "Forest green",
+  "categoryDetail": "Cropped rain jacket",
+  "url": "https://brut-clothing.us/products/the-rain-cropped-jacket-forest-green?variant=52723545342285",
+  "img": "images/full/42.jpg",
+  "hi": true,
+  "desc": "Technical reinterpretation from our vintage archives. The RAIN CROPPED JACKET is crafted from waterproof 3 layers fabric. Hidden air vents make this jacket not only waterproof and windproof, but also highly breathable.",
+  "details": [
+   "Your note: Rain jacket that should actually fit"
+  ],
+  "fabric": null
  }
 ]
