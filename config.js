@@ -46,15 +46,18 @@ window.CLOSET_CONFIG = {
  },
  "occasions": [
   {"key": "work", "label": "For work trips",
-   "auto": {"categories": ["Shirts", "Knitwear", "Trousers", "Jackets & Coats", "Suits & Blazers", "Shoes"], "not": "swim|board short|sweatpant|hoodie|jogger|trail|running|distressed|graphic|logo"}},
+   "auto": {"categories": ["Shirts", "Knitwear", "Trousers", "Jeans", "Jackets & Coats", "Suits & Blazers", "Shoes"], "not": "swim|board short|sweatpant|hoodie|jogger|trail|running|distressed|graphic|logo|embroider|print"}},
   {"key": "dance", "label": "For dancing with friends",
-   "auto": {"all": ["cotton|linen|merino|wool|tencel|lyocell|hemp|rayon|silk|seersucker|khadi", "linen|seersucker|poplin|broadcloth|lightweight|light[- ]weight|wide[- ]leg|pleat|relaxed|open weave|open-weave|airy|breathable|stretch|knit|jersey|drape|featherweight"], "not": "jacket|coat|blazer|parka|waxed|\\bdown\\b|boot|heavyweight|heavy[- ]weight|1[4-9] ?oz|2[0-9] ?oz"}},
+   "auto": {"all": ["cotton|linen|merino|wool|tencel|lyocell|hemp|rayon|silk|seersucker|khadi", "linen|seersucker|poplin|broadcloth|lightweight|light[- ]weight|wide[- ]leg|pleat|relaxed|open weave|open-weave|airy|breathable|stretch|knit|jersey|drape|featherweight|camp collar|rayon"], "not": "jacket|coat|blazer|parka|waxed|\\bdown\\b|boot|heavyweight|heavy[- ]weight|1[4-9] ?oz|2[0-9] ?oz|cargo|sweat"}},
   {"key": "hang", "label": "Hanging out",
-   "auto": {"categories": ["Tees & Polos", "Jeans", "Shorts & Swim", "Knitwear", "Trousers", "Shoes"], "not": "blazer|suit|tailored|dress shirt"}},
+   "auto": {"categories": ["Tees & Polos", "Jeans", "Shorts & Swim", "Knitwear", "Trousers", "Shoes", "Jackets & Coats"], "any": "\\btee\\b|t-shirt|hoodie|sweatshirt|sweatpant|cargo|fatigue|denim|jean|canvas|sneaker|work pant|chore|coach|parka|fleece|sherpa|shorts?\\b|crewneck|cable", "not": "blazer|\\bsuit\\b|tailored|dress shirt|loafer|mohair|overcoat|silk"}},
+  {"key": "dinner", "label": "Going out to eat",
+   "auto": {"categories": ["Shirts", "Knitwear", "Trousers", "Jeans", "Shoes", "Suits & Blazers", "Jackets & Coats"], "any": "camp collar|loafer|cardigan|mohair|overshirt|corduroy|\\bcord\\b|pleat|stripe|embroider|ikat|seersucker|herringbone|knit polo|bomber|patchwork|jacquard|boot\\b", "not": "sweatpant|swim|hoodie|trail|running|cargo|parka|\\bdown\\b|waxed"}},
   {"key": "dressy", "label": "Dressy",
-   "auto": {"any": "blazer|\\bsuit\\b|loafer|wool|cashmere|mohair|silk|tailored|dress (pant|trouser|shirt)|oxford|tweed|donegal|flannel trouser|sport ?coat"}},
+   "auto": {"any": "blazer|\\bsuit\\b|penny loafer|cashmere|mohair|silk|tailored|dress (pant|trouser|shirt)|overcoat|tweed|donegal|flannel trouser|sport ?coat|shearling|side[- ]zip"}},
   {"key": "exercise", "label": "For exercise",
-   "auto": {"any": "merino|sweatpant|sweatshirt|track|running|trail|hik(e|ing)|athletic|performance|quick[- ]dry|technical|\\bgym\\b|swim|stadium|sneaker|trainer|runner"}}
+   "auto": {"any": "merino|sweatpant|sweatshirt|track|running|trail|hik(e|ing)|athletic|performance|quick[- ]dry|technical|\\bgym\\b|swim|stadium|sneaker|trainer|runner|approach"}}
  ],
+
  "resale": {"ebayCategory": "1059", "poshmarkDepartment": "Men"}
 };

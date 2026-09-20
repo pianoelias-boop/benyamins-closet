@@ -27,8 +27,8 @@ Put each piece on a row of `build/pieces_to_add.csv` (the columns are documented
 fabric line and first photo come from the store; for any other store give `price` and `img` too. Rows already
 in the closet are skipped, so the file doubles as the record of what was added. Categories: Shirts,
 Tees & Polos, Knitwear, Trousers, Jeans, Shorts & Swim, Jackets & Coats, Suits & Blazers, Shoes, Accessories.
-Occasions: `work` (For work trips), `dance` (For dancing with friends), `hang` (Hanging out), `dressy`,
-`exercise` (For exercise).
+Occasions: `work` (For work trips), `dance` (For dancing with friends), `hang` (Hanging out), `dinner` (Going out
+to eat), `dressy`, `exercise` (For exercise).
 
 To change a piece later, edit its entry in `build/extras.json` and run `python3 build/make_data.py`. To remove
 one, delete the entry and its photo in `images/full/`.

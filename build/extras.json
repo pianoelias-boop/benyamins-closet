@@ -31,11 +31,11 @@
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
-   "work",
    "dance",
-   "hang"
+   "dinner",
+   "work"
   ],
-  "why": "Light seersucker outerwear you can keep on for a dance and pack flat for a trip.",
+  "why": "Light seersucker outerwear: fine over a shirt at dinner, and cool enough to keep on for a dance.",
   "price": 115.0,
   "colorDetail": "Hickory stripe seersucker",
   "categoryDetail": "Seersucker hunting jacket",
@@ -56,10 +56,10 @@
   "category": "Trousers",
   "color": "Brown",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "work"
   ],
-  "why": "A vintage stripe that dresses up a plain shirt.",
+  "why": "A vintage stripe that reads put-together without trying; dinner or a day of meetings.",
   "price": 109.99,
   "colorDetail": "Brown stripe",
   "categoryDetail": "Old-time stripe trousers",
@@ -104,10 +104,11 @@
   "category": "Trousers",
   "color": "Red",
   "occasions": [
+   "dinner",
    "hang",
    "work"
   ],
-  "why": "Relaxed, double-pleated canvas that fades with wear.",
+  "why": "Relaxed, double-pleated canvas that fades with wear; dinner on a warm night or a weekend.",
   "price": 125.0,
   "colorDetail": "Nantucket Red",
   "categoryDetail": "Double-pleated cotton trousers",
@@ -130,10 +131,11 @@
   "category": "Tees & Polos",
   "color": "White/Ivory",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "dance",
+   "hang"
   ],
-  "why": "A knit tee with real texture; reads as more than a tee.",
+  "why": "A knit tee with real texture: breathes on a dance floor, looks considered at a table.",
   "price": 230.0,
   "colorDetail": "Ivory checker",
   "categoryDetail": "Checker knit tee",
@@ -227,9 +229,9 @@
   "color": "Green",
   "occasions": [
    "hang",
-   "work"
+   "dinner"
   ],
-  "why": "A corduroy overshirt to wear as light outerwear.",
+  "why": "A corduroy overshirt as light outerwear, for weekends and casual dinners.",
   "price": 62.0,
   "colorDetail": "Two-tone green",
   "categoryDetail": "Patchwork corduroy overshirt",
@@ -250,8 +252,8 @@
   "category": "Trousers",
   "color": "Blue",
   "occasions": [
-   "hang",
    "dance",
+   "hang",
    "work"
   ],
   "why": "High-waisted, wide-legged hickory stripe: cotton that moves.",
@@ -276,10 +278,9 @@
   "color": "Multi/Print",
   "occasions": [
    "dance",
-   "hang",
-   "dressy"
+   "dinner"
   ],
-  "why": "Rayon drapes and breathes; the maps are the conversation.",
+  "why": "Rayon drapes and breathes for dancing; the maps carry a dinner conversation.",
   "price": 225.0,
   "colorDetail": "USAF rayon maps",
   "categoryDetail": "Map shirt",
@@ -301,9 +302,9 @@
   "color": "Multi/Print",
   "occasions": [
    "dance",
-   "hang"
+   "dinner"
   ],
-  "why": "Embroidered cotton jeans with some give.",
+  "why": "Embroidered cotton jeans with some give: a dancing pair that also goes out to eat.",
   "price": 188.0,
   "colorDetail": "Mosaic print",
   "categoryDetail": "Printed mosaic jeans",
@@ -325,9 +326,10 @@
   "color": "Black",
   "occasions": [
    "hang",
-   "work"
+   "work",
+   "dinner"
   ],
-  "why": "A wide five-pocket jean in black; goes anywhere.",
+  "why": "A wide black jean that goes from a weekend to a plane to a dinner.",
   "price": 54.0,
   "colorDetail": "Stonewashed black",
   "categoryDetail": "Wide 5 jeans",
@@ -373,10 +375,10 @@
   "category": "Jackets & Coats",
   "color": "Black",
   "occasions": [
-   "hang",
+   "dinner",
    "dressy"
   ],
-  "why": "A black jacket with a shine for evenings.",
+  "why": "A black jacket with a shine for evenings out.",
   "price": 360.0,
   "colorDetail": "Shine black",
   "categoryDetail": "Night Walker jacket",
@@ -397,10 +399,10 @@
   "category": "Knitwear",
   "color": "Grey",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "hang"
   ],
-  "why": "Hand-knit merino in colour patches; a statement cardigan.",
+  "why": "Hand-knit merino in colour patches; a cardigan for dinner or a slow Sunday.",
   "price": 656.0,
   "colorDetail": "Grey with colour patches",
   "categoryDetail": "Sampler squares cardigan",
@@ -420,9 +422,10 @@
   "color": "Brown",
   "occasions": [
    "work",
+   "dinner",
    "dressy"
   ],
-  "why": "Merino, alpaca and linen herringbone with an easy waist; travels well.",
+  "why": "Merino, alpaca and linen herringbone with an easy waist: travels well and looks dressed.",
   "price": 495.0,
   "colorDetail": "Brown herringbone",
   "categoryDetail": "Walk easy trousers",
@@ -446,10 +449,10 @@
   "category": "Trousers",
   "color": "Denim",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "dance"
   ],
-  "why": "Indigo denim shot with gold; a trouser with presence.",
+  "why": "Indigo denim shot with gold: a trouser with presence for dinner, light enough to dance in.",
   "price": 270.0,
   "colorDetail": "Indigo and gold",
   "categoryDetail": "Wendy trousers",
@@ -471,11 +474,11 @@
   "category": "Knitwear",
   "color": "Green",
   "occasions": [
-   "hang",
    "work",
-   "dressy"
+   "dinner",
+   "hang"
   ],
-  "why": "Norwegian wool in greens; warm enough for a winter trip.",
+  "why": "Norwegian wool in greens; warm enough for a winter trip and handsome enough for dinner.",
   "price": 565.0,
   "colorDetail": "Green-hued multicolour Norwegian wool",
   "categoryDetail": "Raglan sweater",
@@ -521,8 +524,7 @@
   "category": "Trousers",
   "color": "Multi/Print",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner"
   ],
   "why": "Embroidered trousers with a story; for going out.",
   "price": 495.0,
@@ -569,7 +571,7 @@
   "category": "Knitwear",
   "color": "White/Ivory",
   "occasions": [
-   "hang",
+   "dinner",
    "dressy"
   ],
   "why": "Ivory mohair; soft, light and a little dressy.",
@@ -643,8 +645,8 @@
   "color": "Green",
   "occasions": [
    "exercise",
-   "hang",
-   "work"
+   "work",
+   "hang"
   ],
   "why": "A waterproof approach shoe for rainy travel days and long walks.",
   "price": 179.95,
@@ -667,9 +669,8 @@
   "category": "Shoes",
   "color": "Black",
   "occasions": [
-   "exercise",
-   "hang",
-   "work"
+   "work",
+   "hang"
   ],
   "why": "Walking shoes built for all day on your feet.",
   "price": 425.0,
@@ -716,11 +717,11 @@
   "category": "Knitwear",
   "color": "White/Ivory",
   "occasions": [
-   "hang",
    "work",
-   "dressy"
+   "dinner",
+   "hang"
   ],
-  "why": "Undyed cable knit; a sweater that works with everything.",
+  "why": "Undyed cable knit; a sweater that works on a trip, at dinner or at home.",
   "price": 378.0,
   "colorDetail": "Ecru",
   "categoryDetail": "Rugged cable sweater",
@@ -765,9 +766,10 @@
   "color": "Black",
   "occasions": [
    "dressy",
+   "dinner",
    "work"
   ],
-  "why": "A side-zip boot in black calf for dressed-up days.",
+  "why": "A side-zip boot in black calf for dressed-up days and evenings out.",
   "price": 550.0,
   "colorDetail": "Black calf",
   "categoryDetail": "Square-toe side-zip boot",
@@ -836,9 +838,9 @@
   "color": "Multi/Print",
   "occasions": [
    "hang",
-   "work"
+   "dinner"
   ],
-  "why": "A flannel with embroidery; warm enough for a shirt-jacket.",
+  "why": "A flannel with embroidery: warm enough for a shirt-jacket, interesting enough for dinner.",
   "price": 268.0,
   "colorDetail": "Clay / lavender / ecru",
   "categoryDetail": "Embroidered flannel shirt",
@@ -933,9 +935,9 @@
   "occasions": [
    "dance",
    "work",
-   "hang"
+   "dinner"
   ],
-  "why": "Seersucker that fits; cool on a dance floor and on a plane.",
+  "why": "Seersucker that fits: cool on a dance floor, right on a plane and at the table after.",
   "price": 69.0,
   "colorDetail": "Navy derby stripe seersucker",
   "categoryDetail": "Duke pants",
@@ -960,9 +962,9 @@
   "occasions": [
    "dance",
    "work",
-   "hang"
+   "dinner"
   ],
-  "why": "Light brown seersucker with a stripe; breathes.",
+  "why": "Light brown seersucker with a stripe; breathes for dancing, dresses up for dinner.",
   "price": 85.0,
   "colorDetail": "Brown Kennedy stripe seersucker",
   "categoryDetail": "Duke pants",
@@ -1032,11 +1034,10 @@
   "category": "Knitwear",
   "color": "Green",
   "occasions": [
-   "hang",
    "work",
-   "dressy"
+   "dinner"
   ],
-  "why": "A marled green cardigan for layering on trips.",
+  "why": "A marled green cardigan for layering on trips and going out to eat.",
   "price": 318.0,
   "colorDetail": "Dark green marl",
   "categoryDetail": "Fola cardigan",
@@ -1057,10 +1058,11 @@
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
+   "dinner",
    "dressy",
    "work"
   ],
-  "why": "The jacket half of a handwoven ticking-stripe suit.",
+  "why": "The jacket half of a handwoven ticking-stripe suit: non-traditional suiting for dinner or a smart trip.",
   "price": 278.0,
   "colorDetail": "Ticking stripe",
   "categoryDetail": "Study jacket",
@@ -1081,8 +1083,7 @@
   "category": "Shorts & Swim",
   "color": "Blue",
   "occasions": [
-   "hang",
-   "dance"
+   "hang"
   ],
   "why": "Seersucker shorts with interesting pockets.",
   "price": 125.0,
@@ -1106,10 +1107,9 @@
   "color": "Denim",
   "occasions": [
    "hang",
-   "work",
-   "dressy"
+   "dinner"
   ],
-  "why": "Double-pleated big jeans in raw indigo.",
+  "why": "Double-pleated big jeans in raw indigo; casual, and put-together enough for dinner.",
   "price": 228.0,
   "colorDetail": "Raw indigo / tobacco",
   "categoryDetail": "Calisto pleated jeans",
@@ -1199,10 +1199,9 @@
   "category": "Jackets & Coats",
   "color": "White/Ivory",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner"
   ],
-  "why": "An ecru bomber in a raised flower weave.",
+  "why": "An ecru bomber in a raised flower weave; an evening-out jacket.",
   "price": 240.0,
   "colorDetail": "Ecru 3D flower",
   "categoryDetail": "3D flower bomber jacket",
@@ -1224,11 +1223,11 @@
   "category": "Suits & Blazers",
   "color": "Beige/Tan",
   "occasions": [
-   "work",
+   "dinner",
    "dressy",
    "dance"
   ],
-  "why": "Seersucker jacket to match the Duke pants: an unstructured suit.",
+  "why": "Seersucker jacket to match the Duke pants: an unstructured suit for dinner, or a dance.",
   "price": 196.0,
   "colorDetail": "Brown Kennedy stripe seersucker",
   "categoryDetail": "Franck jacket",
@@ -1300,9 +1299,9 @@
   "occasions": [
    "dance",
    "work",
-   "hang"
+   "dinner"
   ],
-  "why": "Peached poplin in the Dutch cut; soft and light.",
+  "why": "Peached poplin in the Dutch cut; soft and light for dancing, neat enough for dinner.",
   "price": 134.0,
   "colorDetail": "Brown peached poplin",
   "categoryDetail": "Dutch pants",
@@ -1351,10 +1350,10 @@
   "category": "Jeans",
   "color": "Denim",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "hang"
   ],
-  "why": "Embroidered boot-cut denim; size up for the hip.",
+  "why": "Embroidered boot-cut denim; size up for the hip, wear out to eat.",
   "price": 120.0,
   "colorDetail": "Indigo with songbird embroidery",
   "categoryDetail": "Songbird embroidered denim",
@@ -1400,9 +1399,9 @@
   "color": "Green",
   "occasions": [
    "dressy",
-   "work"
+   "dinner"
   ],
-  "why": "Handspun herringbone overcoat; the dressiest thing here.",
+  "why": "Handspun herringbone overcoat; the dressiest thing here, for evenings out.",
   "price": 799.0,
   "colorDetail": "Midnight teal / iron herringbone",
   "categoryDetail": "George coat",
@@ -1475,10 +1474,9 @@
   "color": "Brown",
   "occasions": [
    "work",
-   "dressy",
-   "hang"
+   "dinner"
   ],
-  "why": "Cotton corduroy in amber; a trouser for autumn trips.",
+  "why": "Cotton corduroy in amber; a trouser for autumn trips and dinners.",
   "price": 315.0,
   "colorDetail": "Golden amber",
   "categoryDetail": "Gabriel cord trousers",
@@ -1504,10 +1502,10 @@
   "color": "Beige/Tan",
   "occasions": [
    "dance",
-   "work",
+   "dinner",
    "dressy"
   ],
-  "why": "Handwoven ikat cotton; breathes, and dresses up.",
+  "why": "Handwoven ikat cotton; breathes for dancing, and dresses up for dinner.",
   "price": 430.0,
   "colorDetail": "Neutral ikat",
   "categoryDetail": "Shadow cotton ikat shirt",
@@ -1531,8 +1529,8 @@
   "category": "Shorts & Swim",
   "color": "Green",
   "occasions": [
-   "hang",
-   "exercise"
+   "exercise",
+   "hang"
   ],
   "why": "Board shorts that might actually fit.",
   "price": 110.0,
@@ -1581,11 +1579,11 @@
   "category": "Shoes",
   "color": "Brown",
   "occasions": [
-   "work",
+   "dinner",
    "dressy",
-   "hang"
+   "work"
   ],
-  "why": "A casual penny loafer that still passes at dinner; resoleable.",
+  "why": "A penny loafer casual enough for dinner, dressy enough for a good one; resoleable.",
   "price": 348.0,
   "colorDetail": "Brown Chromexcel",
   "categoryDetail": "Penny loafer, leather sole",
@@ -1633,10 +1631,10 @@
   "category": "Jeans",
   "color": "Blue",
   "occasions": [
-   "hang",
-   "dressy"
+   "dinner",
+   "hang"
   ],
-  "why": "Striped cotton denim in a straight leg; a jean that reads as a trouser.",
+  "why": "Striped cotton denim in a straight leg; a jean that reads as a trouser at dinner.",
   "price": 180.0,
   "colorDetail": "Blue stripe",
   "categoryDetail": "Striped straight-leg jeans",
@@ -1658,9 +1656,9 @@
   "color": "Blue",
   "occasions": [
    "dressy",
-   "work"
+   "dinner"
   ],
-  "why": "A corduroy ranch coat with a shearling collar; the coat for a cold trip.",
+  "why": "A corduroy ranch coat with a shearling collar; the coat for a cold night out.",
   "price": 1200.0,
   "colorDetail": "Navy corduroy with shearling collar",
   "categoryDetail": "Corduroy ranch coat with shearling collar",
@@ -1732,8 +1730,7 @@
   "color": "Blue",
   "occasions": [
    "hang",
-   "work",
-   "dressy"
+   "work"
   ],
   "why": "A made-to-order fisherman's gansey in 5-ply worsted wool; the one sweater for a lifetime.",
   "price": 700.0,
@@ -1758,11 +1755,11 @@
   "category": "Trousers",
   "color": "Blue",
   "occasions": [
+   "dinner",
    "dressy",
-   "work",
    "dance"
   ],
-  "why": "Handwoven ticking stripe in a wide cut: non-traditional suiting.",
+  "why": "Handwoven ticking stripe in a wide cut: non-traditional suiting that moves.",
   "price": 268.0,
   "colorDetail": "Dark blue ticking stripe",
   "categoryDetail": "Handwoven wide-cut trousers",

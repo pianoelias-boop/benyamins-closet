@@ -43,7 +43,9 @@ has any hearts. The closet itself is the taste until the notebook fills.
 - Favour olive and green, brown, ecru, indigo and midnight teal; a bright works as a stripe or a pattern on a
   natural ground.
 - Pieces that breathe and move are prized: he dances (Lindy Hop) and travels for work, so linen, seersucker,
-  poplin, open-weave wool and lightweight cotton in a wide leg score twice.
+  poplin, open-weave wool and lightweight cotton in a wide leg score twice. "Hanging out" means genuinely
+  casual (tees, jeans, cargos, sweats); "Going out to eat" means put-together but not dressy (camp shirts,
+  good trousers, loafers, cardigans with character); "Dressy" is tailoring, overcoats, penny loafers.
 - Rules from the owner: $50–$500 list, at least 70% natural fibre, reputable brands only.
 - **Steer clear of slim, skinny and tapered legs** in trousers, jeans and shorts; wide, straight, relaxed and
   pleated legs are what he saves. A relaxed Japanese jean with a gentle taper is the one exception he has noted.
