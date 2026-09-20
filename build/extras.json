@@ -290,5 +290,298 @@
    "Your note: Really cool shirt made from two actual (not reproduced) USAF rayon maps"
   ],
   "fabric": null
+ },
+ {
+  "id": 13,
+  "brand": "Found",
+  "retailer": "Found",
+  "name": "Mosaic Pants",
+  "category": "Jeans",
+  "color": "Multi/Print",
+  "occasions": [
+   "dance",
+   "hang"
+  ],
+  "why": "Embroidered cotton jeans with some give.",
+  "price": 188.0,
+  "colorDetail": "Mosaic print",
+  "categoryDetail": "Printed mosaic jeans",
+  "url": "https://found.store/products/printed-mosaic-jeans",
+  "img": "images/full/13.jpg",
+  "hi": true,
+  "desc": "Our Mosaic Pants are inspired by traditional Indo-Aryan patterns commonly found on tapestries, rugs, and murals. These patterns often depict the presence and beauty of life and nature. The garment features a breathable yet durable cotton canvas fabric and light distressing. Unisex, Relaxed Fit. True to Size. Mid-Weight, Designed to be worn during all Seasons. Man model (Micky) is 6'1 and is wearing a size 32.",
+  "details": [
+   "Your note: Cotton embroidered pants, cool for dancing?"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 14,
+  "brand": "Stan Ray",
+  "retailer": "Stan Ray",
+  "name": "Wide 5 (Stonewashed Black Denim)",
+  "category": "Jeans",
+  "color": "Black",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A wide five-pocket jean in black; goes anywhere.",
+  "price": 54.0,
+  "colorDetail": "Stonewashed black",
+  "categoryDetail": "Wide 5 jeans",
+  "url": "https://www.stanray.com/products/wide-5-stonewashed-black-denim-aw25",
+  "img": "images/full/14.jpg",
+  "hi": true,
+  "desc": "The Wide 5 combines modern styling with classic durability. Made from 12oz Z Twill Denim and 100% cotton, these jeans are designed for comfort and built to last. With a Loose Fit with a slight taper for added comfort and room to move, the Wide 5 features monster back pockets for practicality and riveted front pockets for extra durability. The sturdy denim fabric ensures long-lasting wear, while the relaxed fit provides a comfortable, everyday wearability. 12oz Z Twill Denim 100% Cotton Composition 23cm Leg Opening Loose Fit Monster Back Pockets Riveted Front Pockets",
+  "details": [
+   "Your note: When they go on sale, also I like their off-white/cream color for when that's back in my size",
+   "100% cotton"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 15,
+  "brand": "Canterbury",
+  "retailer": "Canterbury",
+  "name": "Canterbury Open Hem Stadium Pant",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "Cotton-lined track pants with a leg zip; built for warming up.",
+  "price": 68.99,
+  "colorDetail": null,
+  "categoryDetail": "Open-hem stadium pants",
+  "url": "https://canterburyusa.com/products/canterbury-open-hem-stadium-pant?variant=43532835291287",
+  "img": "images/full/15.jpg",
+  "hi": true,
+  "desc": "CCC Open Hem Stadium Pant Experience unparalleled comfort and support, whether you're training or unwinding, with the men's open hem stadium pants by Canterbury . The elasticated waist and drawstring cord ensure a secure fit, while the cotton inner lining provides a soft feel against your skin. With full-length zips along the outer legs, these pants can be effortlessly slipped on or off when time is of the essence. The zipped side pockets keep your valuables secure. Complete with the iconic Canterbury logo, they are a testament to your love for rugby! Feature: While they can be used for traini",
+  "details": [
+   "Your note: Cotton lining, wide leg, zipper at the leg for easy removal"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 16,
+  "brand": "Standard & Strange",
+  "retailer": "Standard & Strange",
+  "name": "Night Walker Jacket - Shine Black",
+  "category": "Jackets & Coats",
+  "color": "Black",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "A black jacket with a shine for evenings.",
+  "price": 360.0,
+  "colorDetail": "Shine black",
+  "categoryDetail": "Night Walker jacket",
+  "url": "https://standardandstrange.com/products/night-walker-jacket-shine-black",
+  "img": "images/full/16.jpg",
+  "hi": true,
+  "desc": "From Victorian era curiosities to early 20th century equestrian and motorcycle wear to rare WW2 era items - Black Sign garments are beautifully constructed, with a shared identity and aesthetic cohesion running through the collection to a degree we rarely see in brands focusing on reproductions & recreations. The amusingly-named Night Walker Jacket is one of Black Sign's classic evening jackets — featuring a relaxed fit, high notched lapels, a half-belted back, and tonal buttons. Made from a unique woven fabric for Fall/Winter '24, it has two hand pockets on the front with a relaxed and struct",
+  "details": [
+   "Made in Japan"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 17,
+  "brand": "Chamula",
+  "retailer": "Chamula",
+  "name": "Sampler Squares Button Cardigan - Grey",
+  "category": "Knitwear",
+  "color": "Grey",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "Hand-knit merino in colour patches; a statement cardigan.",
+  "price": 656.0,
+  "colorDetail": "Grey with colour patches",
+  "categoryDetail": "Sampler squares cardigan",
+  "url": "https://www.chamulaoriginal.com/products/sampler-squares-button-cardigan-grey",
+  "img": "images/full/17.jpg",
+  "hi": true,
+  "desc": "Chamula knitwear are very warm and soft because they are made of Merino wool which comes from purebred sheep grazing in the Mexican Mountains.Chamula sweaters feel great on your skin. Mexican natives hand-knit each Chamula product one by one for a truly hand-made feeling. All production processes are done by hand such as spinning the merino yarn on small hand-built spinning wheels and hand-dyeing the rich colors so each product is one of a kind and very original. These rare qualities make Chamula the ideal garment for the winter.",
+  "details": [],
+  "fabric": null
+ },
+ {
+  "id": 18,
+  "brand": "Kaptain Sunshine",
+  "retailer": "Blue Owl Workshop",
+  "name": "Walk Easy Trouser in Brown Herringbone",
+  "category": "Trousers",
+  "color": "Brown",
+  "occasions": [
+   "work",
+   "dressy"
+  ],
+  "why": "Merino, alpaca and linen herringbone with an easy waist; travels well.",
+  "price": 495.0,
+  "colorDetail": "Brown herringbone",
+  "categoryDetail": "Walk easy trousers",
+  "url": "https://www.blueowl.us/collections/kaptain-sunshine/products/walk-easy-trouser-in-brown-herringbone?variant=41050835550266",
+  "img": "images/full/18.jpg",
+  "hi": true,
+  "desc": "Details Sizing Brand Info The Walk Easy Trouser from Kaptain Sunshine imbues elements of soft tailoring into a casual, everyday silhouette. The pants are cut from a heavily textured merino wool/alpaca tweed, slowly woven with thick yarns for a lofty feel and relaxed drape. Designed to be easily dressed up or down, the pants are satin-lined to the knee and feature a combination elasticated/drawstring waist for comfort. Cut in a relaxed tapered fit with single front pleats and a zipper fly. Relaxed tapered fit Midweight merino wool/alpaca herringbone tweed Elasticated waist with drawstring Top b",
+  "details": [
+   "Your note: Looks so cozy, merino alpaca linen blend",
+   "72% wool",
+   "21% alpaca",
+   "Made in Japan"
+  ],
+  "fabric": "72% wool"
+ },
+ {
+  "id": 19,
+  "brand": "W'menswear",
+  "retailer": "Standard & Strange",
+  "name": "Wendy Trouser - Indigo/Gold",
+  "category": "Trousers",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "Indigo denim shot with gold; a trouser with presence.",
+  "price": 270.0,
+  "colorDetail": "Indigo and gold",
+  "categoryDetail": "Wendy trousers",
+  "url": "https://standardandstrange.com/products/wendy-trouser-indigo-gold",
+  "img": "images/full/19.jpg",
+  "hi": true,
+  "desc": "W'Menswear was founded by Lauren Yates in 2015, born out of a desire to produce high quality, heritage-inspired garments for women - with a nuanced and ever-evolving perspective on femininity at the intersections of fashion, workwear, military garments, and history. Originally operating out of a converting shipping container in Bangkok, the brand has grown substantially with each new collection, employing specialty and custom fabrics as well as partnering with local workshops & artisans. The 2024 collection, titled Diesel Fueled Defiance , is inspired by women who were on the forefront of auto",
+  "details": [
+   "Your note: These are womens and out of stock but they're cool",
+   "Made in Thailand"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 20,
+  "brand": "De Bonne Facture",
+  "retailer": "No Man Walks Alone",
+  "name": "Raglan sweater in green-hued multicolor Norwegian Wool",
+  "category": "Knitwear",
+  "color": "Multi/Print",
+  "occasions": [
+   "hang",
+   "work",
+   "dressy"
+  ],
+  "why": "Norwegian wool in greens; warm enough for a winter trip.",
+  "price": 565.0,
+  "colorDetail": "Green-hued multicolour Norwegian wool",
+  "categoryDetail": "Raglan sweater",
+  "url": "https://nomanwalksalone.com/collections/bfcm2025/products/de-bonne-facture-fw25-raglan-sweater-in-green-hued-multicolor-norwegian-wool",
+  "img": "images/full/20.jpg",
+  "hi": true,
+  "desc": "\"There is something very helpful about specifying this wool as Norwegian. It puts your mind in a completely different place than if you heard it was Italian, or French, or Scottish. But that shift of expectations is pointed, and something clicks. Yes! This heft, this unexpected but beautiful melange of yarns, this high, chunky, collar - I wouldn't quite know how to place it besides being vaguely Nordic. And like all good rustic knits, this one is just at home with outdoorsy styles as it is with the dressed-up interpretations of them.\" ---Kyle Details 100% Norwegian wool Raglan sleeves with rib",
+  "details": [
+   "Your note: Extremely cool colors",
+   "100% Norwegian wool Raglan sleeves with ribbed knit collar"
+  ],
+  "fabric": "100% Norwegian wool Raglan sleeves with ribbed knit collar"
+ },
+ {
+  "id": 21,
+  "brand": "ONI Denim",
+  "retailer": "Son of a Stag",
+  "name": "ONI Denim 222-NEP 13.7oz Extra Wide Straight Jean - One Wash",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Extra-wide straight leg in 13.7 oz nep denim.",
+  "price": 299.0,
+  "colorDetail": "One wash",
+  "categoryDetail": "Extra-wide straight jeans",
+  "url": "https://sonofastag.com/products/oni-222-nep-13-7oz-extra-wide-straight-leg-jean-one-wash?variant=55798893674873",
+  "img": "images/full/21.jpg",
+  "hi": true,
+  "desc": "Fresh on the scene from the masters of texture, ONI have created their new NEP fabric. Woven at extremely low tension on vintage looms, this 13.7oz NEP denim is lightweight and comfortable to wear. The unique neppy texture will allow for some great fading the more you wear them. The 222 shape has become a fan favourite in the denim community. Its wide leg and mid-high rise waist has proven flattering on a variety of different people. ONI's classic 5 pocket design is present, as well as: punch through copper rivets, button fly, a leather patch, and pink selvedge ID.",
+  "details": [
+   "Your note: Size 32. I think these might be the jeans"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 22,
+  "brand": "Samuel Zelig",
+  "retailer": "Samuel Zelig",
+  "name": "Film Pant",
+  "category": "Trousers",
+  "color": "Multi/Print",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "Embroidered trousers with a story; for going out.",
+  "price": 495.0,
+  "colorDetail": "Film embroidery",
+  "categoryDetail": "Embroidered film pants",
+  "url": "https://samuelzelig.com/products/film-pant",
+  "img": "images/full/22.jpg",
+  "hi": true,
+  "desc": "Details 8 oz cotton herringbone Triple needle seam construction Elastic waistband with interior cotton drawcord Binding on interior of waist 2 Back Pockets with vertical bar tacks Custom patches This garment has undergone a vintage wash and dye to remove all shrinkage and give it a unique sun-faded look Color: Aubergine Embroidery Color: Multi",
+  "details": [
+   "Your note: Pricey but one of the few embroidery pants that looks really cool. I like the film theme",
+   "100% Cotton Machine wash cold tumble dry low Designed in Los Angeles Imported Description Film plays a large role in our designs",
+   "Machine wash cold tumble dry low Designed in Los Angeles Imported Description Film plays a large role in our designs, but for this group we wanted to make it a prominent theme"
+  ],
+  "fabric": "100% Cotton Machine wash cold tumble dry low Designed in Los Angeles Imported Description Film plays a large role in our designs"
+ },
+ {
+  "id": 23,
+  "brand": "3sixteen",
+  "retailer": "3sixteen",
+  "name": "RS-101x ~ Relaxed Straight - Lightweight Selvedge",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Lightweight Japanese selvedge in a relaxed straight; an everyday jean.",
+  "price": 250.0,
+  "colorDetail": "Indigo",
+  "categoryDetail": "Relaxed straight selvedge jeans",
+  "url": "https://www.3sixteen.com/collections/denim/products/rs-101x-relaxed-straight-lightweight-selvedge",
+  "img": "images/full/23.jpg",
+  "hi": true,
+  "desc": "The RS-101x jean features a relaxed fit paired with a lightweight rinsed indigo Japanese selvedge denim and American construction. The RS (Relaxed Straight) cut is generous and comfortable, featuring a higher rise, plenty of room on the thigh and a wider leg opening. It's the widest cut in our lineup but is by no means a baggy fit. We designed it to be a classic relaxed straight cut jean that is sure to maintain relevance in your wardrobe for years to come. The 101x flagship denim utilized on this jean is custom woven exclusively for 3sixteen by Kuroki Mills in Okayama, Japan. The 12oz fabric ",
+  "details": [],
+  "fabric": null
+ },
+ {
+  "id": 24,
+  "brand": "Yonetomi",
+  "retailer": "Son of a Stag",
+  "name": "Yonetomi Brushed Mohair Border Knit Jumper - Ivory",
+  "category": "Knitwear",
+  "color": "White/Ivory",
+  "occasions": [
+   "hang",
+   "dressy"
+  ],
+  "why": "Ivory mohair; soft, light and a little dressy.",
+  "price": 399.0,
+  "colorDetail": "Ivory",
+  "categoryDetail": "Mohair jumper",
+  "url": "https://sonofastag.com/products/yonetomi-85-254-023-mohair-knit-jumper-ivory",
+  "img": "images/full/24.jpg",
+  "hi": true,
+  "desc": "We're very passionate about our knitwear here at SON OF A STAG, and this piece by our good friends at Yonetomi has certainly caught our eye. Knitted from a high mohair/wool blend this jumper has that brilliant hairy quality that mohair is known for without compromising on comfort. The retro striped pattern looks great with a variety of looks and the relaxed shape makes it an easy wear.",
+  "details": [
+   "Your note: Cool, might fit me in the length. check the brand for more."
+  ],
+  "fabric": null
  }
 ]
