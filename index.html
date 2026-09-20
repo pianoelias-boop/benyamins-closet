@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Closet</title>
+<meta name="description" content="">
+<meta name="theme-color" content="">
+<link rel="icon" id="favicon" href="">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="theme.css?v=1">
+<link rel="stylesheet" href="styles.css?v=22">
+<script src="config.js?v=1"></script>
+<script>
+  // Personal text lives in config.js. This fills the page from it: the header straight away, so nothing
+  // flashes empty while the catalog loads, and everything below it once the document is parsed.
+  (function () {
+    var c = window.CLOSET_CONFIG; if (!c) return;
+    var t = c.text || {};
+    function fill() {
+      document.querySelectorAll('[data-fill]').forEach(function (el) {
+        var v = t[el.getAttribute('data-fill')]; if (v == null) return;
+        el.innerHTML = String(v).replace('{n}', '<span id="hero-count"></span>').replace('{date}', '<b id="stores-checked"></b>');
+      });
+    }
+    document.title = c.siteTitle || document.title;
+    var d = document.querySelector('meta[name="description"]'); if (d && c.description) d.content = c.description;
+    var f = document.getElementById('favicon'); if (f && c.icon) f.href = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>" + c.icon + "</text></svg>";
+    var tc = document.querySelector('meta[name="theme-color"]'); if (tc) tc.content = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim();
+    window.fillClosetText = fill;
+    document.addEventListener('DOMContentLoaded', fill);
+  })();
+</script>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 21s-7.5-4.6-9.6-9.2C.7 8 3 4.5 6.6 4.5c2 0 3.4 1.1 4.2 2.3l1.2 1.8 1.2-1.8c.8-1.2 2.2-2.3 4.2-2.3 3.6 0 5.9 3.5 4.2 7.3C19.5 16.4 12 21 12 21z"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24"><path d="M12 2c.6 5.4 4.6 9.4 10 10-5.4.6-9.4 4.6-10 10-.6-5.4-4.6-9.4-10-10 5.4-.6 9.4-4.6 10-10z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+  </defs>
+</svg>
+
+<header class="hero">
+  <div class="hero-inner">
+    <svg class="hanger" viewBox="0 0 160 90" aria-hidden="true">
+      <g fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M80 8c-6 0-10 4-10 9 0 4 3 6 6 8 2 1.5 4 3 4 6v5"/>
+        <path d="M80 36 L12 68 Q8 70 11 74 L149 74 Q152 70 148 68 Z"/>
+        <path d="M74 33c-3-2-6-2-8 0 2 3 4 4 7 3M86 33c3-2 6-2 8 0-2 3-4 4-7 3" />
+        <path d="M78 36c-3 3-4 6-5 9M82 36c3 3 4 6 5 9"/>
+      </g>
+    </svg>
+    <p class="eyebrow" data-fill="eyebrow"></p>
+    <h1 class="wordmark" data-fill="wordmark"></h1>
+    <p class="tagline" data-fill="tagline"></p>
+    <div class="ornament" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-heart"/></svg><span></span></div>
+    <p class="hero-note" data-fill="heroNote"></p>
+    <div class="about-links">
+      <button class="about-link" id="open-about" type="button" data-fill="aboutLink"></button>
+      <span class="dot" id="person-dot" aria-hidden="true">·</span>
+      <button class="about-link" id="open-person" type="button" data-fill="personLink"></button>
+    </div>
+  </div>
+</header>
+<script>window.fillClosetText && window.fillClosetText();</script>
+
+<dialog class="about-dialog person-dialog" id="person" aria-labelledby="person-title">
+  <div class="about-card">
+    <button class="icon-btn about-close" type="button" data-close aria-label="Close"><svg width="20" height="20"><use href="#i-x"/></svg></button>
+    <h2 id="person-title" data-fill="personTitle"></h2>
+    <div class="collage" id="person-collage"></div>
+    <p class="person-text" data-fill="personText"></p>
+    <div class="ornament" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-heart"/></svg><span></span></div>
+  </div>
+</dialog>
+
+<dialog class="about-dialog" id="about" aria-labelledby="about-title">
+  <div class="about-card">
+    <button class="icon-btn about-close" type="button" data-close aria-label="Close"><svg width="20" height="20"><use href="#i-x"/></svg></button>
+    <h2 id="about-title" data-fill="aboutTitle"></h2>
+    <div class="stats">
+      <div><b id="about-considered"></b><span>pieces considered</span></div>
+      <div><button class="stat-link" id="open-stores" type="button" title="Where the closet shops, and how returns work"><b id="about-storefronts"></b><span>storefronts browsed</span></button></div>
+      <div><b id="about-brands"></b><span>labels chosen</span></div>
+      <div><b id="about-count"></b><span>pieces in the closet</span></div>
+    </div>
+    <div id="about-body"></div>
+    <div class="ornament" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-heart"/></svg><span></span></div>
+  </div>
+</dialog>
+
+<dialog class="about-dialog stores" id="stores" aria-labelledby="stores-title">
+  <div class="about-card">
+    <button class="icon-btn about-close" type="button" data-close aria-label="Close"><svg width="20" height="20"><use href="#i-x"/></svg></button>
+    <h2 id="stores-title" data-fill="storesTitle"></h2>
+    <p data-fill="storesIntro"></p>
+    <div class="stores-list" id="stores-list"></div>
+  </div>
+</dialog>
+
+<div class="topbar" id="topbar">
+  <div class="topbar-inner">
+    <label class="search">
+      <svg width="18" height="18"><use href="#i-search"/></svg>
+      <input id="q" type="search" placeholder="Search the closet…" autocomplete="off">
+    </label>
+    <div class="tools" id="tools">
+      <button class="btn tool-filters" id="open-filters" type="button"><svg width="15" height="15"><use href="#i-filter"/></svg> Filters <b class="tool-count" id="filter-count"></b></button>
+      <label class="sort">
+        <span>Sort</span>
+        <select id="sort">
+          <option value="default">Default</option>
+          <option value="shuffle">Shuffled</option>
+          <option value="price-asc">Price, low to high</option>
+          <option value="price-desc">Price, high to low</option>
+          <option value="brand">Brand, A to Z</option>
+        </select>
+      </label>
+      <span class="chips chips-m" id="chips-m"></span>
+      <button class="btn ghost" id="surprise" type="button"><svg width="14" height="14"><use href="#i-sparkle"/></svg> Surprise me</button>
+    </div>
+    <button class="btn saved-btn" id="open-saved" type="button" aria-label="Saved pieces"><svg width="16" height="16"><use href="#i-heart"/></svg> <span class="lbl">Saved</span> <span class="count" id="saved-count">0</span></button>
+  </div>
+</div>
+
+<div class="shell">
+  <aside class="filters" id="filters" aria-label="Filters">
+    <div class="filters-head">
+      <h2>Refine</h2>
+      <button class="link" id="clear-all" type="button">Clear all</button>
+      <button class="icon-btn close-filters" id="close-filters" type="button" aria-label="Close filters"><svg width="20" height="20"><use href="#i-x"/></svg></button>
+    </div>
+    <label class="opt sale-toggle" id="sale-toggle" hidden><input type="checkbox" id="only-sale"><span class="box"></span><span class="lbl">On sale now</span><span class="cnt" id="sale-count"></span></label>
+    <div id="facets"></div>
+    <details class="facet passed-facet" id="passed-facet" hidden>
+      <summary>Not for me<span class="n" id="passed-count">0</span></summary>
+      <div class="facet-body">
+        <label class="opt"><input type="checkbox" id="show-passed"><span class="box"></span><span class="lbl">Show them in the grid</span></label>
+        <div class="passed-list" id="passed-list"></div>
+      </div>
+    </details>
+    <div class="filters-foot">
+      <button class="btn primary" id="apply-filters" type="button">Show <span id="apply-count"></span></button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <p class="sale-banner" id="sale-banner" hidden></p>
+    <div class="tabs" id="tabs" hidden>
+      <button class="tab on" type="button" data-tab="closet">The closet</button>
+      <button class="tab" type="button" data-tab="ideas">Based on your likes <b id="ideas-count">0</b></button>
+    </div>
+    <p class="ideas-intro" id="ideas-intro" hidden>A few pieces from beyond the closet, chosen by what you've saved so far. Heart one and it moves into your closet; the ✕ sends it away.</p>
+    <div class="results-head">
+      <p class="results-count" id="results-count"></p>
+      <div class="chips" id="chips"></div>
+    </div>
+    <section class="grid" id="grid" aria-live="polite"></section>
+    <div class="empty" id="empty" hidden>
+      <p class="empty-title">Nothing in the closet matches that.</p>
+      <p>Try loosening a filter or two.</p>
+      <button class="btn" id="empty-clear" type="button">Clear filters</button>
+    </div>
+    <footer class="foot">
+      <div class="ornament" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-heart"/></svg><span></span></div>
+      <p data-fill="footer"></p>
+    </footer>
+  </main>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+
+<aside class="drawer" id="drawer" aria-label="Saved pieces" aria-hidden="true">
+  <div class="drawer-head">
+    <h2>Your saved pieces</h2>
+    <button class="icon-btn" id="close-drawer" type="button" aria-label="Close"><svg width="20" height="20"><use href="#i-x"/></svg></button>
+  </div>
+  <div class="drawer-body" id="drawer-body"></div>
+  <div class="drawer-foot" id="drawer-foot"></div>
+</aside>
+
+<dialog class="modal" id="modal">
+  <div class="modal-inner" id="modal-inner"></div>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite"><span id="toast-msg"></span><button class="toast-action" id="toast-action" type="button" hidden></button></div>
+
+<script src="data.js?v=5"></script>
+<script>
+  // suggestions.js, sales.js and retailers.js change on their own schedules, so load them with an
+  // hourly cache-busting stamp instead of a hand-bumped version.
+  (function () { var d = new Date(), stamp = d.toISOString().slice(0, 13); ['suggestions.js', 'sales.js', 'retailers.js'].forEach(function (f) { document.write('<script src="' + f + '?t=' + stamp + '"><\/script>'); }); })();
+</script>
+<script src="app.js?v=30"></script>
+</body>
+</html>

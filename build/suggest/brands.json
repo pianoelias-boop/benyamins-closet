@@ -1,0 +1,370 @@
+{
+ "rules": {
+  "price_min": 50,
+  "price_max": 500,
+  "natural_min_share": 0.7,
+  "ideas_per_round": 8,
+  "new_brands_per_round": 3,
+  "note": "owner 2026-09-20: pieces he saved run $46 to $1,200 with a median near $250; the round looks between $50 and $500 list",
+  "avoid_titles": {
+   "categories": [
+    "Trousers",
+    "Jeans",
+    "Shorts & Swim"
+   ],
+   "pattern": "\\bskinny\\b|\\bslim[- ](?:fit|leg|straight|cut)\\b|\\bcigarette\\b|\\bcarrot\\b",
+   "why": "owner's own saves (2026-09-20) are all wide, relaxed, straight or pleated legs; a relaxed cut with a gentle taper is fine, a slim one is not"
+  }
+ },
+ "brands": [
+  {
+   "name": "18 East",
+   "site": "https://18east.co",
+   "status": "approved"
+  },
+  {
+   "name": "3sixteen",
+   "site": "https://www.3sixteen.com",
+   "status": "approved"
+  },
+  {
+   "name": "A Kind of Guise",
+   "site": "https://akindofguise.com",
+   "status": "approved"
+  },
+  {
+   "name": "Arc'teryx",
+   "site": "https://arcteryx.com",
+   "status": "approved",
+   "note": "no feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Axel Arigato",
+   "site": "https://axelarigato.com",
+   "status": "approved",
+   "note": "no feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Bare Knuckles",
+   "site": "https://bareknuckles.co",
+   "status": "approved"
+  },
+  {
+   "name": "Billy Reid",
+   "site": "https://www.billyreid.com",
+   "status": "approved"
+  },
+  {
+   "name": "Blacksmith",
+   "site": "https://www.blacksmith-store.com",
+   "status": "approved"
+  },
+  {
+   "name": "Blue Owl Workshop",
+   "site": "https://www.blueowl.us",
+   "status": "approved",
+   "note": "stockist: Kaptain Sunshine and other Japanese labels"
+  },
+  {
+   "name": "Bronson",
+   "site": "https://bronsonshop.com",
+   "status": "approved"
+  },
+  {
+   "name": "Brut Clothing",
+   "site": "https://brut-clothing.us",
+   "status": "approved",
+   "note": "also brut-clothing.com"
+  },
+  {
+   "name": "Buck Mason",
+   "site": "https://www.buckmason.com",
+   "status": "approved"
+  },
+  {
+   "name": "Canterbury",
+   "site": "https://canterburyusa.com",
+   "status": "approved"
+  },
+  {
+   "name": "Chamula",
+   "site": "https://www.chamulaoriginal.com",
+   "status": "approved"
+  },
+  {
+   "name": "Drake's",
+   "site": "https://us.drakes.com",
+   "status": "approved"
+  },
+  {
+   "name": "Flamborough Marine",
+   "site": "https://www.flamboroughmanor.co.uk",
+   "status": "approved",
+   "note": "no feed; made-to-order ganseys",
+   "feed": false
+  },
+  {
+   "name": "Found",
+   "site": "https://found.store",
+   "status": "approved"
+  },
+  {
+   "name": "Full Count",
+   "site": "https://fullcount.co",
+   "status": "approved"
+  },
+  {
+   "name": "Glasswing",
+   "site": "https://glasswingshop.com",
+   "status": "approved",
+   "note": "stockist: Brain Dead and others"
+  },
+  {
+   "name": "Haspel",
+   "site": "https://www.haspel.com",
+   "status": "approved"
+  },
+  {
+   "name": "Haven",
+   "site": "https://havenshop.com",
+   "status": "approved",
+   "note": "stockist: Tarvas and others"
+  },
+  {
+   "name": "Kaidu Utility",
+   "site": "https://www.kaidutility.com",
+   "status": "approved",
+   "note": "stockist: Indi + Ash"
+  },
+  {
+   "name": "Keen",
+   "site": "https://www.keenfootwear.com",
+   "status": "approved"
+  },
+  {
+   "name": "Knickerbocker",
+   "site": "https://www.knickerbocker.nyc",
+   "status": "approved"
+  },
+  {
+   "name": "Labour Union",
+   "site": "https://labourunion-1986.com",
+   "status": "approved"
+  },
+  {
+   "name": "Maharishi",
+   "site": "https://www.maharishistore.com",
+   "status": "approved"
+  },
+  {
+   "name": "Manresa",
+   "site": "https://manresaclothing.com",
+   "status": "approved"
+  },
+  {
+   "name": "Mephisto",
+   "site": "https://mephistousa.com",
+   "status": "approved"
+  },
+  {
+   "name": "Morning Witch",
+   "site": "https://shop.morningwitch.com",
+   "status": "approved"
+  },
+  {
+   "name": "Mr Porter",
+   "site": "https://www.mrporter.com",
+   "status": "approved",
+   "note": "no feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Nantucket Reds",
+   "site": "https://www.nantucketreds.com",
+   "status": "approved"
+  },
+  {
+   "name": "Nepenthes New York",
+   "site": "https://nepenthesny.com",
+   "status": "approved",
+   "note": "stockist: Needles, Engineered Garments, South2 West8"
+  },
+  {
+   "name": "No Man Walks Alone",
+   "site": "https://nomanwalksalone.com",
+   "status": "approved",
+   "note": "stockist: Wythe, De Bonne Facture and others"
+  },
+  {
+   "name": "Noah",
+   "site": "https://noahny.com",
+   "status": "approved"
+  },
+  {
+   "name": "Oak Street Bootmakers",
+   "site": "https://oakstreetbootmakers.com",
+   "status": "approved",
+   "note": "no Shopify feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Okayama Denim",
+   "site": "https://www.okayamadenim.com",
+   "status": "approved",
+   "note": "stockist: Studio D'Artisan and other Japanese denim"
+  },
+  {
+   "name": "Older Best",
+   "site": "https://www.olderbest.com",
+   "status": "approved"
+  },
+  {
+   "name": "Outlier",
+   "site": "https://outlier.nyc",
+   "status": "approved"
+  },
+  {
+   "name": "Proper Cloth",
+   "site": "https://propercloth.com",
+   "status": "approved",
+   "note": "no feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Ralph Lauren",
+   "site": "https://www.ralphlauren.com",
+   "status": "approved",
+   "note": "no feed; heavily rate-limited; events only",
+   "feed": false
+  },
+  {
+   "name": "Res Ipsa",
+   "site": "https://www.resipsausa.com",
+   "status": "approved"
+  },
+  {
+   "name": "Samuel Zelig",
+   "site": "https://samuelzelig.com",
+   "status": "approved"
+  },
+  {
+   "name": "Scarpa",
+   "site": "https://scarpa.com",
+   "status": "approved"
+  },
+  {
+   "name": "Scott Fraser Collection",
+   "site": "https://scottfrasercollection.com",
+   "status": "approved"
+  },
+  {
+   "name": "Son of a Stag",
+   "site": "https://sonofastag.com",
+   "status": "approved",
+   "note": "stockist: ONI, Yonetomi and other Japanese labels"
+  },
+  {
+   "name": "Spier & Mackay",
+   "site": "https://us.spierandmackay.com",
+   "status": "approved",
+   "note": "no feed; events only",
+   "feed": false
+  },
+  {
+   "name": "Stan Ray",
+   "site": "https://www.stanray.com",
+   "status": "approved"
+  },
+  {
+   "name": "Standard & Strange",
+   "site": "https://standardandstrange.com",
+   "status": "approved",
+   "note": "stockist: Indi + Ash and others"
+  },
+  {
+   "name": "Stitch Spring",
+   "site": "https://stitchspring.com",
+   "status": "approved"
+  },
+  {
+   "name": "TOAST",
+   "site": "https://us.toa.st",
+   "status": "approved"
+  },
+  {
+   "name": "Todd Snyder",
+   "site": "https://www.toddsnyder.com",
+   "status": "approved"
+  },
+  {
+   "name": "Universal Surplus",
+   "site": "https://universal-surplus.com",
+   "status": "approved"
+  },
+  {
+   "name": "Universal Works",
+   "site": "https://universalworks.com",
+   "status": "approved"
+  },
+  {
+   "name": "Uskees",
+   "site": "https://uskees.com",
+   "status": "approved"
+  },
+  {
+   "name": "Yitai",
+   "site": "https://www.yitai.la",
+   "status": "approved"
+  },
+  {
+   "name": "Gramicci",
+   "site": "https://gramicci.com",
+   "status": "proposed",
+   "note": "kept from the original roster; climbing pants, wide legs"
+  },
+  {
+   "name": "Howlin'",
+   "site": "https://www.howlin.com",
+   "status": "proposed",
+   "note": "kept from the original roster; Belgian knitwear"
+  },
+  {
+   "name": "Studio Nicholson",
+   "site": "https://www.studionicholson.com",
+   "status": "proposed",
+   "note": "kept from the original roster; wide cuts"
+  },
+  {
+   "name": "Margaret Howell",
+   "site": "https://www.margarethowell.com",
+   "status": "proposed",
+   "note": "kept from the original roster; MHL workwear"
+  },
+  {
+   "name": "Kartik Research",
+   "site": "https://kartikresearch.com",
+   "status": "proposed",
+   "note": "kept from the original roster; Indian handloom and embroidery"
+  },
+  {
+   "name": "Alex Mill",
+   "site": "https://www.alexmill.com",
+   "status": "proposed",
+   "note": "kept from the original roster"
+  },
+  {
+   "name": "Filson",
+   "site": "https://www.filson.com",
+   "status": "proposed",
+   "note": "kept from the original roster; waxed cotton, wool"
+  },
+  {
+   "name": "Big Bud Press",
+   "site": "https://bigbudpress.com",
+   "status": "proposed",
+   "note": "kept from the original roster; unisex work pants and jumpsuits"
+  }
+ ]
+}

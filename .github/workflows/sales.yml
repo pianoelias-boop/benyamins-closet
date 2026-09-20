@@ -1,0 +1,34 @@
+name: Daily sale check
+
+on:
+  schedule:
+    - cron: '41 8 * * *'    # 04:41 US Eastern (daylight); off the hour because GitHub fires top-of-hour crons late
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true = run the check and print results without committing"
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency: sales
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Check the brands
+        run: python3 build/sales/check.py
+      - name: Watch the return-policy pages (writes build/returns/changes.json; nobody is notified)
+        run: python3 build/returns/check.py || echo "policy check failed, continuing"
+      - name: Publish if anything changed
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "closet-bot"; git config user.email "closet-bot@users.noreply.github.com"
+          git add sales.js build/sales/history.json build/returns/hashes.json build/returns/changes.json
+          git commit -m "Sale check $(date -u +%F)" || echo "no change"
+          git push
