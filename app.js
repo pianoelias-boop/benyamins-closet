@@ -117,7 +117,7 @@
   // ---------- the notebook (optional Google Sheet sync) ----------
   // Each heart/pass is stamped with a time. On load we fetch the notebook's view of every item and keep,
   // per item and per kind, whichever side is newer. Local storage stays the instant source of truth, so the
-  // page works fully without the notebook; the notebook only makes lists follow her between devices.
+  // page works fully without the notebook; the notebook only makes lists follow him between devices.
   const CLIENT_ID = (() => { try { let c = localStorage.getItem(CLIENT_KEY); if (!c) { c = Math.random().toString(36).slice(2, 10); localStorage.setItem(CLIENT_KEY, c); } return c; } catch (e) { return 'anon'; } })();
   function stamp(id, kind, on) {
     const m = state.meta[id] = state.meta[id] || {};
@@ -603,7 +603,7 @@
     $('#about-body').innerHTML = (about.paragraphs || []).map(p => `<p>${p}</p>`).join('') + (about.fine || []).map(p => `<p class="fine">${p}</p>`).join('');
     const person = CFG.person;
     if (person && (person.photos || []).length) $('#person-collage').innerHTML = person.photos.map(p => `<img src="${esc(p.src)}" alt="${esc(p.alt || '')}" loading="lazy">`).join('');
-    if (!person) { $('#open-person').hidden = true; $('#person-dot').hidden = true; }   // no "About her" page at all
+    if (!person) { $('#open-person').hidden = true; $('#person-dot').hidden = true; }   // no "About him" page at all
   }
 
   // ---------- go ----------

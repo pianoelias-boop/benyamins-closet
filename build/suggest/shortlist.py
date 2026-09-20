@@ -1,10 +1,10 @@
-"""Score the sweep against the closet's taste (his curation for now, her hearts/passes once they exist)."""
+"""Score the sweep against the closet's taste (his own saves for now, his hearts/passes once the notebook fills)."""
 import json, re, collections, sys
 cands=json.load(open('build/suggest/candidates.json'))
 closet=json.load(open('data.js').read().split('=',1)[1].rstrip(';\n')) if False else None
 import subprocess
 data=json.loads(open('data.js').read().split('= ',1)[1].rstrip(';\n'))
-# ---- taste profile from the closet (proxy until she has hearted things) ----
+# ---- taste profile from the closet (proxy until he has hearted things) ----
 cat_share=collections.Counter(i['category'] for i in data); n=len(data)
 price_med=sorted(i['price'] for i in data if i['price'])[n//2]
 LIKE=re.compile(r'wide[- ]leg|pleat|high[- ]rise|relaxed|linen|seersucker|herringbone|corduroy|cord\b|selvedge|japanese|denim|cotton|wool|merino|mohair|alpaca|cardigan|cable|stripe|patchwork|embroider|pocket|cargo|fatigue|camp collar', re.I)
