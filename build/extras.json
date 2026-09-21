@@ -2294,5 +2294,498 @@
    "100% Organic Cotton"
   ],
   "fabric": "100% organic cotton"
+ },
+ {
+  "id": 94,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Olive CPH Velvet Oxford Pant",
+  "category": "Trousers",
+  "color": "Green",
+  "occasions": [
+   "dinner",
+   "dressy"
+  ],
+  "why": "Olive velvet trousers for evenings out.",
+  "price": 246.0,
+  "colorDetail": "Olive velvet",
+  "categoryDetail": "Velvet Oxford pants",
+  "url": "https://universalworks.com/en-us/products/olive-cph-velvet-oxford-pant",
+  "img": "images/full/94.jpg",
+  "hi": true,
+  "desc": "Oxford pant is a relaxed fit with a single pleat front and a drawstring waist. A wide leg trouser with a slight taper. A fuller and larger shape when compared to our Pleated Track Pant. x • Wide loose leg. • Elasticated and drawstring waist. • Button fly. • Single pleat front. • Two rear pockets: buttoned flap and button jetted. • Two front pockets with internal ticket pocket. • Fabric Content: • Washcare: • Please be aware that the measurements below are technical measurements that are based on the garment laid flat and are useful as a general guide only. Measured in Centimetres. 26\" 28\" 30\" ",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 95,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Indigo Future Denim Oxford Pant",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Relaxed denim in the Oxford cut.",
+  "price": 273.0,
+  "colorDetail": "Indigo",
+  "categoryDetail": "Denim Oxford pants",
+  "url": "https://universalworks.com/en-us/products/indigo-future-denim-oxford-pant",
+  "img": "images/full/95.jpg",
+  "hi": true,
+  "desc": "Oxford pant is a relaxed fit with a single pleat front and a drawstring waist. A wide leg trouser with a slight taper. A fuller and larger shape when compared to our Pleated Track Pant. x • Wide loose leg. • Elasticated and drawstring waist. • Button fly. • Single pleat front. • Two rear pockets: buttoned flap and button jetted. • Two front pockets with internal ticket pocket. • Fabric Content: • Washcare: • Please be aware that the measurements below are technical measurements that are based on the garment laid flat and are useful as a general guide only. Measured in Centimetres. 26\" 28\" 30\" ",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 96,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Indigo Reworked Jean Cloth Oxford Pant",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Reworked jean cloth in a wide leg.",
+  "price": 169.0,
+  "colorDetail": "Indigo reworked jean cloth",
+  "categoryDetail": "Wide-leg Oxford pants",
+  "url": "https://universalworks.com/en-us/products/universal-works-oxford-pant-in-indigo-reworked-jean-cloth",
+  "img": "images/full/96.jpg",
+  "hi": true,
+  "desc": "Single pleat front, wide leg trousers with a slight taper. A fuller and larger shape when compared to our Pleated Track Pant. Our model is 6' 2'' with a 31.5’ Waist and is wearing a size ‘32.’ Made with reconstructed denim that has been reworked into a new thread. The post-consumer denim is collected, graded by colour, shredded and re-spun into new yarns and then woven with ecru cotton into a high-quality denim cloth. With a canvassy feel, and a medium weight. Take care as some colour transfer may occur when worn close to lighter-coloured garments and furniture. Wash separately. • Wide loose l",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "50% Organic Cotton",
+   "50% Recycled Cotton"
+  ],
+  "fabric": "50% Organic Cotton"
+ },
+ {
+  "id": 97,
+  "brand": "Zardus for Universal Works",
+  "retailer": "Universal Works",
+  "name": "Zardus for Universal Works Black Suede Oliver",
+  "category": "Shoes",
+  "color": "Black",
+  "occasions": [
+   "dinner",
+   "work"
+  ],
+  "why": "A black suede shoe for dinners and city days.",
+  "price": 246.0,
+  "colorDetail": "Black suede",
+  "categoryDetail": "Suede shoe",
+  "url": "https://universalworks.com/en-us/products/zardus-x-universal-works-olive-in-black-suede",
+  "img": "images/full/97.jpg",
+  "hi": true,
+  "desc": "31850",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 98,
+  "brand": "Walsh x Universal Works",
+  "retailer": "Universal Works",
+  "name": "Walsh x Universal Works Ensign in Green Leather/Canvas",
+  "category": "Shoes",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A British-made trainer in green leather and canvas.",
+  "price": 328.0,
+  "colorDetail": "Green leather / canvas",
+  "categoryDetail": "Ensign trainer",
+  "url": "https://universalworks.com/en-us/products/walsh-x-universal-works-ensign-in-green-leather-canvas",
+  "img": "images/full/98.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 99,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Black Cat Cord Grad Chino",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "work",
+   "dinner"
+  ],
+  "why": "Black cord chinos; the dressier casual trouser.",
+  "price": 253.0,
+  "colorDetail": "Black cat cord",
+  "categoryDetail": "Corduroy chinos",
+  "url": "https://universalworks.com/en-us/products/black-cat-cord-grad-chino",
+  "img": "images/full/99.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 100,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Light Indigo Jean Cloth Reworked Duke Pant",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Light indigo jean cloth in the wide Duke cut.",
+  "price": 160.0,
+  "colorDetail": "Light indigo jean cloth",
+  "categoryDetail": "Wide-leg Duke pants",
+  "url": "https://universalworks.com/en-us/products/light-indigo-jean-cloth-reworked-duke-pant",
+  "img": "images/full/100.jpg",
+  "hi": true,
+  "desc": "A wide-leg pant with slight taper, the Duke pants have a single pleat front, a fixed waistband and two rear back pockets. Model is 6’1” with a 40” chest and a 32” waist, wearing a size ‘Large' top and size ’32' bottoms. Made with organic cotton and recycled cotton which gives the fabric its tonal qualities. Woven to look like washed out denim this has a 205g weight which is lighter than similar ones from our past seasons. • Wide leg. • Slight taper. • Single pleat front. • Two rear patch pockets. • Two front hand pockets with internal ticket pocket. • Button fly. • Fabric Content: 62% Cotton, ",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "62% Cotton",
+   "38% Recycled Cotton"
+  ],
+  "fabric": "62% Cotton"
+ },
+ {
+  "id": 101,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Indigo Work Denim Dutch Pant",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Work denim in the Dutch cut.",
+  "price": 205.0,
+  "colorDetail": "Indigo work denim",
+  "categoryDetail": "Dutch pants",
+  "url": "https://universalworks.com/en-us/products/indigo-work-denim-dutch-pant",
+  "img": "images/full/101.jpg",
+  "hi": true,
+  "desc": "A loose wide legged shape the Dutch pant is our widest pant, with stitched down front darts to create the shape but without bulk. They have waist adjusters and simple rear patch pockets. Fabric • Loose fit. • Side buckle waist adjusters. • Two rear patch pockets. • Two front hand pockets. • Button fly. • Fabric Content: • Washcare: • Please be aware that the measurements below are technical measurements that are based on the garment laid flat and are useful as a general guide only. Measured in Centimetres. 26\" 28\" 30\" 32\" 34\" 36\" 38\" Outside Leg - Inc. Waistband. Waist. Thigh - 2.5cm Below Cro",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 102,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Ecru Slub Drill Dutch Pant",
+  "category": "Trousers",
+  "color": "White/Ivory",
+  "occasions": [
+   "dance",
+   "dinner",
+   "work"
+  ],
+  "why": "Ecru slub drill in a wide leg; light and clean.",
+  "price": 205.0,
+  "colorDetail": "Ecru slub drill",
+  "categoryDetail": "Wide-leg Dutch pants",
+  "url": "https://universalworks.com/en-us/products/ecru-slub-drill-dutch-pant",
+  "img": "images/full/102.jpg",
+  "hi": true,
+  "desc": "Our widest pant, with stitched down front darts to create the shape but without bulk. They have waist adjusters to cinch the waist and simple rear patch pockets. Fabric • Loose fit. • Side buckle waist adjusters. • Two rear patch pockets. • Two front hand pockets. • Button fly. • Fabric Content: • Washcare: • Please be aware that the measurements below are technical measurements that are based on the garment laid flat and are useful as a general guide only. Measured in Centimetres. 26\" 28\" 30\" 32\" 34\" 36\" 38\" Outside Leg - Inc. Waistband. Waist. Thigh - 2.5cm Below Crotch. Hem Opening Width. F",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 103,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Olive Marl Tropical Suiting Dutch Pant",
+  "category": "Trousers",
+  "color": "Green",
+  "occasions": [
+   "dressy",
+   "work",
+   "dance"
+  ],
+  "why": "Tropical suiting breathes: a dressed trouser you can dance in.",
+  "price": 267.0,
+  "colorDetail": "Olive marl tropical suiting",
+  "categoryDetail": "Tropical suiting Dutch pants",
+  "url": "https://universalworks.com/en-us/products/olive-marl-tropical-suiting-dutch-pant",
+  "img": "images/full/103.jpg",
+  "hi": true,
+  "desc": "The Dutch pant is our widest pant. It started, like many of our designs, with a reference, in this case, traditional Dutch sailor trousers, which is where the name comes from. That history gave us a place to begin, but the end result is very much our own, reworked into a modern, everyday fit. The volume comes from stitched-down front darts, giving the leg its shape without feeling heavy or bulky. Waist adjusters, and simple rear patch pockets finish it off. Light but practical and durable, Tropical Suiting is easy-to-wear, with a clean, minimal look. The best bit? All its creases drop out, mea",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "55% Polyester",
+   "45% Wool",
+   "100% Cotton"
+  ],
+  "fabric": "55% Polyester"
+ },
+ {
+  "id": 104,
+  "brand": "Universal Works",
+  "retailer": "Universal Works",
+  "name": "Indigo Kaihara LT WT Denim Jungle Jacket",
+  "category": "Jackets & Coats",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A lightweight Kaihara denim chore jacket.",
+  "price": 209.0,
+  "colorDetail": "Indigo Kaihara lightweight denim",
+  "categoryDetail": "Denim chore jacket",
+  "url": "https://universalworks.com/en-us/products/indigo-kaihara-lt-wt-denim-jungle-jacket",
+  "img": "images/full/104.jpg",
+  "hi": true,
+  "desc": "Jungle Jacket is inspired by classic US Army tropical uniform jackets. A loose unstructured fit with four pockets and an articulated two-piece sleeve. Great across the seasons. Model is 6’0\" with a 37\" chest and a 30.5\" waist, wearing a size ‘Large' top and size ’32' bottoms. Kaihara Denim is an iconic Japanese fabric mill from Fukuyama, Hiroshima, that produces some of the best denim in the world. We have chosen a 7.5oz, a light, summer weight. This garment is dyed with indigo. Take care as some colour transfer may occur when worn close to lighter-coloured garments and furniture. Like your fa",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "100% Cotton"
+  ],
+  "fabric": "100% Cotton"
+ },
+ {
+  "id": 105,
+  "brand": "Walsh x Universal Works",
+  "retailer": "Universal Works",
+  "name": "Walsh x Universal Works Ensign in Navy Leather/Canvas",
+  "category": "Shoes",
+  "color": "Blue",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A British-made trainer in navy leather and canvas.",
+  "price": 328.0,
+  "colorDetail": "Navy leather / canvas",
+  "categoryDetail": "Ensign trainer",
+  "url": "https://universalworks.com/en-us/products/walsh-x-universal-works-ensign-in-navy-leather-canvas",
+  "img": "images/full/105.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 106,
+  "brand": "Flower Mountain",
+  "retailer": "Universal Works",
+  "name": "Flower Mountain Dark Grey/Black/Dark Brown Suede/Nylon Yamano 3 Man",
+  "category": "Shoes",
+  "color": "Grey",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "A trail-style sneaker in suede and nylon.",
+  "price": 286.0,
+  "colorDetail": "Dark grey / black / dark brown",
+  "categoryDetail": "Yamano 3 trail shoe",
+  "url": "https://universalworks.com/en-us/products/flower-mountain-dark-grey-black-dark-brown-suede-nylon-yamano-3-man",
+  "img": "images/full/106.jpg",
+  "hi": true,
+  "desc": "We all have our favourite footwear brands, some big, some small, that we love and wear. Here at Universal Works, we are no exception. We have been following 'Flower Mountain' for a little while now and think they offer a really exciting and innovative addition to our own footwear roster, and importantly, they share much of the same creative inspirations and a love of the natural world. The 'Flower Mountain' story began thanks to a meeting between designers Keisuke Ota from Tokyo & Yang Chao from Beijing, who united by a love of mountain trekking, music and of course, footwear, decided to pursu",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 107,
+  "brand": "Casatlantic",
+  "retailer": "Casatlantic",
+  "name": "TANGER",
+  "category": "Trousers",
+  "color": "Green",
+  "occasions": [
+   "dinner",
+   "work",
+   "dance"
+  ],
+  "why": "High-waisted, pleated cotton trousers; a Tangier cut that moves.",
+  "price": 175.0,
+  "colorDetail": "Dark olive",
+  "categoryDetail": "Tanger high-waisted trousers",
+  "url": "https://www.casatlantic.com/products/tanger-cotton-dark-olive-trousers",
+  "img": "images/full/107.jpg",
+  "hi": true,
+  "desc": "Tanger, our widest fit, draws inspiration from the trousers worn by French officers in the hot deserts and streets of North Africa. It sits high at the waist and offers generous room around the thighs and legs. The trousers are crafted from a 300 gsm ( 8.9oz) cotton twill, exclusively woven for Casatlantic to meet our specific requirements in durability and aging. Handcrafted in Casablanca, Morocco. Model is 190 cm, wearing size 32.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 108,
+  "brand": "Casatlantic",
+  "retailer": "Casatlantic",
+  "name": "TANGER",
+  "category": "Trousers",
+  "color": "White/Ivory",
+  "occasions": [
+   "dance",
+   "dinner",
+   "work"
+  ],
+  "why": "Ecru linen in the Tanger cut; the summer dancing trouser.",
+  "price": 200.0,
+  "colorDetail": "Ecru",
+  "categoryDetail": "Tanger high-waisted linen trousers",
+  "url": "https://www.casatlantic.com/products/tanger-ecru-linen-trousers",
+  "img": "images/full/108.jpg",
+  "hi": true,
+  "desc": "Tanger , our widest fit, draws inspiration from the trousers worn by French officers in the hot deserts and streets of North Africa. It sits high at the waist and offers generous room around the thighs and legs. The trousers are crafted from a 240gsm (7 oz) 100% linen fabric. Please note that these trousers come unhemmed. Handcrafted in Casablanca, Morocco. Model is 190 cm, wearing size 32.",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "100% linen fabric"
+  ],
+  "fabric": "100% linen fabric"
+ },
+ {
+  "id": 109,
+  "brand": "Casatlantic",
+  "retailer": "Casatlantic",
+  "name": "TANGER",
+  "category": "Trousers",
+  "color": "Multi/Print",
+  "occasions": [
+   "dinner",
+   "dance",
+   "dressy"
+  ],
+  "why": "Houndstooth linen, high-waisted; dressed without a jacket.",
+  "price": 200.0,
+  "colorDetail": "Houndstooth",
+  "categoryDetail": "Tanger high-waisted linen trousers",
+  "url": "https://www.casatlantic.com/products/tanger-houndstooth-linen-trousers",
+  "img": "images/full/109.jpg",
+  "hi": true,
+  "desc": "Tanger , our widest fit, draws inspiration from the trousers worn by French officers in the hot deserts and streets of North Africa. It sits high at the waist and offers generous room around the thighs and legs. The trousers are crafted from a 240gsm (7 oz) 100% linen fabric. Please note that these trousers come unhemmed. Handcrafted in Casablanca, Morocco. Model is 190 cm, wearing size 32.",
+  "details": [
+   "Bookmarked 2026-09-20",
+   "100% linen fabric"
+  ],
+  "fabric": "100% linen fabric"
+ },
+ {
+  "id": 110,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE RAGGED THERMAL HOODIE",
+  "category": "Knitwear",
+  "color": "Green",
+  "occasions": [
+   "hang"
+  ],
+  "why": "A faded thermal hoodie for hanging out.",
+  "price": 240.0,
+  "colorDetail": "Faded green",
+  "categoryDetail": "Thermal hoodie",
+  "url": "https://brut-clothing.us/products/the-ragged-thermal-hoodie-faded-green?variant=52723452084557",
+  "img": "images/full/110.jpg",
+  "hi": true,
+  "desc": "The THERMAL ZIP SWEAT is representing BRUT's vision of the perfect lined zipped hoodie. This sweatshirt is designed by our team in Paris after carefully studying the structure, design, weight, shape, and colours of our favorite vintage hoodies from our archive and adding our own details. Boxy and cropped fit. Two-way BRUT zipper on front. 2 front hip pockets. Ribbed cuff and hem. Thermal lining.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 111,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE FISHERMAN SHIRT",
+  "category": "Shirts",
+  "color": "Blue",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "A fisherman shirt in blue; casual with a story.",
+  "price": 195.0,
+  "colorDetail": "Blue",
+  "categoryDetail": "Fisherman shirt",
+  "url": "https://brut-clothing.us/products/the-fisherman-shirt-blue?variant=53713578230093",
+  "img": "images/full/111.jpg",
+  "hi": true,
+  "desc": "Boxy and cropped fit. Fading effect. Canvas fabric. Raglan construction. Pointed collar with short buttoned placket Chest pocket. Custom \"Remember The Golden Rule\" label.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 112,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "REWORK® STATIONERY JACKET",
+  "category": "Jackets & Coats",
+  "color": "Blue",
+  "occasions": [
+   "hang",
+   "dinner"
+  ],
+  "why": "A reworked jacket from vintage cloth.",
+  "price": 495.0,
+  "colorDetail": null,
+  "categoryDetail": "Rework stationery jacket",
+  "url": "https://brut-clothing.us/products/rework%C2%AE-stationery-jacket",
+  "img": "images/full/112.jpg",
+  "hi": true,
+  "desc": "Regular fit. Inspired by a 1960s designer office storage piece originally created for organizing office supplies. Shank button closure. Classic collar. 13 pockets.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 113,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE SHORT-SLEEVE CREWNECK",
+  "category": "Tees & Polos",
+  "color": "Purple",
+  "occasions": [
+   "hang"
+  ],
+  "why": "A faded short-sleeve crewneck.",
+  "price": 145.0,
+  "colorDetail": "Faded purple",
+  "categoryDetail": "Short-sleeve crewneck",
+  "url": "https://brut-clothing.us/products/the-short-sleeve-crewneck-fadedpurple?variant=53714137874765",
+  "img": "images/full/113.jpg",
+  "hi": true,
+  "desc": "Boxy and cropped fit. Fading effect. Raglan sleeves. Crew neck. Ribbed collar cuff and hem. Custom \"Remember The Golden Rule\" label.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
  }
 ]
