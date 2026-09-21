@@ -2787,5 +2787,380 @@
    "Bookmarked 2026-09-20"
   ],
   "fabric": null
+ },
+ {
+  "id": 114,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE POPLIN PANTS",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "dance",
+   "hang",
+   "work"
+  ],
+  "why": "Light poplin trousers in black; easy to move in.",
+  "price": 145.0,
+  "colorDetail": "Black",
+  "categoryDetail": "Poplin pants",
+  "url": "https://brut-clothing.us/products/the-poplin-pants-black?variant=53713605656909",
+  "img": "images/full/114.jpg",
+  "hi": true,
+  "desc": "Garment-washed poplin. Natural waist. Loose & relaxed fit. Elasticated waistband. Braided cotton drawstring inside the waistband. Two front slant pockets & one back patch pocket. Custom \"Remember The Golden Rule\" label.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 115,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE THERMAL RUGBY POLO",
+  "category": "Tees & Polos",
+  "color": "Green",
+  "occasions": [
+   "hang"
+  ],
+  "why": "A thermal rugby polo in green.",
+  "price": 195.0,
+  "colorDetail": "Green",
+  "categoryDetail": "Thermal rugby polo",
+  "url": "https://brut-clothing.us/products/the-thermal-rugby-polo-green?variant=53714119295309",
+  "img": "images/full/115.jpg",
+  "hi": true,
+  "desc": "Oversized fit. Set-in sleeves. Fading effect. Thermal fabric. Contrasting collar and placket with button closure. Ribbed, cuff and hem.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 116,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE RUGBY POLO",
+  "category": "Tees & Polos",
+  "color": "Blue",
+  "occasions": [
+   "hang"
+  ],
+  "why": "A rugby polo in blue and green.",
+  "price": 195.0,
+  "colorDetail": "Blue / green",
+  "categoryDetail": "Rugby polo",
+  "url": "https://brut-clothing.us/products/the-rugby-polo-bluegreen?variant=53714120278349",
+  "img": "images/full/116.jpg",
+  "hi": true,
+  "desc": "Boxy and cropped fit. Set-in sleeves. Fading effect. Contrasting collar and placket with button closure and custom Brut label. Ribbed finishes.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 117,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE DIVING SWEAT",
+  "category": "Knitwear",
+  "color": "Blue",
+  "occasions": [
+   "hang"
+  ],
+  "why": "A faded deep-blue sweatshirt.",
+  "price": 285.0,
+  "colorDetail": "Faded deep blue",
+  "categoryDetail": "Diving sweatshirt",
+  "url": "https://brut-clothing.us/products/the-diving-sweat-fadeddeepblue?variant=53714137219405",
+  "img": "images/full/117.jpg",
+  "hi": true,
+  "desc": "Boxy and classic fit. Faded effect. Raglan sleeve. Ribbed collar. Screen print on bottom sleeve. Inspired by vintage 1980s wetsuits. Custom \"Remember The Golden Rule\" label.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 118,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE ELEPHANT PANTS",
+  "category": "Trousers",
+  "color": "Beige/Tan",
+  "occasions": [
+   "hang"
+  ],
+  "why": "Heavyweight khaki elephant pants; very wide.",
+  "price": 225.0,
+  "colorDetail": "Khaki heavyweight",
+  "categoryDetail": "Elephant pants",
+  "url": "https://brut-clothing.us/products/the-elephant-pants-khaki-heavyweight?variant=52723538919757",
+  "img": "images/full/118.jpg",
+  "hi": true,
+  "desc": "Inspired by vintage french army chino pants from our archives, the ELEPHANT PANTS is designed to be a staple in your wardrobe thanks to their heavyweight and durable fabric. High waist and wide leg width fit. 2 inseam front pockets, 1 coin pocket and 2 jetted back pocket with button. Single pleated front. Button fly. Find more information our pants guide",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 119,
+  "brand": "Uskees",
+  "retailer": "Uskees",
+  "name": "3047 Docklands blazer - dark plum",
+  "category": "Suits & Blazers",
+  "color": "Purple",
+  "occasions": [
+   "work",
+   "dressy",
+   "dinner"
+  ],
+  "why": "An unlined organic-cotton blazer in dark plum.",
+  "price": 230.0,
+  "colorDetail": "Dark plum",
+  "categoryDetail": "Unlined Docklands blazer",
+  "url": "https://uskees.com/en-us/products/3047-docklands-blazer-dark-plum",
+  "img": "images/full/119.jpg",
+  "hi": true,
+  "desc": "Restock due first week of October A twill blazer inspired by the hardwearing attire worn by British dockers until the 1960s. The 3047 is a tailored coat of the ports and piers, of the trades club and union office, restyled for today.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 120,
+  "brand": "Uskees",
+  "retailer": "Uskees",
+  "name": "5021 Twill painter pants - dark plum",
+  "category": "Trousers",
+  "color": "Purple",
+  "occasions": [
+   "work",
+   "dinner",
+   "hang"
+  ],
+  "why": "Twill painter pants to match the plum blazer.",
+  "price": 200.0,
+  "colorDetail": "Dark plum",
+  "categoryDetail": "Twill painter pants",
+  "url": "https://uskees.com/en-us/products/5021-twill-painter-pants-dark-plum?variant=57201913856375",
+  "img": "images/full/120.jpg",
+  "hi": true,
+  "desc": "Restock due first week of October A premium pair of tradesman’s pants minus the paint splatter. The 5021 is a practical piece of kit from the toolbox that is your wardrobe. A straight, sturdy piece of hard working apparel.",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 121,
+  "brand": "Todd Snyder",
+  "retailer": "Todd Snyder",
+  "name": "Japanese Selvedge Big Chino",
+  "category": "Trousers",
+  "color": "Beige/Tan",
+  "occasions": [
+   "work",
+   "hang",
+   "dinner"
+  ],
+  "why": "Japanese selvedge chino in the giant fit.",
+  "price": 348.0,
+  "colorDetail": "Khaki",
+  "categoryDetail": "Giant-fit selvedge chino",
+  "url": "https://www.toddsnyder.com/collections/mens-casual-pants/products/giant-fit-japanese-selvedge-chinokhaki",
+  "img": "images/full/121.jpg",
+  "hi": true,
+  "desc": "Embrace the oversized trend with these extra-wide pants. Our fullest pant fit, these are 3.5” wider at the cuff than our standard Relaxed pants, and are designed to puddle a bit at the ankle; the rise is also higher, measuring 14.5” in the front. They feature adjustable tabs at the sides of the waist, so you can wear them higher or lower as you’d like. Belt Loops Zip Fly with Melamine Button Closure Button-Through Back Pockets Style PA073014",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 122,
+  "brand": "Todd Snyder",
+  "retailer": "Todd Snyder",
+  "name": "Lightweight Big Jean in Light Indigo",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work",
+   "dance"
+  ],
+  "why": "A lightweight big jean in light indigo.",
+  "price": 248.0,
+  "colorDetail": "Light indigo",
+  "categoryDetail": "Lightweight giant-fit jean",
+  "url": "https://www.toddsnyder.com/collections/mens-casual-pants/products/lightweight-giant-fit-chinolight-indigo",
+  "img": "images/full/122.jpg",
+  "hi": true,
+  "desc": "Embrace the oversized trend with these extra-wide pants. Our fullest pant fit, these are 3.5” wider at the cuff than our standard Relaxed jeans, and are designed to puddle a bit at the ankle; the rise is also higher, measuring 14.5” in the front. They feature adjustable tabs at the sides of the waist, so you can wear them higher or lower as you’d like. Try wearing them with a boxy or slightly shorter top, or go full oversized and pair them with one of our Big Shirts. Belt Loops Zip Fly with Melamine Button Closure Button-Through Back Pockets Style PA073159",
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 123,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Beacon Flannel Sport Shirt",
+  "category": "Shirts",
+  "color": "Brown",
+  "occasions": [
+   "work",
+   "dinner"
+  ],
+  "why": "Canclini flannel in dark brown; a shirt for cold trips and dinners.",
+  "price": 225.0,
+  "colorDetail": "Dark brown",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/canclini-dark-brown-beacon-flannel-860499.html",
+  "img": "images/full/123.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 124,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "American Pima Oxford Cloth Button Down",
+  "category": "Shirts",
+  "color": "Blue",
+  "occasions": [
+   "work",
+   "dinner"
+  ],
+  "why": "A pima oxford with a shadow stripe; the work shirt with a little more in it.",
+  "price": 175.0,
+  "colorDetail": "Sky blue and gold shadow stripe",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/american-pima-sky-blue-and-gold-shadow-stripe-oxford-cloth-859114.html",
+  "img": "images/full/124.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 125,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Clark Oxford Cloth Button Down",
+  "category": "Shirts",
+  "color": "Purple",
+  "occasions": [
+   "work",
+   "dinner"
+  ],
+  "why": "An oxford button-down in lilac; work and dinner.",
+  "price": 125.0,
+  "colorDetail": "Lilac",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/clark-lilac-oxford-cloth-343261.html",
+  "img": "images/full/125.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 126,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Low Twist Plaid Shirt",
+  "category": "Shirts",
+  "color": "Multi/Print",
+  "occasions": [
+   "hang",
+   "dinner"
+  ],
+  "why": "Japanese low-twist cotton in a bold plaid; weekends and casual dinners.",
+  "price": 195.0,
+  "colorDetail": "Orange, blue and yellow plaid",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/japanese-orange-blue-and-yellow-low-twist-plaid-532640.html",
+  "img": "images/full/126.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 127,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Washed Linen Shirt",
+  "category": "Shirts",
+  "color": "Blue",
+  "occasions": [
+   "dance",
+   "work",
+   "dinner"
+  ],
+  "why": "Washed linen breathes on a dance floor and looks right at a table.",
+  "price": 145.0,
+  "colorDetail": "Blue houndstooth",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/blue-houndstooth-washed-linen-599941.html",
+  "img": "images/full/127.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% linen"
+ },
+ {
+  "id": 128,
+  "brand": "Proper Cloth",
+  "retailer": "Proper Cloth",
+  "name": "Italian Merino Wool Shirt",
+  "category": "Shirts",
+  "color": "Red",
+  "occasions": [
+   "work",
+   "dressy",
+   "dinner"
+  ],
+  "why": "Reda merino in burgundy; a shirt that passes for dressy.",
+  "price": 255.0,
+  "colorDetail": "Burgundy",
+  "categoryDetail": "Custom shirt, made to your measurements",
+  "url": "https://propercloth.com/dress-shirts/reda-burgundy-merino-wool-461610.html",
+  "img": "images/full/128.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20",
+   "Made to your measurements",
+   "price is for the standard build"
+  ],
+  "fabric": "100% merino wool"
  }
 ]
