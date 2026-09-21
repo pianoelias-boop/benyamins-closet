@@ -3500,5 +3500,112 @@
    "Justin is 6 ft 1 in a size L"
   ],
   "fabric": "100% cotton"
+ },
+ {
+  "id": 142,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Sun Faded Sweatpants",
+  "category": "Trousers",
+  "color": "Beige/Tan",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "Wide-straight cotton sweats with a vintage wash; the store says they run big, so size down for a normal fit.",
+  "price": 120.0,
+  "colorDetail": "Sun-faded tan",
+  "categoryDetail": "Wide-straight sweatpants",
+  "url": "https://ryokorain.com/collections/frontpage/products/artists-athletes-sweatpants-tan",
+  "img": "images/full/142.jpg",
+  "hi": true,
+  "desc": "Ryoko Rain sun faded tan sweatpants with a vintage wash. Featuring a white screen printed logo on left leg, with bungee cord and cord lock at the cuffs. - Wide-Straight leg. Runs BIG. For a more normal fit, recommended to size down. - Unisex - Material: 100% Cotton - Imported",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex S to XXXL",
+   "Runs big: size down for a more normal fit",
+   "Bungee cord and cord lock at the cuffs"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 143,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Classic Sweatpants",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "Relaxed straight-leg cotton sweats with a back pocket and cord-lock cuffs.",
+  "price": 120.0,
+  "colorDetail": "Black",
+  "categoryDetail": "Relaxed straight sweatpants",
+  "url": "https://ryokorain.com/collections/frontpage/products/classic-black-sweatpants",
+  "img": "images/full/143.jpg",
+  "hi": true,
+  "desc": "Black sweatpants with a white rubberized Ryoko Rain logo print on the left leg and classic back pocket. Featuring bungee cord waistband and cuffs with cord lock. - Relaxed straight leg fit - Unisex - Material: 100% Cotton - Imported",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex S to XXXL",
+   "Relaxed straight leg (the store does not say these run big)"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 144,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Artists & Athletes Sweatpants",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "Wide-straight cotton sweats; the same block as the ash grey pair, which the store says runs big.",
+  "price": 120.0,
+  "colorDetail": "Faded black",
+  "categoryDetail": "Wide-straight sweatpants",
+  "url": "https://ryokorain.com/collections/frontpage/products/faded-black-sweatpants",
+  "img": "images/full/144.jpg",
+  "hi": true,
+  "desc": "ARTISTS & ATHLETES SWEATPANTS - BLACK",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex XS to XXXL",
+   "Listing carries no description",
+   "sized like the ash grey pair"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 145,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Artists & Athletes Sweatpants",
+  "category": "Trousers",
+  "color": "Grey",
+  "occasions": [
+   "exercise",
+   "hang"
+  ],
+  "why": "Wide-straight cotton sweats with the embroidered back pocket; runs big, so size down for a normal fit.",
+  "price": 120.0,
+  "colorDetail": "Ash grey",
+  "categoryDetail": "Wide-straight sweatpants",
+  "url": "https://ryokorain.com/collections/frontpage/products/faded-sweatpants-ash-grey",
+  "img": "images/full/145.jpg",
+  "hi": true,
+  "desc": "Ryoko Rain ash grey sweatpants with a black screen print on the left leg. Signature back left pocket with \"For Artists and Athletes\" embroidery. Black bungee cord and cord lock at the cuffs. - Wide-Straight leg. Runs BIG. For a more normal fit, recommended to size down. - Unisex - Material: 100% Cotton - Imported",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex XS to XXXL",
+   "Runs big: size down for a more normal fit",
+   "Bungee cord and cord lock at the cuffs"
+  ],
+  "fabric": "100% cotton"
  }
 ]
