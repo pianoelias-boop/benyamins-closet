@@ -13,7 +13,7 @@ ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode 
 UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1'
 H = {'User-Agent': UA, 'Accept': 'application/json,text/html,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9'}
 TODAY = datetime.date.today().isoformat()
-brands = [b for b in json.load(open('build/suggest/brands.json'))['brands'] if b['status'] == 'approved']
+brands = [b for b in json.load(open('build/suggest/brands.json'))['brands'] if b['status'] == 'approved' and b.get('site')]
 def jsload(p): return json.loads(open(p).read().split('= ', 1)[1].rstrip(';\n'))
 pieces = jsload('data.js') + (jsload('suggestions.js') if os.path.exists('suggestions.js') else [])
 by_handle = {}

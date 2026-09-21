@@ -20,366 +20,780 @@
   {
    "name": "18 East",
    "site": "https://18east.co",
-   "status": "approved"
+   "status": "approved",
+   "what": "New York; hand-loomed and hand-embroidered Indian cloth in relaxed cuts."
   },
   {
    "name": "3sixteen",
    "site": "https://www.3sixteen.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "New York denim and workwear: Japanese selvedge, heavy tees, boots."
   },
   {
    "name": "A Kind of Guise",
    "site": "https://akindofguise.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Munich; relaxed tailoring, knits and trousers in good cloth, made in Europe.",
+   "link": "https://akindofguise.com/collections/men"
+  },
+  {
+   "name": "Alden",
+   "what": "New England shoemaker since 1884; shell cordovan loafers, boots and bluchers.",
+   "site": "https://www.aldenshop.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Alex Mill",
    "site": "https://www.alexmill.com",
-   "status": "proposed",
-   "note": "kept from the original roster"
+   "status": "archived",
+   "note": "from the original template roster, not on his list"
+  },
+  {
+   "name": "Allen Edmonds",
+   "what": "Wisconsin dress shoes and boots, recraftable.",
+   "site": "https://www.allenedmonds.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Americana Pipedream",
+   "what": "Military surplus, camouflage and US-made outdoor apparel.",
+   "site": "https://www.americanapipedream.com",
+   "status": "proposed"
+  },
+  {
+   "name": "Aran Crafts",
+   "what": "Irish family knitwear; Aran sweaters and cardigans in merino and wool.",
+   "site": "https://arancrafts.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Arc'teryx",
    "site": "https://arcteryx.com",
    "status": "approved",
    "note": "no feed; events only",
-   "feed": false
+   "feed": false,
+   "what": "Vancouver; technical shells and approach shoes."
+  },
+  {
+   "name": "Aurora Shoe Co",
+   "what": "Handmade leather shoes from upstate New York, on simple moccasin lasts.",
+   "site": "https://www.aurorashoeco.com",
+   "status": "proposed"
   },
   {
    "name": "Axel Arigato",
    "site": "https://axelarigato.com",
    "status": "proposed",
    "note": "no feed; events only; from his list, but its pieces had sold out by 2026-09-20",
-   "feed": false
+   "feed": false,
+   "what": "Gothenburg sneakers and knits."
   },
   {
    "name": "Bare Knuckles",
    "site": "https://bareknuckles.co",
-   "status": "approved"
+   "status": "approved",
+   "what": "Wide, high-rise jeans and sweats with a roomy hip."
+  },
+  {
+   "name": "Batoner",
+   "what": "Japanese knitwear from Yamagata; fine-gauge and heavy knits.",
+   "site": "https://www.batoner.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Beckett Simonon",
+   "what": "Made-to-order leather shoes, boots and bags at direct prices; made in Colombia.",
+   "site": "https://www.beckettsimonon.com",
+   "status": "proposed"
   },
   {
    "name": "Big Bud Press",
    "site": "https://bigbudpress.com",
-   "status": "proposed",
-   "note": "kept from the original roster; unisex work pants and jumpsuits"
+   "status": "archived",
+   "note": "from the original template roster, not on his list"
   },
   {
    "name": "Billy Reid",
    "site": "https://www.billyreid.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Alabama; Southern tailoring, waxed coats, soft shirts."
   },
   {
    "name": "Blacksmith",
    "site": "https://www.blacksmith-store.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "South London store and label; workwear, cargos, corduroy, skate and streetwear."
   },
   {
    "name": "Blue Owl Workshop",
    "site": "https://www.blueowl.us",
    "status": "approved",
-   "note": "stockist: Kaptain Sunshine and other Japanese labels"
+   "note": "stockist: Kaptain Sunshine and other Japanese labels",
+   "what": "Austin stockist; Kaptain Sunshine and other Japanese labels."
+  },
+  {
+   "name": "Bosie",
+   "what": "Scottish knitwear made in Hawick; lambswool and cashmere.",
+   "site": "https://bosie.co",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Bronson",
    "site": "https://bronsonshop.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Vintage reproductions from the 1920s to 60s; stripe trousers, knits."
   },
   {
    "name": "Brut Clothing",
    "site": "https://brut-clothing.us",
    "status": "approved",
-   "note": "also brut-clothing.com"
+   "note": "also brut-clothing.com",
+   "what": "Paris; reworked vintage and made-in-Europe workwear."
   },
   {
    "name": "Buck Mason",
    "site": "https://www.buckmason.com",
-   "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "status": "approved",
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Los Angeles; American-made basics, big chinos, selvedge jeans, knits.",
+   "link": "https://www.buckmason.com/?g=men"
+  },
+  {
+   "name": "Canoe Club",
+   "what": "Boulder, Colorado stockist; Japanese and American workwear and outdoor labels.",
+   "site": "https://shopcanoeclub.com",
+   "status": "proposed"
   },
   {
    "name": "Canterbury",
    "site": "https://canterburyusa.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "New Zealand rugby heritage; stadium pants and rugby shirts."
+  },
+  {
+   "name": "Carmina",
+   "what": "Mallorca shoemaker; Goodyear-welted loafers, boots and shoes.",
+   "site": "https://www.carminashoemaker.com",
+   "link": "https://www.carminashoemaker.com/us/en",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Casatlantic",
    "site": "https://www.casatlantic.com",
    "status": "approved",
-   "note": "Tangier-cut high-waisted trousers; from his bookmarks"
+   "note": "Tangier-cut high-waisted trousers; from his bookmarks",
+   "what": "High-waisted, pleated trousers cut the Tangier way; cotton, linen, wool."
   },
   {
    "name": "Chamula",
    "site": "https://www.chamulaoriginal.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Hand-knit merino sweaters and cardigans from Mexico."
+  },
+  {
+   "name": "Corridor",
+   "what": "New York; folk-Americana shirts, knits and relaxed trousers with a soft palette.",
+   "site": "https://corridornyc.com",
+   "status": "proposed"
   },
   {
    "name": "Drake's",
    "site": "https://us.drakes.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "London; soft tailoring, Drake’s by Sebago mocs."
+  },
+  {
+   "name": "Earth Studies",
+   "what": "Outdoor products for the human and nature connection.",
+   "site": "https://earth-studies.com",
+   "link": "https://earth-studies.com/collections/web-store",
+   "status": "proposed"
   },
   {
    "name": "Filson",
    "site": "https://www.filson.com",
    "status": "proposed",
-   "note": "kept from the original roster; waxed cotton, wool"
+   "note": "kept from the original roster; waxed cotton, wool",
+   "what": "Seattle since 1897; waxed cotton, wool and canvas outdoor clothing.",
+   "feed": false
   },
   {
    "name": "Flamborough Marine",
    "site": "https://www.flamboroughmanor.co.uk",
    "status": "approved",
    "note": "no feed; made-to-order ganseys",
-   "feed": false
+   "feed": false,
+   "what": "Yorkshire; hand-framed made-to-order fisherman’s ganseys."
   },
   {
    "name": "Found",
    "site": "https://found.store",
-   "status": "approved"
+   "status": "approved",
+   "what": "Embroidered and printed jeans and easy pieces."
+  },
+  {
+   "name": "Frizmworks",
+   "what": "Korean workwear-inspired label; wide pants and boxy jackets.",
+   "site": "https://frizmworks.com",
+   "status": "proposed"
   },
   {
    "name": "Full Count",
    "site": "https://fullcount.co",
-   "status": "approved"
+   "status": "approved",
+   "what": "Osaka denim maker; Zimbabwe-cotton jeans in wide and straight cuts."
   },
   {
    "name": "Glasswing",
    "site": "https://glasswingshop.com",
    "status": "proposed",
-   "note": "stockist: Brain Dead and others; from his list, but its pieces had sold out by 2026-09-20"
+   "note": "stockist: Brain Dead and others; from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Seattle stockist; Brain Dead and others."
   },
   {
    "name": "Gramicci",
    "site": "https://gramicci.com",
    "status": "proposed",
-   "note": "kept from the original roster; climbing pants, wide legs"
+   "note": "kept from the original roster; climbing pants, wide legs",
+   "what": "Climbing pants with the gusseted crotch and webbing belt; wide cuts too.",
+   "link": "https://gramicci.com/collections/mens-pants"
+  },
+  {
+   "name": "Harley of Scotland",
+   "what": "Shetland wool sweaters knitted seamlessly in Peterhead, Scotland.",
+   "site": "https://harleyofscotland.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Haspel",
    "site": "https://www.haspel.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "New Orleans seersucker since 1909."
   },
   {
    "name": "Haven",
    "site": "https://havenshop.com",
    "status": "approved",
-   "note": "stockist: Tarvas and others"
+   "note": "stockist: Tarvas and others",
+   "what": "Canadian stockist; Japanese and technical menswear, Tarvas shoes."
   },
   {
    "name": "Howlin'",
    "site": "https://www.howlin.com",
-   "status": "proposed",
-   "note": "kept from the original roster; Belgian knitwear"
+   "status": "archived",
+   "note": "from the original template roster, not on his list"
+  },
+  {
+   "name": "Indi + Ash",
+   "what": "Handwoven and handspun Indian cloth cut in New York; ticking stripes, herringbone, khadi.",
+   "site": "https://indi-and-ash.com",
+   "status": "approved"
+  },
+  {
+   "name": "J.Crew",
+   "what": "American classics; chinos, oxfords, the Giant-fit line.",
+   "site": "https://www.jcrew.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "J.Peterman",
+   "what": "The catalog romantic; shirts, coats and trousers with a story attached.",
+   "site": "https://jpeterman.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "J.Press",
+   "what": "Ivy League clothier since 1902; sack suits, Shaggy Dog sweaters, oxford cloth.",
+   "site": "https://jpressonline.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Jacques Solovière",
+   "what": "Paris; soft unlined loafers and moccasins.",
+   "site": "https://jacquessoloviereparis.com",
+   "link": "https://jacquessoloviereparis.com/en-us",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "John Smedley",
+   "what": "English fine-gauge knitwear since 1784; merino and Sea Island cotton.",
+   "site": "https://www.johnsmedley.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Junior's",
+   "what": "Clothing shop built on timeless, classic style; walk in or by appointment.",
+   "site": "https://www.shopjuniors.com",
+   "status": "proposed"
   },
   {
    "name": "Kaidu Utility",
    "site": "https://www.kaidutility.com",
    "status": "approved",
-   "note": "stockist: Indi + Ash"
+   "note": "stockist: Indi + Ash",
+   "what": "New York; workwear and a stockist for Indi + Ash."
+  },
+  {
+   "name": "Kamakura",
+   "what": "Japanese shirtmaker; oxford and broadcloth button-downs at fair prices.",
+   "site": "https://kamakurashirts.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Kanata",
+   "what": "Cowichan-inspired hand-knit wool sweaters from Canada.",
+   "site": "https://kanataknits.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Kartik Research",
    "site": "https://kartikresearch.com",
    "status": "proposed",
-   "note": "kept from the original roster; Indian handloom and embroidery"
+   "note": "kept from the original roster; Indian handloom and embroidery",
+   "what": "Indian handloom, embroidery and vintage-inspired cuts, made in India."
   },
   {
    "name": "Keen",
    "site": "https://www.keenfootwear.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Portland outdoor shoes."
   },
   {
    "name": "Knickerbocker",
    "site": "https://www.knickerbocker.nyc",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "New York; American-made workwear and twill."
   },
   {
    "name": "Labour Union",
    "site": "https://labourunion-1986.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Heritage menswear in the 1940s to 1980s style; HBT, hickory stripe, duck canvas."
+  },
+  {
+   "name": "Lost & Found",
+   "what": "Toronto stockist; Japanese and heritage menswear.",
+   "site": "https://shoplostfound.com",
+   "status": "proposed"
   },
   {
    "name": "Maharishi",
    "site": "https://www.maharishistore.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "London; pacifist military, hakama pants, embroidery."
   },
   {
    "name": "Manresa",
    "site": "https://manresaclothing.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "California; seersucker shorts and an everything-guaranteed repair policy."
   },
   {
    "name": "Margaret Howell",
    "site": "https://www.margarethowell.com",
-   "status": "proposed",
-   "note": "kept from the original roster; MHL workwear"
+   "status": "archived",
+   "note": "from the original template roster, not on his list"
+  },
+  {
+   "name": "maru sankaku peke",
+   "what": "Made in Japan; denim and classic pieces with their own cut.",
+   "site": "https://www.marusankakupeke.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Meermin",
+   "what": "Mallorca; Goodyear-welted shoes at direct prices.",
+   "site": "https://meermin.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Mephisto",
    "site": "https://mephistousa.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "French walking shoes."
   },
   {
    "name": "Morning Witch",
    "site": "https://shop.morningwitch.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Small-batch knits with a pattern."
+  },
+  {
+   "name": "MotivMfg",
+   "what": "New York workwear; heavy cottons, wide cuts, military patterns.",
+   "site": "https://www.motivmfg.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Mr Porter",
    "site": "https://www.mrporter.com",
    "status": "approved",
    "note": "no feed; events only",
-   "feed": false
+   "feed": false,
+   "what": "Global menswear e-tailer; Small Talk, Mr P."
   },
   {
    "name": "Nantucket Reds",
    "site": "https://www.nantucketreds.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Murray’s Toggery Shop; the Nantucket red canvas trouser."
   },
   {
    "name": "Nepenthes New York",
    "site": "https://nepenthesny.com",
    "status": "proposed",
-   "note": "stockist: Needles, Engineered Garments, South2 West8; from his list, but its pieces had sold out by 2026-09-20"
+   "note": "stockist: Needles, Engineered Garments, South2 West8; from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Needles, Engineered Garments and South2 West8."
+  },
+  {
+   "name": "NN07",
+   "what": "Copenhagen; relaxed Scandinavian menswear in linen and wool.",
+   "site": "https://www.nn07.com",
+   "link": "https://www.nn07.com/en/us/",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "No Man Walks Alone",
    "site": "https://nomanwalksalone.com",
    "status": "approved",
-   "note": "stockist: Wythe, De Bonne Facture and others"
+   "note": "stockist: Wythe, De Bonne Facture and others",
+   "what": "New York stockist; Italian and Japanese tailoring and casual wear."
   },
   {
    "name": "Noah",
    "site": "https://noahny.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "New York; skate and prep, made responsibly."
+  },
+  {
+   "name": "O'Connell's",
+   "what": "Buffalo, New York trad clothier since 1959; Shetlands, cords, madras.",
+   "site": "https://oconnellsclothing.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Oak Street Bootmakers",
    "site": "https://oakstreetbootmakers.com",
    "status": "approved",
    "note": "no Shopify feed; events only",
-   "feed": false
+   "feed": false,
+   "what": "Chicago; American-made loafers and boots in Chromexcel."
   },
   {
    "name": "Okayama Denim",
    "site": "https://www.okayamadenim.com",
    "status": "proposed",
-   "note": "stockist: Studio D'Artisan and other Japanese denim; from his list, but its pieces had sold out by 2026-09-20"
+   "note": "stockist: Studio D'Artisan and other Japanese denim; from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Japanese denim stockist; Studio D’Artisan and others."
   },
   {
    "name": "Older Best",
    "site": "https://www.olderbest.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Vintage-inspired knits and tees."
   },
   {
    "name": "Outlier",
    "site": "https://outlier.nyc",
-   "status": "approved"
+   "status": "approved",
+   "what": "New York; technical merino and cotton for the city."
+  },
+  {
+   "name": "Percival",
+   "what": "London; classics redrawn with texture and pattern, camp collars and knits.",
+   "site": "https://www.percivalclo.com",
+   "status": "proposed"
+  },
+  {
+   "name": "Post Romantic",
+   "what": "Ethically handmade clothing in natural fibres, made to your measurements.",
+   "site": "https://post-romantic.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Principle M",
+   "what": "Beijing tailoring; suits, jackets and shirts, bespoke and made-to-measure.",
+   "site": "https://www.principlem.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Proper Cloth",
    "site": "https://propercloth.com",
    "status": "approved",
    "note": "no feed; events only",
-   "feed": false
+   "feed": false,
+   "what": "Custom shirts and tailoring to your measurements, from New York."
+  },
+  {
+   "name": "Quoddy",
+   "what": "Maine handsewn moccasins, boat shoes and camp mocs.",
+   "site": "https://www.quoddy.com",
+   "status": "proposed"
   },
   {
    "name": "Ralph Lauren",
    "site": "https://www.ralphlauren.com",
    "status": "approved",
    "note": "no feed; heavily rate-limited; events only",
-   "feed": false
+   "feed": false,
+   "what": "Polo, RRL and Purple Label; the American wardrobe at every price."
+  },
+  {
+   "name": "Randy's Garments",
+   "what": "Workwear made in the USA.",
+   "site": "https://randysgarments.com",
+   "link": "https://randysgarments.com/shop/",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Reproduction of Found",
+   "what": "Japanese remakes of vintage military trainers, sold through Garmentory here.",
+   "site": "https://www.garmentory.com",
+   "link": "https://www.garmentory.com/sale/reproduction-of-found",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Res Ipsa",
    "site": "https://www.resipsausa.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Loafers and clothes cut from vintage kilim rugs and textiles."
+  },
+  {
+   "name": "Ryoko Rain",
+   "what": "Orange County, California; luxury streetwear.",
+   "site": "https://ryokorain.com",
+   "status": "proposed"
   },
   {
    "name": "Samuel Zelig",
    "site": "https://samuelzelig.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Embroidered trousers with a story."
+  },
+  {
+   "name": "Saturdays NYC",
+   "what": "New York surf label; easy pants, tees and knits.",
+   "site": "https://www.saturdaysnyc.com",
+   "link": "https://www.saturdaysnyc.com/collections/mens-pants",
+   "status": "proposed"
   },
   {
    "name": "Scarpa",
    "site": "https://scarpa.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Italian approach and hiking shoes."
   },
   {
    "name": "Scott Fraser Collection",
    "site": "https://scottfrasercollection.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "London; made-to-order and ready-to-wear with a 1940s to 60s cut."
+  },
+  {
+   "name": "Service Works",
+   "what": "London chef-pant specialists; wide, elasticated, in cotton and ripstop.",
+   "site": "https://serviceworks.xyz",
+   "status": "proposed"
+  },
+  {
+   "name": "Shetland Woollen Co",
+   "what": "Shetland wool knitwear made in the islands.",
+   "site": "https://shetlandwoollen.co",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Son of a Stag",
    "site": "https://sonofastag.com",
    "status": "approved",
-   "note": "stockist: ONI, Yonetomi and other Japanese labels"
+   "note": "stockist: ONI, Yonetomi and other Japanese labels",
+   "what": "London stockist; ONI, Yonetomi and Japanese denim."
+  },
+  {
+   "name": "Son of a Tailor",
+   "what": "Copenhagen; custom-sized tees, polos and knits, made to order.",
+   "site": "https://www.sonofatailor.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Spier & Mackay",
-   "site": "https://us.spierandmackay.com",
+   "site": "https://www.spierandmackay.com",
    "status": "approved",
-   "feed": false
+   "feed": false,
+   "what": "Toronto; tailoring, knits and shirts at direct prices."
   },
   {
    "name": "Stan Ray",
    "site": "https://www.stanray.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Texas painter pants and fatigues, now made in the UK and beyond."
   },
   {
    "name": "Standard & Strange",
    "site": "https://standardandstrange.com",
    "status": "approved",
-   "note": "stockist: Indi + Ash and others"
+   "note": "stockist: Indi + Ash and others",
+   "what": "Oakland stockist; Japanese denim, handwoven Indi + Ash, boots."
+  },
+  {
+   "name": "Still by Hand",
+   "what": "Japanese label; quiet, relaxed pieces in considered fabrics.",
+   "site": "https://stillbyhand.jp",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Stitch Spring",
    "site": "https://stitchspring.com",
    "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "note": "from his list, but its pieces had sold out by 2026-09-20",
+   "what": "Anime-inspired knitwear."
   },
   {
    "name": "Studio Nicholson",
    "site": "https://www.studionicholson.com",
-   "status": "proposed",
-   "note": "kept from the original roster; wide cuts"
+   "status": "archived",
+   "note": "from the original template roster, not on his list"
+  },
+  {
+   "name": "Suitsupply",
+   "what": "Amsterdam tailoring; suits, jackets and trousers in Italian cloth.",
+   "site": "https://suitsupply.com",
+   "link": "https://suitsupply.com/en-us/",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Tanuki",
+   "what": "Japanese denim; heavy slub selvedge in wide and regular cuts. No site on file.",
+   "site": "",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "The Anthology",
+   "what": "Hong Kong tailors; ready-to-wear and made-to-measure with a soft shoulder.",
+   "site": "https://theanthology.net",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Time Catcher",
+   "what": "Timeless-style clothing built to last.",
+   "site": "https://timecatcherco.com",
+   "link": "https://timecatcherco.com/collections/best-sellers",
+   "status": "proposed"
   },
   {
    "name": "TOAST",
    "site": "https://us.toa.st",
-   "status": "approved"
+   "status": "approved",
+   "what": "British label; cord, ikat, natural cloth."
+  },
+  {
+   "name": "Todd Shelton",
+   "what": "New Jersey; American-made jeans and trousers in your exact size.",
+   "site": "https://toddshelton.com",
+   "feed": false,
+   "status": "proposed"
   },
   {
    "name": "Todd Snyder",
    "site": "https://www.toddsnyder.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "New York; Ivy and workwear references, the Giant-fit line."
   },
   {
    "name": "Universal Surplus",
    "site": "https://universal-surplus.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Paris; vintage military clothing and workwear since 2012."
   },
   {
    "name": "Universal Works",
    "site": "https://universalworks.com",
-   "status": "approved"
+   "status": "approved",
+   "what": "Nottingham; relaxed British workwear, Oxford and Dutch pants."
   },
   {
    "name": "Uskees",
    "site": "https://uskees.com",
+   "status": "approved",
+   "what": "Manchester; organic-cotton workwear, blazers and painter pants."
+  },
+  {
+   "name": "Varusteleka",
+   "what": "Finnish military surplus and their own Särmä line.",
+   "site": "https://www.varusteleka.com",
+   "link": "https://www.varusteleka.com/en/category/military-surplus/1754",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "W'menswear",
+   "what": "Womenswear cut from menswear patterns; heavy denim and cotton.",
+   "site": "https://www.wmenswear.com",
    "status": "approved"
+  },
+  {
+   "name": "Walker Slater",
+   "what": "Edinburgh; tweed tailoring and Harris tweed jackets.",
+   "site": "https://www.walkerslater.com",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "William Lockie",
+   "what": "Scottish cashmere and lambswool knitwear since 1874, sold through Baltzar.",
+   "site": "https://baltzar.com",
+   "link": "https://baltzar.com/en-us/collections/william-lockie",
+   "feed": false,
+   "status": "proposed"
+  },
+  {
+   "name": "Wythe",
+   "what": "New York; vintage-Americana oxfords, western shirts, outerwear and knits.",
+   "site": "https://www.wythe.com",
+   "status": "proposed"
   },
   {
    "name": "Yitai",
    "site": "https://www.yitai.la",
-   "status": "approved"
+   "status": "approved",
+   "what": "Embroidered and selvedge denim at fair prices.",
+   "link": "https://www.yitai.la/collections/ready-to-ship"
   }
  ]
 }

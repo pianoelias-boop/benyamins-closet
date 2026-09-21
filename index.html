@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="theme.css?v=1">
-<link rel="stylesheet" href="styles.css?v=22">
+<link rel="stylesheet" href="styles.css?v=23">
 <script src="config.js?v=1"></script>
 <script>
   // Personal text lives in config.js. This fills the page from it: the header straight away, so nothing
@@ -155,7 +155,10 @@
     <div class="tabs" id="tabs" hidden>
       <button class="tab on" type="button" data-tab="closet">The closet</button>
       <button class="tab" type="button" data-tab="ideas">Based on your likes <b id="ideas-count">0</b></button>
+      <button class="tab" type="button" data-tab="brands">Browse brands <b id="brands-count">0</b></button>
     </div>
+    <p class="ideas-intro" id="brands-intro" hidden>Every label on your list, whether or not something of theirs is in the closet yet. Tap a name to open the store; “Show in closet” filters the pieces to that label. The search box up top searches brands here.</p>
+    <section class="brands" id="brands" hidden></section>
     <p class="ideas-intro" id="ideas-intro" hidden>A few pieces from beyond the closet, chosen by what you've saved so far. Heart one and it moves into your closet; the ✕ sends it away.</p>
     <div class="results-head">
       <p class="results-count" id="results-count"></p>
@@ -195,8 +198,8 @@
 <script>
   // suggestions.js, sales.js and retailers.js change on their own schedules, so load them with an
   // hourly cache-busting stamp instead of a hand-bumped version.
-  (function () { var d = new Date(), stamp = d.toISOString().slice(0, 13); ['suggestions.js', 'sales.js', 'retailers.js'].forEach(function (f) { document.write('<script src="' + f + '?t=' + stamp + '"><\/script>'); }); })();
+  (function () { var d = new Date(), stamp = d.toISOString().slice(0, 13); ['suggestions.js', 'sales.js', 'retailers.js', 'brands.js'].forEach(function (f) { document.write('<script src="' + f + '?t=' + stamp + '"><\/script>'); }); })();
 </script>
-<script src="app.js?v=30"></script>
+<script src="app.js?v=31"></script>
 </body>
 </html>

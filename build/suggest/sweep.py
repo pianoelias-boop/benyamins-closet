@@ -74,7 +74,7 @@ def sweep(b):
         note=f'{type(e).__name__}: {str(e)[:60]}'
     return b['name'], out, note
 def sweep_brands(statuses={'approved'}, workers=6, quiet=False):
-    brands=[b for b in cfg['brands'] if b['status'] in statuses]
+    brands=[b for b in cfg['brands'] if b['status'] in statuses and b.get('feed', True) is not False and b.get('site')]   # feed:false marks stockist pages and non-Shopify sites
     allc=[]; report=[]
     with cf.ThreadPoolExecutor(workers) as ex:
         for name,out,note in ex.map(sweep, brands):

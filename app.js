@@ -41,6 +41,7 @@
 
   const ITEMS = window.CLOSET;
   const IDEAS = (window.SUGGESTIONS || []).map(i => Object.assign({ idea: true }, i));
+  const BRANDS = window.BRANDS || [];                                   // the brand directory (brands.js, from build/suggest/brands.json)
   const byId = new Map(ITEMS.concat(IDEAS).map(i => [i.id, i]));
   const isIdea = id => { const it = byId.get(id); return !!(it && it.idea); };
   // ---------- sales: brand flags from the daily check, plus calendar nudges ----------
@@ -309,6 +310,7 @@
   }
   function render() {
     document.body.classList.toggle('tab-ideas', state.tab === 'ideas');
+    document.body.classList.toggle('tab-brands', state.tab === 'brands');
     const season = saleSeason();
     const closetBrands = new Set(ITEMS.map(i => i.retailer).concat(ITEMS.map(i => i.brand)));
     const events = salesFresh ? Object.keys(SALE_EVENTS).filter(b => closetBrands.has(b)).sort() : [];
@@ -326,6 +328,9 @@
         (reduced && !state.onlySale ? `<button class="link" type="button" id="see-sale">See them</button>` : '') + `</span>`;
     } else banner.hidden = true;
     $('#ideas-intro').hidden = state.tab !== 'ideas';
+    $('#brands-intro').hidden = state.tab !== 'brands';
+    if (state.tab === 'brands') { renderBrands(); renderIdeas(); return; }
+    $('#brands').hidden = true; $('#grid').hidden = false;
     const all = pool();
     state.view = sorted(all.filter(matches));
     const n = state.view.length;
@@ -395,14 +400,36 @@
   }
   function renderIdeas() {
     const open = IDEAS.filter(i => !state.saved.has(i.id) && !state.passed.has(i.id));
-    $('#tabs').hidden = IDEAS.length === 0;
+    $('#tabs').hidden = IDEAS.length === 0 && BRANDS.length === 0;
+    document.querySelector('.tab[data-tab="ideas"]').hidden = IDEAS.length === 0;
     $('#ideas-count').textContent = open.length;
+    $('#brands-count').textContent = BRANDS.length;
     document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t.dataset.tab === state.tab));
     let seen = []; try { seen = JSON.parse(localStorage.getItem(SEEN_KEY) || '[]'); } catch (e) { }
     const unseen = state.tab !== 'ideas' && open.some(i => !seen.includes(i.id));
     const tab = document.querySelector('.tab[data-tab="ideas"]'); let dot = tab.querySelector('.dot');
     if (unseen && !dot) { dot = document.createElement('span'); dot.className = 'dot'; tab.appendChild(dot); }
     if (!unseen && dot) dot.remove();
+  }
+  // ---------- the brand directory ----------
+  function brandCount(b) { return ITEMS.filter(i => i.brand === b.name || i.retailer === b.name).length; }
+  function renderBrands() {
+    const q = state.q;
+    const list = BRANDS.filter(b => !q || `${b.name} ${b.what}`.toLowerCase().includes(q));
+    const groups = new Map();
+    for (const b of list) { const k = /^[a-z]/i.test(b.name) ? b.name[0].toUpperCase() : '#'; if (!groups.has(k)) groups.set(k, []); groups.get(k).push(b); }
+    $('#brands').innerHTML = [...groups.entries()].map(([k, bs]) => `<div class="brand-group"><h2 class="brand-letter">${k}</h2><div class="brand-cards">` + bs.map(b => {
+      const n = brandCount(b); const sale = salesFresh && SALE_EVENTS[b.name];
+      return `<article class="bcard ${n ? 'has-pieces' : ''}">
+        <div class="bcard-head">${b.link ? `<a class="bname" href="${esc(b.link)}" target="_blank" rel="noopener">${esc(b.name)}</a>` : `<span class="bname">${esc(b.name)}</span>`}${sale ? '<span class="sale-dot" title="Running a sale event"></span>' : ''}</div>
+        ${b.what ? `<p class="bwhat">${esc(b.what)}</p>` : ''}
+        <div class="bcard-foot">${n ? `<button class="link" type="button" data-show-brand="${esc(b.name)}">Show in closet · ${n} piece${n === 1 ? '' : 's'}</button>` : '<span class="bnone">Nothing in the closet yet</span>'}${b.link ? `<a class="bgo" href="${esc(b.link)}" target="_blank" rel="noopener">Visit ↗</a>` : ''}</div>
+      </article>`; }).join('') + '</div></div>').join('');
+    $('#grid').hidden = true; $('#empty').hidden = true; $('#brands').hidden = false;
+    $('#results-count').innerHTML = q ? `<b>${list.length}</b> of ${BRANDS.length} brands` : `All <b>${BRANDS.length}</b> brands`;
+    $('#apply-count').textContent = `${list.length} brands`;
+    $('#filter-count').textContent = ''; $('#filter-count').hidden = true;
+    renderChips(); renderFacets(); renderPassed();
   }
   function markIdeasSeen() {
     try { localStorage.setItem(SEEN_KEY, JSON.stringify(IDEAS.map(i => i.id))); } catch (e) { }
@@ -540,6 +567,7 @@
     if (t.dataset.pass) { togglePassed(Number(t.dataset.pass)); return; }
     if (t.dataset.add) { const id = Number(t.dataset.add); if (!state.saved.has(id)) toggleSaved(id); $('#modal').close(); toast('Added to your closet ♥'); return; }
     if (t.dataset.tab) { switchTab(t.dataset.tab); return; }
+    if (t.dataset.showBrand) { clearAll(); state.q = t.dataset.showBrand.toLowerCase(); $('#q').value = t.dataset.showBrand; switchTab('closet'); return; }
     if (t.dataset.unpass) { togglePassed(Number(t.dataset.unpass)); return; }
     if (t.id === 'toast-action') { const fn = toastAction; toastAction = null; $('#toast').classList.remove('show'); if (fn) fn(); return; }
     if (t.dataset.open) { openModal(Number(t.dataset.open)); return; }

@@ -1,0 +1,30 @@
+name: One-off brand sweep
+
+# Sweeps every Shopify feed in build/suggest/brands.json (approved and proposed) on GitHub's machines,
+# where Shopify's rate limit does not bite, and hands back candidates.json as a downloadable artifact.
+# Nothing is committed. Run it from the Actions tab or with: gh workflow run sweep.yml
+
+on:
+  workflow_dispatch:
+    inputs:
+      statuses:
+        description: "brand statuses to sweep, comma-separated"
+        default: "approved,proposed"
+
+permissions:
+  contents: read
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Sweep the feeds
+        run: python3 build/suggest/sweep.py "${{ github.event.inputs.statuses }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: candidates
+          path: build/suggest/candidates.json
+          retention-days: 7
