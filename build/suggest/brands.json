@@ -254,8 +254,8 @@
   {
    "name": "Glasswing",
    "site": "https://glasswingshop.com",
-   "status": "proposed",
-   "note": "stockist: Brain Dead and others; from his list, but its pieces had sold out by 2026-09-20",
+   "status": "approved",
+   "note": "stockist: Brain Dead and others",
    "what": "Seattle stockist; Brain Dead and others."
   },
   {
@@ -392,7 +392,7 @@
    "name": "Lost & Found",
    "what": "Toronto stockist; Japanese and heritage menswear.",
    "site": "https://shoplostfound.com",
-   "status": "proposed"
+   "status": "approved"
   },
   {
    "name": "Maharishi",

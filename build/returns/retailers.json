@@ -113,6 +113,13 @@
    "ship": "you pay return shipping",
    "note": "No returns for change of mind; size exchanges by email; hemmed jeans excluded"
   },
+  "Glasswing": {
+   "site": "https://glasswingshop.com",
+   "policy": "https://glasswingshop.com/policies/refund-policy",
+   "window": "no window stated; email hello@glasswingshop.com to start a return",
+   "ship": "prepaid return label sent by email",
+   "note": "Their policy page says little beyond that; ask before buying if the terms matter"
+  },
   "Haspel": {
    "site": "https://www.haspel.com",
    "policy": "https://www.haspel.com/policies/refund-policy",
@@ -140,6 +147,13 @@
    "window": "30 days from delivery",
    "ship": "you pay return shipping",
    "note": "Final sale and End of Line items excluded; unworn with tags and packaging"
+  },
+  "Lost & Found": {
+   "site": "https://shoplostfound.com",
+   "policy": "https://shoplostfound.com/policies/refund-policy",
+   "window": "14 days from receipt",
+   "ship": "you pay return shipping; original shipping not refunded",
+   "note": "Store credit or exchange only, no refunds; sale items are final"
   },
   "Manresa": {
    "site": "https://manresaclothing.com",

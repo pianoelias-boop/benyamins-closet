@@ -236,7 +236,7 @@ window.BRANDS = [
   "site": "https://glasswingshop.com",
   "link": "https://glasswingshop.com",
   "what": "Seattle stockist; Brain Dead and others.",
-  "status": "proposed"
+  "status": "approved"
  },
  {
   "name": "Gramicci",
@@ -369,7 +369,7 @@ window.BRANDS = [
   "site": "https://shoplostfound.com",
   "link": "https://shoplostfound.com",
   "what": "Toronto stockist; Japanese and heritage menswear.",
-  "status": "proposed"
+  "status": "approved"
  },
  {
   "name": "Maharishi",
