@@ -1802,7 +1802,7 @@
   "id": 74,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "EASY KURTA - SHADED GRASS / SUMMER NAVY / INDIGO BLACKWATCH BELGIAN LINEN",
+  "name": "Easy Kurta, Belgian linen",
   "category": "Shirts",
   "color": "Green",
   "occasions": [
@@ -1828,7 +1828,7 @@
   "id": 75,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "CHAMOIS FLAP POCKET SAM SHIRT - RUSSETT BROWN / DEEP FOG / ECRU KHADI COTTON OXFORD",
+  "name": "Sam Chamois Flap-Pocket Shirt, khadi oxford",
   "category": "Shirts",
   "color": "Brown",
   "occasions": [
@@ -1853,7 +1853,7 @@
   "id": 76,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "KELL PLEATED BIG PANT - BLACK FEATHERWEIGHT MICRO RIPSTOP NYLON",
+  "name": "Kell Pleated Big Pant, featherweight ripstop",
   "category": "Trousers",
   "color": "Black",
   "occasions": [
@@ -1878,7 +1878,7 @@
   "id": 77,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "CHAMOIS FLAP POCKET SAM SHIRT - UNDYED / MORNING SKY HANDLOOM COTTON CHAMBRAY",
+  "name": "Sam Chamois Flap-Pocket Shirt, handloom chambray",
   "category": "Shirts",
   "color": "White/Ivory",
   "occasions": [
@@ -1903,7 +1903,7 @@
   "id": 78,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "GALE BOX SHIRT - FATIGUE OLIVE / BLACK LINEN CHAMBRAY",
+  "name": "Gale Box Shirt, linen chambray",
   "category": "Shirts",
   "color": "Green",
   "occasions": [
@@ -1928,7 +1928,7 @@
   "id": 79,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "ATLAS HOODED FULL-ZIP WORK JACKET - 13 oz. MID-WASH DENIM",
+  "name": "Atlas Hooded Full-Zip Work Jacket",
   "category": "Jackets & Coats",
   "color": "Denim",
   "occasions": [
@@ -1951,7 +1951,7 @@
   "id": 80,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "REVERSIBLE DJ CREWNECK SWEATSHIRT - BLACK 19oz. ALL COTTON FLEECE",
+  "name": "Reversible DJ Crewneck Sweatshirt",
   "category": "Knitwear",
   "color": "Black",
   "occasions": [
@@ -1974,7 +1974,7 @@
   "id": 81,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "KELL PLEATED BIG PANT - CHOCOLATE TORTE HANDSPUN COTTON CANVAS",
+  "name": "Kell Pleated Big Pant, handspun canvas",
   "category": "Trousers",
   "color": "Brown",
   "occasions": [
@@ -1999,7 +1999,7 @@
   "id": 82,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "JESPER VINTAGE BUTTON DOWN SHIRT - TONAL LAMBRUSCO / GRAY MELANGE HANDWOVEN EXPLODED SEERSUCKER OXFORD",
+  "name": "Jesper Vintage Button-Down, exploded seersucker oxford",
   "category": "Shirts",
   "color": "Red",
   "occasions": [
@@ -2023,7 +2023,7 @@
   "id": 83,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "JESPER VINTAGE BUTTON DOWN SHIRT - TONAL INDIGO / GRAY MELANGE HANDWOVEN EXPLODED SEERSUCKER OXFORD",
+  "name": "Jesper Vintage Button-Down, exploded seersucker oxford",
   "category": "Shirts",
   "color": "Blue",
   "occasions": [
@@ -2047,7 +2047,7 @@
   "id": 84,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "ALE FULL-ZIP BLOUSON - TUSSAR CASHMERE TWILL",
+  "name": "Ale Full-Zip Blouson, tussar cashmere twill",
   "category": "Jackets & Coats",
   "color": "Beige/Tan",
   "occasions": [
@@ -2073,7 +2073,7 @@
   "id": 85,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "FIGLI CREWNECK SWEATER - CIOCCOLATO BROWN MELANGE HANDLOOM BRUSHED BABY ALPACA",
+  "name": "Figli Crewneck Sweater, brushed baby alpaca",
   "category": "Knitwear",
   "color": "Brown",
   "occasions": [
@@ -2098,7 +2098,7 @@
   "id": 86,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "WOLF BUTTON-DOWN SHIRT - NATURAL INDIGO / ECRU HAND-BLOCK PRINTED DISCHARGE STRIPED COTTON OXFORD",
+  "name": "Wolf Button-Down, hand-block printed oxford",
   "category": "Shirts",
   "color": "Blue",
   "occasions": [
@@ -2122,7 +2122,7 @@
   "id": 87,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "VETTI UTILITY SHORTS - TONAL LUNAR ROCK GREEN COTTON SEERSUCKER",
+  "name": "Vetti Utility Shorts, cotton seersucker",
   "category": "Shorts & Swim",
   "color": "Green",
   "occasions": [
@@ -2147,7 +2147,7 @@
   "id": 88,
   "brand": "18 East",
   "retailer": "18 East",
-  "name": "SIELLO UTILITY JACKET - 13 oz. RAW DENIM",
+  "name": "Siello Utility Jacket, raw denim",
   "category": "Jackets & Coats",
   "color": "Denim",
   "occasions": [
@@ -2373,7 +2373,7 @@
   "id": 97,
   "brand": "Zardus for Universal Works",
   "retailer": "Universal Works",
-  "name": "Zardus for Universal Works Black Suede Oliver",
+  "name": "Oliver, black suede",
   "category": "Shoes",
   "color": "Black",
   "occasions": [
@@ -2397,7 +2397,7 @@
   "id": 98,
   "brand": "Walsh x Universal Works",
   "retailer": "Universal Works",
-  "name": "Walsh x Universal Works Ensign in Green Leather/Canvas",
+  "name": "Ensign, green leather and canvas",
   "category": "Shoes",
   "color": "Green",
   "occasions": [
@@ -2573,7 +2573,7 @@
   "id": 105,
   "brand": "Walsh x Universal Works",
   "retailer": "Universal Works",
-  "name": "Walsh x Universal Works Ensign in Navy Leather/Canvas",
+  "name": "Ensign, navy leather and canvas",
   "category": "Shoes",
   "color": "Blue",
   "occasions": [
@@ -2597,7 +2597,7 @@
   "id": 106,
   "brand": "Flower Mountain",
   "retailer": "Universal Works",
-  "name": "Flower Mountain Dark Grey/Black/Dark Brown Suede/Nylon Yamano 3 Man",
+  "name": "Yamano 3, suede and nylon",
   "category": "Shoes",
   "color": "Grey",
   "occasions": [
@@ -2621,7 +2621,7 @@
   "id": 107,
   "brand": "Casatlantic",
   "retailer": "Casatlantic",
-  "name": "TANGER",
+  "name": "Tanger Cotton Trousers",
   "category": "Trousers",
   "color": "Green",
   "occasions": [
@@ -2646,7 +2646,7 @@
   "id": 108,
   "brand": "Casatlantic",
   "retailer": "Casatlantic",
-  "name": "TANGER",
+  "name": "Tanger Linen Trousers",
   "category": "Trousers",
   "color": "White/Ivory",
   "occasions": [
@@ -2672,7 +2672,7 @@
   "id": 109,
   "brand": "Casatlantic",
   "retailer": "Casatlantic",
-  "name": "TANGER",
+  "name": "Tanger Houndstooth Linen Trousers",
   "category": "Trousers",
   "color": "Multi/Print",
   "occasions": [
@@ -2698,7 +2698,7 @@
   "id": 110,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE RAGGED THERMAL HOODIE",
+  "name": "The Ragged Thermal Hoodie",
   "category": "Knitwear",
   "color": "Green",
   "occasions": [
@@ -2721,7 +2721,7 @@
   "id": 111,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE FISHERMAN SHIRT",
+  "name": "The Fisherman Shirt",
   "category": "Shirts",
   "color": "Blue",
   "occasions": [
@@ -2745,7 +2745,7 @@
   "id": 112,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "REWORK® STATIONERY JACKET",
+  "name": "Rework Stationery Jacket",
   "category": "Jackets & Coats",
   "color": "Blue",
   "occasions": [
@@ -2769,7 +2769,7 @@
   "id": 113,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE SHORT-SLEEVE CREWNECK",
+  "name": "The Short-Sleeve Crewneck",
   "category": "Tees & Polos",
   "color": "Purple",
   "occasions": [
@@ -2792,7 +2792,7 @@
   "id": 114,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE POPLIN PANTS",
+  "name": "The Poplin Pants",
   "category": "Trousers",
   "color": "Black",
   "occasions": [
@@ -2817,7 +2817,7 @@
   "id": 115,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE THERMAL RUGBY POLO",
+  "name": "The Thermal Rugby Polo",
   "category": "Tees & Polos",
   "color": "Green",
   "occasions": [
@@ -2840,7 +2840,7 @@
   "id": 116,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE RUGBY POLO",
+  "name": "The Rugby Polo",
   "category": "Tees & Polos",
   "color": "Blue",
   "occasions": [
@@ -2863,7 +2863,7 @@
   "id": 117,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE DIVING SWEAT",
+  "name": "The Diving Sweat",
   "category": "Knitwear",
   "color": "Blue",
   "occasions": [
@@ -2886,7 +2886,7 @@
   "id": 118,
   "brand": "Brut Clothing",
   "retailer": "Brut Clothing",
-  "name": "THE ELEPHANT PANTS",
+  "name": "The Elephant Pants, heavyweight",
   "category": "Trousers",
   "color": "Beige/Tan",
   "occasions": [
@@ -2909,7 +2909,7 @@
   "id": 119,
   "brand": "Uskees",
   "retailer": "Uskees",
-  "name": "3047 Docklands blazer - dark plum",
+  "name": "Docklands Blazer, unlined",
   "category": "Suits & Blazers",
   "color": "Purple",
   "occasions": [
@@ -2934,7 +2934,7 @@
   "id": 120,
   "brand": "Uskees",
   "retailer": "Uskees",
-  "name": "5021 Twill painter pants - dark plum",
+  "name": "Twill Painter Pants",
   "category": "Trousers",
   "color": "Purple",
   "occasions": [
@@ -3162,5 +3162,104 @@
    "price is for the standard build"
   ],
   "fabric": "100% merino wool"
+ },
+ {
+  "id": 129,
+  "brand": "Spier & Mackay",
+  "retailer": "Spier & Mackay",
+  "name": "Oatmeal Rustic Fair Isle Sweater",
+  "category": "Knitwear",
+  "color": "Beige/Tan",
+  "occasions": [
+   "hang",
+   "work",
+   "dinner"
+  ],
+  "why": "Merino Fair Isle in oatmeal; a pattern sweater for trips and dinners.",
+  "price": 158.0,
+  "colorDetail": "Oatmeal",
+  "categoryDetail": "Fair Isle crewneck sweater",
+  "url": "https://www.spierandmackay.com/product/product-detail/oatmeal-rustic-fair-isle-sweater",
+  "img": "images/full/129.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": "100% merino wool"
+ },
+ {
+  "id": 130,
+  "brand": "Spier & Mackay",
+  "retailer": "Spier & Mackay",
+  "name": "Dark Green Merino Chunky Shawl Cardigan",
+  "category": "Knitwear",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "dinner",
+   "work"
+  ],
+  "why": "Chunky Australian merino with a shawl collar; the cardigan for a cold evening out.",
+  "price": 228.0,
+  "colorDetail": "Dark green",
+  "categoryDetail": "Chunky shawl-collar cardigan",
+  "url": "https://www.spierandmackay.com/product/product-detail/dark-green-merino-chunky-shawl-cardigan",
+  "img": "images/full/130.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": "100% Australian merino wool"
+ },
+ {
+  "id": 131,
+  "brand": "Buck Mason",
+  "retailer": "Buck Mason",
+  "name": "Black Big Chino",
+  "category": "Trousers",
+  "color": "Black",
+  "occasions": [
+   "work",
+   "hang",
+   "dinner"
+  ],
+  "why": "A big-cut chino in black; goes anywhere.",
+  "price": 248.0,
+  "colorDetail": "Black",
+  "categoryDetail": "Big-cut chino",
+  "url": "https://www.buckmason.com/products/black-big-chino?variant=42844063465555",
+  "img": "images/full/131.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
+ },
+ {
+  "id": 132,
+  "brand": "Buck Mason",
+  "retailer": "Buck Mason",
+  "name": "D018 Japanese Loomstate Selvedge Big Jean",
+  "category": "Jeans",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Japanese loomstate selvedge in the big cut.",
+  "price": 278.0,
+  "colorDetail": "Indigo",
+  "categoryDetail": "Loomstate selvedge big jean",
+  "url": "https://www.buckmason.com/products/d018-japanese-loomstate-selvedge-big-jean?variant=45806408433747",
+  "img": "images/full/132.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "Bookmarked 2026-09-20"
+  ],
+  "fabric": null
  }
 ]

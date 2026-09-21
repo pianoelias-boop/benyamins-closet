@@ -34,6 +34,12 @@
    "note": "from his list, but its pieces had sold out by 2026-09-20"
   },
   {
+   "name": "Alex Mill",
+   "site": "https://www.alexmill.com",
+   "status": "proposed",
+   "note": "kept from the original roster"
+  },
+  {
    "name": "Arc'teryx",
    "site": "https://arcteryx.com",
    "status": "approved",
@@ -51,6 +57,12 @@
    "name": "Bare Knuckles",
    "site": "https://bareknuckles.co",
    "status": "approved"
+  },
+  {
+   "name": "Big Bud Press",
+   "site": "https://bigbudpress.com",
+   "status": "proposed",
+   "note": "kept from the original roster; unisex work pants and jumpsuits"
   },
   {
    "name": "Billy Reid",
@@ -92,6 +104,12 @@
    "status": "approved"
   },
   {
+   "name": "Casatlantic",
+   "site": "https://www.casatlantic.com",
+   "status": "approved",
+   "note": "Tangier-cut high-waisted trousers; from his bookmarks"
+  },
+  {
    "name": "Chamula",
    "site": "https://www.chamulaoriginal.com",
    "status": "approved"
@@ -100,6 +118,12 @@
    "name": "Drake's",
    "site": "https://us.drakes.com",
    "status": "approved"
+  },
+  {
+   "name": "Filson",
+   "site": "https://www.filson.com",
+   "status": "proposed",
+   "note": "kept from the original roster; waxed cotton, wool"
   },
   {
    "name": "Flamborough Marine",
@@ -125,6 +149,12 @@
    "note": "stockist: Brain Dead and others; from his list, but its pieces had sold out by 2026-09-20"
   },
   {
+   "name": "Gramicci",
+   "site": "https://gramicci.com",
+   "status": "proposed",
+   "note": "kept from the original roster; climbing pants, wide legs"
+  },
+  {
    "name": "Haspel",
    "site": "https://www.haspel.com",
    "status": "approved"
@@ -136,10 +166,22 @@
    "note": "stockist: Tarvas and others"
   },
   {
+   "name": "Howlin'",
+   "site": "https://www.howlin.com",
+   "status": "proposed",
+   "note": "kept from the original roster; Belgian knitwear"
+  },
+  {
    "name": "Kaidu Utility",
    "site": "https://www.kaidutility.com",
    "status": "approved",
    "note": "stockist: Indi + Ash"
+  },
+  {
+   "name": "Kartik Research",
+   "site": "https://kartikresearch.com",
+   "status": "proposed",
+   "note": "kept from the original roster; Indian handloom and embroidery"
   },
   {
    "name": "Keen",
@@ -168,6 +210,12 @@
    "name": "Manresa",
    "site": "https://manresaclothing.com",
    "status": "approved"
+  },
+  {
+   "name": "Margaret Howell",
+   "site": "https://www.margarethowell.com",
+   "status": "proposed",
+   "note": "kept from the original roster; MHL workwear"
   },
   {
    "name": "Mephisto",
@@ -277,8 +325,7 @@
   {
    "name": "Spier & Mackay",
    "site": "https://us.spierandmackay.com",
-   "status": "proposed",
-   "note": "no feed; events only; from his list, but its pieces had sold out by 2026-09-20",
+   "status": "approved",
    "feed": false
   },
   {
@@ -297,6 +344,12 @@
    "site": "https://stitchspring.com",
    "status": "proposed",
    "note": "from his list, but its pieces had sold out by 2026-09-20"
+  },
+  {
+   "name": "Studio Nicholson",
+   "site": "https://www.studionicholson.com",
+   "status": "proposed",
+   "note": "kept from the original roster; wide cuts"
   },
   {
    "name": "TOAST",
@@ -321,61 +374,12 @@
   {
    "name": "Uskees",
    "site": "https://uskees.com",
-   "status": "proposed",
-   "note": "from his list, but its pieces had sold out by 2026-09-20"
+   "status": "approved"
   },
   {
    "name": "Yitai",
    "site": "https://www.yitai.la",
    "status": "approved"
-  },
-  {
-   "name": "Gramicci",
-   "site": "https://gramicci.com",
-   "status": "proposed",
-   "note": "kept from the original roster; climbing pants, wide legs"
-  },
-  {
-   "name": "Howlin'",
-   "site": "https://www.howlin.com",
-   "status": "proposed",
-   "note": "kept from the original roster; Belgian knitwear"
-  },
-  {
-   "name": "Studio Nicholson",
-   "site": "https://www.studionicholson.com",
-   "status": "proposed",
-   "note": "kept from the original roster; wide cuts"
-  },
-  {
-   "name": "Margaret Howell",
-   "site": "https://www.margarethowell.com",
-   "status": "proposed",
-   "note": "kept from the original roster; MHL workwear"
-  },
-  {
-   "name": "Kartik Research",
-   "site": "https://kartikresearch.com",
-   "status": "proposed",
-   "note": "kept from the original roster; Indian handloom and embroidery"
-  },
-  {
-   "name": "Alex Mill",
-   "site": "https://www.alexmill.com",
-   "status": "proposed",
-   "note": "kept from the original roster"
-  },
-  {
-   "name": "Filson",
-   "site": "https://www.filson.com",
-   "status": "proposed",
-   "note": "kept from the original roster; waxed cotton, wool"
-  },
-  {
-   "name": "Big Bud Press",
-   "site": "https://bigbudpress.com",
-   "status": "proposed",
-   "note": "kept from the original roster; unisex work pants and jumpsuits"
   }
  ]
 }

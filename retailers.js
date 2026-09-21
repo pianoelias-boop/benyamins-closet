@@ -1,6 +1,6 @@
 // Return terms per store, as each states them for US orders. Source: build/returns/retailers.json
 window.RETAILERS = {
- "checked": "2026-09-20",
+ "checked": "2026-09-21",
  "stores": {
   "18 East": {
    "site": "https://18east.co",
@@ -58,12 +58,26 @@ window.RETAILERS = {
    "ship": "you pay for the return label",
    "note": "Refund, exchange or credit; refund in about 5 working days"
   },
+  "Buck Mason": {
+   "site": "https://www.buckmason.com",
+   "policy": "https://www.buckmason.com/pages/faq",
+   "window": "365 days from purchase",
+   "ship": "$8 flat fee per return package deducted from the refund; free in store and for exchanges",
+   "note": "Unworn with tags; shoes that show wear are not accepted"
+  },
   "Canterbury": {
    "site": "https://canterburyusa.com",
    "policy": "https://canterburyusa.com/policies/refund-policy",
    "window": "30 days from delivery",
    "ship": "return label sent once the return is accepted",
    "note": "Unworn, with tags, in original packaging"
+  },
+  "Casatlantic": {
+   "site": "https://www.casatlantic.com",
+   "policy": "https://www.casatlantic.com/policies/refund-policy",
+   "window": "14 days from delivery",
+   "ship": "see their Shipping & Returns page for the label and cost",
+   "note": "A €20 cleaning fee can be deducted if a piece comes back needing cleaning; ships from Europe"
   },
   "Chamula": {
    "site": "https://www.chamulaoriginal.com",
@@ -226,6 +240,13 @@ window.RETAILERS = {
    "ship": "you pay return shipping",
    "note": "Refund or exchange; original shipping not refunded"
   },
+  "Spier & Mackay": {
+   "site": "https://www.spierandmackay.com",
+   "policy": "https://lp.spierandmackay.com/refunds-returns-policy",
+   "window": "30 days from delivery (14 for sale or promo items)",
+   "ship": "email returns@spierandmackay.com for a return label",
+   "note": "No exchanges; return and reorder. Warehouse Sale items are final"
+  },
   "Stan Ray": {
    "site": "https://www.stanray.com",
    "policy": "https://www.stanray.com/policies/refund-policy",
@@ -267,6 +288,13 @@ window.RETAILERS = {
    "window": "30 days from receipt",
    "ship": "label through their portal; cost deducted from the refund",
    "note": "Refund in up to 10 business days"
+  },
+  "Uskees": {
+   "site": "https://uskees.com",
+   "policy": "https://uskees.com/en-us/pages/refund-policy",
+   "window": "30 days from receipt (14 for sale items)",
+   "ship": "£7.50 deducted for a return; exchanges free both ways",
+   "note": "No exchanges during sale periods; ships from the UK"
   },
   "Yitai": {
    "site": "https://www.yitai.la",
