@@ -27,7 +27,7 @@ window.CLOSET_CONFIG = {
  },
  "about": {
   "considered": "1,000+",
-  "storefronts": 45,
+  "storefronts": 46,
   "paragraphs": [
    "Every piece here is one Benyamin saved himself while browsing: wide legs and double pleats, seersucker and herringbone, Japanese denim, knits with a pattern, and shoes that might actually be comfortable. The closet keeps them in one place, with the photo, the price and the note on why each one earned its spot.",
    "Plenty of these are waiting on a sale or a restock, so the closet checks the stores every morning and marks what is reduced right now. Tap through to the store to buy, or to eBay and Poshmark to find it secondhand."

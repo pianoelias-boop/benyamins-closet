@@ -564,8 +564,8 @@ window.BRANDS = [
   "name": "Ryoko Rain",
   "site": "https://ryokorain.com",
   "link": "https://ryokorain.com",
-  "what": "Orange County, California; luxury streetwear.",
-  "status": "proposed"
+  "what": "Orange County, California; embroidered and painted work jackets in a boxy, cropped cut.",
+  "status": "approved"
  },
  {
   "name": "Samuel Zelig",

@@ -3448,5 +3448,57 @@
    "Made in China"
   ],
   "fabric": "100% cotton"
+ },
+ {
+  "id": 140,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Paint Splatter Work Jacket",
+  "category": "Jackets & Coats",
+  "color": "Beige/Tan",
+  "occasions": [
+   "hang",
+   "dinner"
+  ],
+  "why": "Boxy with a slight crop, cut like a letterman jacket; room across the chest.",
+  "price": 160.0,
+  "colorDetail": "Tan with paint splatter and embroidered butterfly",
+  "categoryDetail": "Boxy cropped work jacket",
+  "url": "https://ryokorain.com/collections/jackets/products/paint-splatter-work-jacket",
+  "img": "images/full/140.jpg",
+  "hi": true,
+  "desc": "Ryoko Rain tan work jacket with embroidered butterfly and paint splatter details. Ryoko Rain embroidery on collar. Brass zippered chest pocket and inner liner pocket. - Boxy fit with a slight crop. Arms are relaxed and elongated. Fits like a letterman jacket. - Unisex - Material: 100% Cotton - Imported",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex sizing XS to XXXL",
+   "Justin is 6 ft 1 in a size L"
+  ],
+  "fabric": "100% cotton"
+ },
+ {
+  "id": 141,
+  "brand": "Ryoko Rain",
+  "retailer": "Ryoko Rain",
+  "name": "Corduroy Tiger Work Jacket",
+  "category": "Jackets & Coats",
+  "color": "Orange/Rust",
+  "occasions": [
+   "hang",
+   "dinner"
+  ],
+  "why": "Corduroy in a boxy, slightly cropped cut with relaxed arms; the tiger does the talking.",
+  "price": 160.0,
+  "colorDetail": "Burnt orange-brown corduroy with tiger imagery",
+  "categoryDetail": "Boxy cropped corduroy work jacket",
+  "url": "https://ryokorain.com/collections/jackets/products/corduroy-tiger-work-jacket",
+  "img": "images/full/141.jpg",
+  "hi": true,
+  "desc": "Burnt orange-brown corduroy jacket with tiger imagery details on front and back. Black banding detail along bottom hem. Brass zipper and button closures. Inner lining pocket. - Boxy fit with a slight crop. Arms are relaxed and elongated. Fits like a letterman jacket. - Unisex - Material: 100% Cotton - Imported - Justin is 6'1 wearing a size L.",
+  "details": [
+   "Your pick 2026-09-21",
+   "Unisex sizing XS to XXXL",
+   "Justin is 6 ft 1 in a size L"
+  ],
+  "fabric": "100% cotton"
  }
 ]

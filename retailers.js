@@ -226,6 +226,13 @@ window.RETAILERS = {
    "ship": "free returns with an RL account, otherwise a return fee is deducted",
    "note": "Their page blocks scripts and needs a browser; check it before relying on this. Final sale and made-to-order excluded"
   },
+  "Ryoko Rain": {
+   "site": "https://ryokorain.com",
+   "policy": "https://ryokorain.com/policies/refund-policy",
+   "window": "10 days from receipt",
+   "ship": "you pay return shipping; original shipping not refunded",
+   "note": "Store credit only, no refunds or exchanges; repurchase with the credit"
+  },
   "Samuel Zelig": {
    "site": "https://samuelzelig.com",
    "policy": "https://samuelzelig.com/pages/shipping-and-returns",
