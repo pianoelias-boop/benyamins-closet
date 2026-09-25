@@ -1,6 +1,6 @@
 // Return terms per store, as each states them for US orders. Source: build/returns/retailers.json
 window.RETAILERS = {
- "checked": "2026-09-21",
+ "checked": "2026-09-25",
  "stores": {
   "18 East": {
    "site": "https://18east.co",
@@ -92,6 +92,13 @@ window.RETAILERS = {
    "window": "14 days from delivery",
    "ship": "through their returns portal; return, exchange or store credit",
    "note": "Archive purchases are final sale in the US"
+  },
+  "Earth Studies": {
+   "site": "https://earth-studies.com",
+   "policy": "https://earth-studies.com/policies/refund-policy",
+   "window": "30 days from receipt",
+   "ship": "return shipping deducted from the refund; start at returns.earth-studies.com",
+   "note": "Discounted pieces are final sale; refunds in 7 to 10 business days"
   },
   "Flamborough Marine": {
    "site": "https://www.flamboroughmanor.co.uk",

@@ -193,8 +193,8 @@ window.BRANDS = [
   "name": "Earth Studies",
   "site": "https://earth-studies.com",
   "link": "https://earth-studies.com/collections/web-store",
-  "what": "Outdoor products for the human and nature connection.",
-  "status": "proposed"
+  "what": "Outdoor-minded clothing cut roomy and made in Jaipur; research shirts, wide pleated trousers, heavy terry sweats.",
+  "status": "approved"
  },
  {
   "name": "Filson",
