@@ -3607,5 +3607,113 @@
    "Bungee cord and cord lock at the cuffs"
   ],
   "fabric": "100% cotton"
+ },
+ {
+  "id": 146,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Mitchell Duster Coat",
+  "category": "Jackets & Coats",
+  "color": "Green",
+  "occasions": [
+   "work",
+   "dressy",
+   "dinner"
+  ],
+  "why": "A waxed blackwatch raglan duster with a roomy body for layering; the coat for a rainy trip.",
+  "price": 468.0,
+  "colorDetail": "Barely blackwatch beeswax-coated twill with black corduroy",
+  "categoryDetail": "Waxed raglan duster coat",
+  "url": "https://18east.co/collections/new-arrivals/products/mitchell-duster-coat-barely-blackwatch-beeswax-coated-cotton-twill",
+  "img": "images/full/146.jpg",
+  "hi": true,
+  "desc": "\"The Banks jacket we ran in this waxed blackwatch last winter is an all-time TOP TEN 18 East piece. When planning this fall, we thought we'd revisit that idea and smash it together with our raglan bal coat. The end result is even better than we hoped. Elaine's boss would be envious.\" - The Management The Mitchell features a corduroy top collar, full raglan shoulders, a covered front placket, mitred cuff straps and the copious pocket options of our Banks jacket. Proudly made in India from a water-repellent, beeswax coated cotton twill with corduroy detailing. This garment runs true to size in t",
+  "details": [
+   "Your pick 2026-09-25",
+   "18 East: true to size in the shoulders with a roomy body, take your usual size",
+   "The Banks jacket's pockets on a bal-coat body"
+  ],
+  "fabric": "Beeswax-coated cotton twill with cotton corduroy"
+ },
+ {
+  "id": 147,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Zip Shelter Service Shacket",
+  "category": "Shirts",
+  "color": "Green",
+  "occasions": [
+   "dinner",
+   "work",
+   "hang"
+  ],
+  "why": "Silk-flecked corduroy in a zip shirt-jacket; layers over a tee for dinner and packs flat.",
+  "price": 278.0,
+  "colorDetail": "Deep jade fleck / black",
+  "categoryDetail": "Zip shirt-jacket in silk-cotton corduroy",
+  "url": "https://18east.co/collections/new-arrivals/products/zip-shelter-service-shirt-deep-jade-black-cotton-silk-corduroy",
+  "img": "images/full/147.jpg",
+  "hi": true,
+  "desc": "\"This is not your average corduroy. A blend of long staple cotton with subtly multi-colored silk yarn, this quietly flecked cloth is reminiscent of the iconic woolens native to northern Ireland. We're excited to offer it in our newest iteration of the Shelter shirt - updated with a two-way, antique brass center front zip to emphasize it's purpose as a seasonal layering piece. Other features include two oversized, flapped patch chest pockets, a soft point collar and tonal cotton herringbone tape binding reinforcements at the hem, cuff and interior behind the chest pockets.\" - The Management Pro",
+  "details": [
+   "Your pick 2026-09-25",
+   "18 East: true to size",
+   "Two-way antique brass zip and two flapped chest pockets"
+  ],
+  "fabric": "Long-staple cotton and silk corduroy"
+ },
+ {
+  "id": 148,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Zip Shelter Service Shacket",
+  "category": "Shirts",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "Eleven-ounce left-hand twill denim with a khaki weft in a zip shirt-jacket; workwear you can travel in.",
+  "price": 228.0,
+  "colorDetail": "Indigo / khaki",
+  "categoryDetail": "Zip shirt-jacket in left-hand twill denim",
+  "url": "https://18east.co/collections/new-arrivals/products/zip-shelter-service-shirt-indigo-khaki-denim?variant=42726826999890",
+  "img": "images/full/148.jpg",
+  "hi": true,
+  "desc": "\"11 oz. left-handed twill. That means the denim's diagonal lines run downward from left to right. This is the opposite of most denim you'll see. Another thing you don't normally find is khaki yarn in denim's weft -That's almost always ecru. These are both subtle but deliberate variations of the norm. So too are the many construction and design details on our newest iteration of the Shelter shirt. A nod to the iconic 1940s khaki service uniform shirt, we've updated this essential style with a two-way, antique brass center front zip to emphasize it's purpose as a seasonal layering piece. Other f",
+  "details": [
+   "Your pick 2026-09-25",
+   "18 East: true to size",
+   "Two-way antique brass zip and two flapped chest pockets"
+  ],
+  "fabric": "100% cotton denim (11 oz left-hand twill)"
+ },
+ {
+  "id": 149,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Collan Zip Collared Sweatshirt",
+  "category": "Knitwear",
+  "color": "Green",
+  "occasions": [
+   "hang",
+   "work",
+   "dinner"
+  ],
+  "why": "Nineteen-ounce all-cotton loopback with a zip collar, cut on the same block as the Tolmie and Novis sweatshirts.",
+  "price": 178.0,
+  "colorDetail": "Deep forest",
+  "categoryDetail": "Zip-collar sweatshirt in 19 oz loopback",
+  "url": "https://18east.co/collections/new-arrivals/products/collan-zip-collared-sweatshirt-deep-forest-19oz-all-cotton-loopback-terry-fleece?variant=42726815924306",
+  "img": "images/full/149.jpg",
+  "hi": true,
+  "desc": "\"Way back in like 2008, John Yang and I made an incredible 1/4 zip collared sweatshirt for Rugby. It hasn't fit me since like 2010, but I kept it because I knew there would be a time when I'd want to come back around to it. Now is that time.\" - The Management Cut on the same block as our Novis and Tolmie sweatshirts, the Collan is proudly made in India from a 19oz. all cotton loopback terry fleece. These run true to size. We recommend taking your normal alpha size or sizing up for a more relaxed fit. Adam is 5'9\" with a 31 waist and wears Medium.",
+  "details": [
+   "Your pick 2026-09-25",
+   "18 East: true to size or size up for a more relaxed fit",
+   "Same block as the Novis and Tolmie",
+   "Adam is 5 ft 9 with a 31 waist in a Medium"
+  ],
+  "fabric": "100% cotton loopback terry fleece (19 oz)"
  }
 ]
