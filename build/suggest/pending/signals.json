@@ -1,0 +1,103 @@
+{
+ "saved": [
+  {
+   "id": 6,
+   "name": "Chet knit tee",
+   "brand": "Scott Fraser Collection",
+   "age_days": 5.7
+  },
+  {
+   "id": 58,
+   "name": "George Coat, Handspun Herringbone",
+   "brand": "Indi + Ash",
+   "age_days": 4.8
+  },
+  {
+   "id": 60,
+   "name": "Civilita Asymmetrical Cargo Pant",
+   "brand": "18 East",
+   "age_days": 4.8
+  },
+  {
+   "id": 84,
+   "name": "Ale Full-Zip Blouson, tussar cashmere twill",
+   "brand": "18 East",
+   "age_days": 4.8
+  },
+  {
+   "id": 88,
+   "name": "Siello Utility Jacket, raw denim",
+   "brand": "18 East",
+   "age_days": 4.8
+  },
+  {
+   "id": 110,
+   "name": "The Ragged Thermal Hoodie",
+   "brand": "Brut Clothing",
+   "age_days": 4.8
+  },
+  {
+   "id": 117,
+   "name": "The Diving Sweat",
+   "brand": "Brut Clothing",
+   "age_days": 4.8
+  }
+ ],
+ "passed": [
+  {
+   "id": 5,
+   "name": "Nantucket Reds Pleated Front Pants",
+   "brand": "Nantucket Reds"
+  },
+  {
+   "id": 19,
+   "name": "Wendy Trouser - Indigo/Gold",
+   "brand": "W'menswear"
+  }
+ ],
+ "weights": {
+  "price:200-300": 0.7071428571428572,
+  "cat:Tees & Polos": 0.21428571428571427,
+  "color:White/Ivory": 0.21428571428571427,
+  "brand:Scott Fraser Collection": 0.21428571428571427,
+  "cut:herringbone": 0.21428571428571427,
+  "fab:cotton": 0.2785714285714286,
+  "brand:Indi + Ash": 0.21428571428571427,
+  "price:300+": 0.6428571428571429,
+  "cut:button": 0.06428571428571431,
+  "color:Green": 0.6428571428571429,
+  "cat:Jackets & Coats": 0.6428571428571429,
+  "cut:cargo": 0.21428571428571427,
+  "cut:pocket": 0.7071428571428572,
+  "cat:Trousers": -0.08571428571428566,
+  "fab:twill": 0.42857142857142855,
+  "fab:linen": 0.21428571428571427,
+  "brand:18 East": 0.6428571428571429,
+  "fab:cashmere": 0.21428571428571427,
+  "fab:silk": 0.21428571428571427,
+  "color:Beige/Tan": 0.21428571428571427,
+  "cut:cropped": 0.42857142857142855,
+  "cut:elastic": 0.21428571428571427,
+  "cut:utility": 0.21428571428571427,
+  "color:Denim": 0.06428571428571431,
+  "cut:relaxed": 0.06428571428571431,
+  "fab:denim": 0.21428571428571427,
+  "cut:rib": 0.42857142857142855,
+  "cut:ribbed": 0.42857142857142855,
+  "cat:Knitwear": 0.42857142857142855,
+  "cut:boxy": 0.42857142857142855,
+  "brand:Brut Clothing": 0.42857142857142855,
+  "cut:raglan": 0.21428571428571427,
+  "cut:collar": 0.21428571428571427,
+  "color:Blue": 0.21428571428571427,
+  "cut:pleat": -0.14999999999999997,
+  "cut:double pleat": -0.14999999999999997,
+  "brand:Nantucket Reds": -0.14999999999999997,
+  "cut:pleated": -0.14999999999999997,
+  "fab:canvas": -0.14999999999999997,
+  "color:Red": -0.14999999999999997,
+  "price:100-200": -0.14999999999999997,
+  "brand:W'menswear": -0.14999999999999997
+ },
+ "fetched": "2026-09-26T09:23:20.197142+00:00"
+}
