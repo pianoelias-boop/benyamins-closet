@@ -53,7 +53,8 @@ run and how brands are vetted in `build/suggest/brands.json`.
 - **Weekly round** (`.github/workflows/round.yml`): Saturday 04:17 UTC stage 1 reads the notebook, sweeps the
   approved brands and writes a shortlist to `build/suggest/pending/`. A Claude Code routine may then judge it
   and open a pull request; if nothing has been opened by 17:23 UTC, the fallback picks by score and opens the
-  pull request itself. Nothing publishes until the pull request is merged. Run by hand from the Actions tab.
+  pull request itself. Since 2026-09-26 the pull request merges itself, so each week's ideas publish without a
+  review; the pull request stays as the record, with photos. Run by hand from the Actions tab.
 - **Daily sale check** (`.github/workflows/sales.yml`): 08:41 UTC, writes `sales.js` with two separate signals.
   *Items*: closet pieces actually marked down right now, matched by product handle in the store's feed; these
   get an "On sale · now $X" pill and a "Marked down right now" filter. *Events*: stores running a real online

@@ -5,16 +5,51 @@
   "natural_min_share": 0.7,
   "ideas_per_round": 8,
   "new_brands_per_round": 3,
-  "note": "owner 2026-09-20: pieces he saved run $46 to $1,200 with a median near $250; the round looks between $50 and $500 list",
-  "avoid_titles": {
-   "categories": [
-    "Trousers",
-    "Jeans",
-    "Shorts & Swim"
-   ],
-   "pattern": "\\bskinny\\b|\\bslim[- ](?:fit|leg|straight|cut)\\b|\\bcigarette\\b|\\bcarrot\\b",
-   "why": "owner's own saves (2026-09-20) are all wide, relaxed, straight or pleated legs; a relaxed cut with a gentle taper is fine, a slim one is not"
-  }
+  "note": "owner 2026-09-20: pieces he saved run $46 to $1,200 with a median near $250; the round looks between $50 and $500 list Fit rules from the owner 2026-09-21: wide legs only below the waist; relaxed, boxy or oversized above; Universal Works tops do not fit him.",
+  "avoid_titles": [
+   {
+    "categories": [
+     "Trousers",
+     "Jeans",
+     "Shorts & Swim"
+    ],
+    "pattern": "\\bskinny\\b|\\bslim\\b|taper|\\bcarrot\\b|\\bcigarette\\b|\\bnarrow\\b|\\bregular fit\\b",
+    "why": "owner 2026-09-21: trousers must be wide-leg"
+   },
+   {
+    "categories": [
+     "Shirts",
+     "Tees & Polos",
+     "Knitwear",
+     "Jackets & Coats",
+     "Suits & Blazers"
+    ],
+    "pattern": "\\bslim\\b|\\bfitted\\b|tailored fit|trim fit|slim fit|\\bskinny\\b|\\bmuscle\\b",
+    "why": "owner 2026-09-21: tops must be relaxed across a muscular chest (25 in flat)"
+   }
+  ],
+  "require_titles": [
+   {
+    "categories": [
+     "Trousers",
+     "Jeans",
+     "Shorts & Swim"
+    ],
+    "pattern": "wide[- ]?leg|\\bwide\\b|\\bbig\\b|giant|baggy|balloon|\\bloose\\b|palazzo|extra[- ]wide|oxford pant|dutch pant|duke pant|hakama|elephant|wide cut|full[- ]cut|full[- ]leg|barrel|voluminous|\\bpleat",
+    "why": "owner 2026-09-21: wide legs only"
+   },
+   {
+    "categories": [
+     "Shirts",
+     "Tees & Polos",
+     "Knitwear",
+     "Jackets & Coats",
+     "Suits & Blazers"
+    ],
+    "pattern": "relaxed|boxy|box fit|box cut|oversiz|\\bloose\\b|easy fit|\\bbig\\b|\\bwide\\b|generous|roomy|drop(?:ped)?[- ]shoulder|kurta|smock|\\bample\\b|full cut|big fit",
+    "why": "owner 2026-09-21: relaxed or boxy tops only"
+   }
+  ]
  },
  "brands": [
   {
@@ -745,7 +780,9 @@
    "name": "Universal Works",
    "site": "https://universalworks.com",
    "status": "approved",
-   "what": "Nottingham; relaxed British workwear, Oxford and Dutch pants."
+   "what": "Nottingham; relaxed British workwear, Oxford and Dutch pants.",
+   "only_titles": "\\b(pants?|trousers?|jeans?|shorts?|chinos?|ensign|oliver|yamano|shoe|trainer|sneaker)\\b",
+   "note": "owner 2026-09-21: trousers and shoes only, their tops do not fit his chest"
   },
   {
    "name": "Uskees",

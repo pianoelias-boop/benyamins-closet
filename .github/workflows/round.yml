@@ -53,7 +53,8 @@ jobs:
           git fetch origin main && (git rebase origin/main || (git rebase --abort; echo "rebase skipped"))
           git push -u origin "$b"
           gh label create round --color 3F7A55 --description "Weekly ideas awaiting review" 2>/dev/null || true
-          gh pr create --title "Round $n: $k ideas for Based on your likes (chosen by Claude)" --body-file build/suggest/pending/pr_body.md --label round --base main --head "$b" --assignee "${{ github.repository_owner }}" --reviewer "${{ github.repository_owner }}"
+          gh pr create --title "Round $n: $k ideas for Based on your likes (chosen by Claude)" --body-file build/suggest/pending/pr_body.md --label round --base main --head "$b"
+          gh pr merge "$b" --merge --delete-branch || echo "auto-merge failed; the pull request stays open for a hand merge"   # owner's call 2026-09-26: rounds publish without his approval
 
   stage1:
     if: github.event.schedule == '17 4 * * 6' || (github.event_name == 'workflow_dispatch' && github.event.inputs.stage != 'fallback') || (github.event_name == 'push' && contains(github.event.head_commit.message, 'Request shortlist'))
@@ -116,4 +117,5 @@ jobs:
           git fetch origin main && (git rebase origin/main || (git rebase --abort; echo "rebase skipped"))
           git push -u origin "$b"
           gh label create round --color 3F7A55 --description "Weekly ideas awaiting review" 2>/dev/null || true
-          gh pr create --title "$(python3 -c "import json;m=json.load(open('build/suggest/pending/last_round.json'));print(f\"Round {m['round']}: {len(m['ids'])} ideas for Based on your likes (by score)\")")" --body-file build/suggest/pending/pr_body.md --label round --base main --head "$b" --assignee "${{ github.repository_owner }}" --reviewer "${{ github.repository_owner }}"
+          gh pr create --title "$(python3 -c "import json;m=json.load(open('build/suggest/pending/last_round.json'));print(f\"Round {m['round']}: {len(m['ids'])} ideas for Based on your likes (by score)\")")" --body-file build/suggest/pending/pr_body.md --label round --base main --head "$b"
+          gh pr merge "$b" --merge --delete-branch || echo "auto-merge failed; the pull request stays open for a hand merge"

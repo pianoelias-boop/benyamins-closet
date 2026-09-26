@@ -169,13 +169,18 @@ def stage1():
     for p in passed:
         if p['idea']: passed_brands[p['item']['brand']] += 1
     have = existing_garments()
-    AVOID = re.compile(R['avoid_titles']['pattern'], re.I) if R.get('avoid_titles') else None; AVOID_CATS = set(R.get('avoid_titles', {}).get('categories', []))
+    def rule_list(key):   # rules.avoid_titles / rules.require_titles: one object or a list of {categories, pattern}
+        rs = R.get(key) or []; rs = rs if isinstance(rs, list) else [rs]
+        return [(set(r.get('categories', [])), re.compile(r['pattern'], re.I)) for r in rs]
+    AVOIDS, REQS = rule_list('avoid_titles'), rule_list('require_titles')
     ONLY = {x['name']: re.compile(x['only_titles'], re.I) for x in cfg['brands'] if x.get('only_titles')}   # e.g. 18 East: shirts and overshirts only
     seen = set(); scored = []; dropped = collections.Counter()
     for c in cands:
         k = title_key(c)
         if k in seen: continue
-        if AVOID and c['category'] in AVOID_CATS and AVOID.search(c['title'] + ' ' + (c.get('desc') or '')[:300]): dropped['tapered'] += 1; continue
+        blob = c['title'] + ' ' + (c.get('desc') or '')
+        if any(c['category'] in cats and pat.search(blob) for cats, pat in AVOIDS): dropped['avoid'] += 1; continue
+        if any(c['category'] in cats and not pat.search(blob) for cats, pat in REQS): dropped['fit'] += 1; continue
         only = ONLY.get(c['brand'])
         if only and not only.search(c['title']): dropped[c['brand']] += 1; continue
         seen.add(k); sc, hits = score(c, w, closet_share, recent_brands, passed_brands, median_price); c['score'] = round(sc, 2); c['hits'] = hits

@@ -60,6 +60,12 @@ has any hearts. The closet itself is the taste until the notebook fills.
   casual (tees, jeans, cargos, sweats); "Going out to eat" means put-together but not dressy (camp shirts,
   good trousers, loafers, cardigans with character); "Dressy" is tailoring, overcoats, penny loafers.
 - Rules from the owner: $50–$500 list, at least 70% natural fibre, reputable brands only.
-- **Steer clear of slim, skinny and tapered legs** in trousers, jeans and shorts; wide, straight, relaxed and
-  pleated legs are what he saves. A relaxed Japanese jean with a gentle taper is the one exception he has noted.
+- **Wide legs only** (owner, 2026-09-21): trousers, jeans and shorts must be wide, big, baggy, balloon or pleated-wide;
+  never slim, skinny or tapered, and plain straight legs do not count.
+- **Relaxed tops only** (owner, 2026-09-21): he has a muscular chest and needs about 25 inches flat across it, so
+  shirts, knits, sweatshirts and jackets must be described as relaxed, boxy, oversized or generous. Universal Works
+  tops do not fit him (their trousers are fine). Sweatshirts he wants short as well as wide: about 26.5 inches long or less,
+  with a dropped shoulder, like his 18 East crewneck (25.5 across, 26.5 long, 22.5 shoulder).
+- Rounds publish without his approval (owner, 2026-09-26): the pull request merges itself, so the picks must be safe on
+  fit, price and taste, since nobody screens them.
 - Womenswear pieces do not belong in a round even from a stockist that carries both.
