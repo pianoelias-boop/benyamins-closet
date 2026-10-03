@@ -1,0 +1,39 @@
+[
+ {
+  "id": 5019,
+  "brand": "Universal Surplus",
+  "retailer": "Universal Surplus",
+  "name": "UNIVERSAL CAMP COLLAR SHIRT - GREEN",
+  "category": "Shirts",
+  "color": "Green",
+  "colorDetail": "GREEN",
+  "categoryDetail": "Shirts",
+  "price": 50.0,
+  "list": 79.0,
+  "url": "https://universal-surplus.com/products/universal-camp-collar-shirt-green",
+  "img": "images/ideas/5019.jpg",
+  "hi": true,
+  "desc": "Originally inspired by mid-century utility and service uniforms, this shirt combines functional design with a relaxed camp-collar silhouette. Its origins trace back to 1950s American workwear, when open-collar shirts became standard issue in both workshops and civilian wardrobes for their ease and ventilation. Made from lightweight cotton poplin, it features two symmetrical chest pockets with buttoned flaps, tonal buttons, and a straight hem. The cut is regular and slightly boxy, offering comfort and a sharp profile whether worn on its own or layered over a T-shirt.",
+  "details": [
+   "FABRIC",
+   "100% Cotton poplin",
+   "CARE",
+   "Machine wash 30 °C",
+   "Dry clean allowed",
+   "Made in China",
+   "On sale, was $79"
+  ],
+  "fabric": "100% Cotton poplin",
+  "occasions": [
+   "work",
+   "dance",
+   "dinner"
+  ],
+  "why": "100% cotton poplin, straight, green",
+  "reason": "Poplin, boxy and camp collar, like the 18 East Siello Utility Jacket, raw denim you saved.",
+  "newBrand": false,
+  "round": 2,
+  "added": "2026-10-03",
+  "by": "score"
+ }
+]
