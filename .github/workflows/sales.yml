@@ -2,7 +2,7 @@ name: Daily sale check
 
 on:
   schedule:
-    - cron: '41 8 * * *'    # 04:41 US Eastern (daylight); off the hour because GitHub fires top-of-hour crons late
+    - cron: '47 11 * * *'    # 07:47 US Eastern (daylight); each closet has its own hour so stores never see two crawls at once; off the hour because GitHub fires top-of-hour crons late
   workflow_dispatch:
     inputs:
       dry_run:
