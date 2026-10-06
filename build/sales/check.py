@@ -9,6 +9,7 @@ Two separate signals:
 """
 import json, re, ssl, urllib.request, html, os, datetime, statistics, concurrent.futures as cf
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')); os.chdir(ROOT)
+import sys; sys.path.insert(0, os.path.join(ROOT, 'build')); import shopify   # paced, retrying fetches (see build/shopify.py)
 ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
 UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1'
 H = {'User-Agent': UA, 'Accept': 'application/json,text/html,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9'}
@@ -42,7 +43,7 @@ def variants_for(it, product):
     matched = [v for v in vs if val(v) and (set(val(v)) <= set(hint) or set(hint) <= set(val(v)) or (val(v)[0] in hint))]
     return matched, ('colour' if matched else 'nomatch')
 HIST_PATH = 'build/sales/history.json'; hist = json.load(open(HIST_PATH)) if os.path.exists(HIST_PATH) else {}
-def get(u, timeout=30): return urllib.request.urlopen(urllib.request.Request(u, headers=H), timeout=timeout, context=ctx).read().decode('utf-8', 'ignore')
+def get(u, timeout=30): return shopify.get(u, H, timeout).decode('utf-8', 'ignore')
 SALE_COLLECTIONS = ('sale', 'mens-sale', 'men-sale', 'mens-clothing-sale', 'sale-mens', 'last-chance', 'outlet', 'final-sale')
 def feed(base):
     # The main feed (up to 12 pages) plus the brand's sale collection, because big stores (Boden) keep thousands of
@@ -146,7 +147,8 @@ def check(b):
     try:
         f = feed(b['site'])
         if f['products']: out['feed'] = f
-    except Exception: pass
+        else: out['feed_error'] = 'feed empty'
+    except Exception as e: out['feed_error'] = f'{type(e).__name__}: {str(e)[:60]}'
     try: out['home'] = homepage(b['site'])
     except Exception as e: out['home_error'] = str(e)[:60]
     return out
@@ -183,3 +185,6 @@ for r in results:
     hm = r.get('home') or {}
     if hm.get('promo'): print(f"  evidence {r['name']}: {hm.get('why')}")
 print('brands checked item by item:', sum(1 for n in notes.values() if n['checked']), 'of', len(notes))
+for r in results:
+    if r.get('feed_error'): print(f"  feed not read: {r['name']}: {r['feed_error']}")
+print('requests:', shopify.report())

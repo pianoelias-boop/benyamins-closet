@@ -3,6 +3,7 @@ import json, re, ssl, urllib.request, html, sys, time, concurrent.futures as cf
 ctx=ssl.create_default_context(); ctx.check_hostname=False; ctx.verify_mode=ssl.CERT_NONE
 H={'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36','Accept':'application/json'}
 cfg=json.load(open('build/suggest/brands.json')); R=cfg['rules']
+import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')); import shopify   # paced, retrying fetches
 def _existing():
     ex=json.load(open('build/items_raw.json'))+json.load(open('build/extras.json'))
     import glob
@@ -41,7 +42,7 @@ def category(title, ptype, tags):
         if re.search(pat, title.lower()) or re.search(pat, (ptype or '').lower()): return cat
     return None
 def get(u):
-    return urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=30,context=ctx).read()
+    return shopify.get(u, H, 30)
 def sweep(b):
     base=b['site'].rstrip('/'); out=[]; note=None
     try:
@@ -69,7 +70,7 @@ def sweep(b):
                 img=(p.get('images') or [{}])[0].get('src')
                 desc=html.unescape(re.sub(r'<[^>]+>',' ',p.get('body_html') or '')); desc=re.sub(r'\s+',' ',desc).strip()[:600]
                 out.append(dict(brand=b['name'], status=b['status'], title=title, category=cat, price=price, list=lst, fabric=fabnote, natural=share, url=url, img=img, tags=tags[:6], desc=desc, published=p.get('published_at','')[:10]))
-            page+=1; time.sleep(0.4)
+            page+=1
     except Exception as e:
         note=f'{type(e).__name__}: {str(e)[:60]}'
     return b['name'], out, note
@@ -81,7 +82,7 @@ def sweep_brands(statuses={'approved'}, workers=6, quiet=False):
             allc+=out; report.append((name,len(out),note))
     if not quiet:
         for name,n,note in sorted(report, key=lambda r:-r[1]): print(f'{name:24s} {n:4d}  {note or ""}')
-        print('TOTAL candidates', len(allc))
+        print('TOTAL candidates', len(allc)); print('requests:', shopify.report())
     return allc, report
 
 if __name__=='__main__':

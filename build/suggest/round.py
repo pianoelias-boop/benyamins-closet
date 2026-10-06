@@ -204,6 +204,7 @@ def stage1():
         for i, c in enumerate(short, 1):
             f.write(f"{i}. [{c['brand']}] {c['title']} — {c['category']} — ${c['price']:.0f}" + (f" (list ${c['list']:.0f})" if c['list'] != c['price'] else '') + f" — {c.get('fabric') or 'fibre not stated'} — score {c['score']}" + (" — ANOTHER COLOUR of a piece already in the closet" if c.get('recolour') else '') + f"\n   {(c.get('desc') or '')[:220]}\n   {c['url']}\n")
     json.dump({'date': TODAY, 'stage1': NOW.isoformat(), 'brands_ok': [r[0] for r in report if r[1]], 'brands_failed': [r[0] for r in report if r[2]]}, open(f'{PEND}/round_meta.json', 'w'), indent=1)
+    import shopify; print('requests:', shopify.report())
     print(f'stage1 done: {len(saved)} hearts, {len(passed)} passes, {len(cands)} candidates, shortlist {len(short)}; dropped by rule: {dict(dropped)}; feeds failed: {[r[0] for r in report if r[2]]}')
 
 def fallback():
@@ -293,7 +294,7 @@ def next_id():
     ids += [i['id'] for i in json.load(open('build/extras.json')) if i['id'] >= 5000]
     return max(ids + [5010]) + 1
 def fetch_pick(pk, iid):
-    d = json.loads(urllib.request.urlopen(urllib.request.Request(pk['url'].split('?')[0] + '.js', headers=H), timeout=40, context=ctx).read())
+    import shopify; d = json.loads(shopify.get(pk['url'].split('?')[0] + '.js?currency=USD', H, 40))
     body = d.get('description') or ''; desc, det, fabric = parse_desc(body, pk['brand'])
     if not fabric:
         m = re.search(r'\b(\d{1,2}[- ]wale )?(cotton )?(corduroy|cord|linen|denim|twill|wool|merino|tweed|flannel|canvas|moleskin|jersey|poplin|chambray|silk|cashmere)\b[^|,-]*', d['title'], re.I)
