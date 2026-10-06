@@ -26,9 +26,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 0 }
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
-      - run: pip install pillow
+      - run: python3 -m pip install --user --break-system-packages --quiet pillow   # system python3 on purpose: Shopify refuses the setup-python build (2026-10-06)
       - name: Skip if a round PR is already open
         id: check
         env: { GH_TOKEN: '${{ github.token }}' }
@@ -61,9 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
-      - run: pip install pillow
+      - run: python3 -m pip install --user --break-system-packages --quiet pillow   # system python3 on purpose: Shopify refuses the setup-python build (2026-10-06)
       - name: Stage 1 (notebook, sweep, shortlist)
         run: python3 build/suggest/round.py stage1
       - name: Save the shortlist for the judge
@@ -81,9 +77,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 0 }
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
-      - run: pip install pillow
+      - run: python3 -m pip install --user --break-system-packages --quiet pillow   # system python3 on purpose: Shopify refuses the setup-python build (2026-10-06)
       - name: Is a round already waiting or done this week?
         id: check
         env: { GH_TOKEN: '${{ github.token }}' }

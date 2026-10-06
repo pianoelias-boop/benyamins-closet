@@ -19,8 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
       - name: Check the brands
         run: python3 build/sales/check.py
       - name: Watch the return-policy pages (writes build/returns/changes.json; nobody is notified)
