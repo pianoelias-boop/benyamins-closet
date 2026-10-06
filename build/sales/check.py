@@ -51,14 +51,14 @@ def feed(base):
     n = disc = 0; depths = []; items = {}; seen = set()
     def pages():
         for page in range(1, 13):
-            prods = json.loads(get(f'{base}/products.json?limit=250&page={page}')).get('products', [])
+            prods = json.loads(get(f'{base}/products.json?limit=250&page={page}&currency=USD')).get('products', [])
             if not prods: break
             yield prods
             if len(prods) < 250: break
         for coll in SALE_COLLECTIONS:
             try:
                 for page in range(1, 9):
-                    prods = json.loads(get(f'{base}/collections/{coll}/products.json?limit=250&page={page}')).get('products', [])
+                    prods = json.loads(get(f'{base}/collections/{coll}/products.json?limit=250&page={page}&currency=USD')).get('products', [])
                     if not prods: break
                     yield prods
                     if len(prods) < 250: break

@@ -92,7 +92,7 @@ def main():
 
         d = None
         if '/products/' in url:
-            try: d = json.loads(get(url.split('?')[0] + '.js'))
+            try: d = json.loads(get(url.split('?')[0] + '.js?currency=USD'))   # stores outside the US answer in their own currency otherwise
             except Exception as e: print(f'row {n}: no Shopify data ({str(e)[:60]}), using the row as given')
         name = r.get('name') or (d or {}).get('title')
         price = float(r['price']) if r.get('price') else ((d or {}).get('price') or 0) / 100

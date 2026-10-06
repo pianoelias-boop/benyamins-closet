@@ -48,7 +48,7 @@ def sweep(b):
     try:
         page=1
         while page<=12:
-            data=json.loads(get(f'{base}/products.json?limit=250&page={page}'))
+            data=json.loads(get(f'{base}/products.json?limit=250&page={page}&currency=USD'))
             prods=data.get('products',[])
             if not prods: break
             for p in prods:
