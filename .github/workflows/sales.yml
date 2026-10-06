@@ -31,4 +31,4 @@ jobs:
           git config user.name "closet-bot"; git config user.email "closet-bot@users.noreply.github.com"
           git add sales.js build/sales/history.json build/returns/hashes.json build/returns/changes.json
           git commit -m "Sale check $(date -u +%F)" || echo "no change"
-          git push
+          git pull --rebase && git push   # other commits may have landed during a long run
