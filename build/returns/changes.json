@@ -1,13 +1,9 @@
 {
  "changed": [
-  "Mephisto"
+  "Labour Union",
+  "Mephisto",
+  "Scarpa"
  ],
- "errors": [
-  "Manresa: HTTPError HTTP Error 429: Too Many Requests",
-  "Morning Witch: HTTPError HTTP Error 429: Too Many Requests",
-  "Scarpa: HTTPError HTTP Error 429: Too Many Requests",
-  "Scott Fraser Collection: HTTPError HTTP Error 429: Too Many Requests",
-  "Uskees: HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "checked": "2026-09-25"
 }
