@@ -31,15 +31,20 @@ jobs:
         id: check
         env: { GH_TOKEN: '${{ github.token }}' }
         run: echo "skip=$([ "$(gh pr list --label round --state open --json number --jq 'length')" != "0" ] && echo yes || echo no)" >> $GITHUB_OUTPUT
-      - name: Finalize the round from Claude's picks
+      - name: Are Claude's picks readable and on the shortlist (repairs an encoded file; unusable picks leave the week to the fallback)
+        id: picks
         if: steps.check.outputs.skip == 'no'
+        run: |
+          echo "ok=$(python3 build/suggest/picks_ok.py && echo yes || echo no)" >> $GITHUB_OUTPUT
+      - name: Finalize the round from Claude's picks
+        if: steps.check.outputs.skip == 'no' && steps.picks.outputs.ok == 'yes'
         env: { ROUND_BRANCH: 'round/claude-${{ github.run_id }}' }
         run: |
           test -f build/suggest/pending/shortlist.json || python3 build/suggest/round.py stage1
           cp build/suggest/pending/picks_claude.json build/suggest/pending/picks.json
           python3 build/suggest/round.py finalize --by claude
       - name: Open the pull request
-        if: steps.check.outputs.skip == 'no'
+        if: steps.check.outputs.skip == 'no' && steps.picks.outputs.ok == 'yes'
         env: { GH_TOKEN: '${{ github.token }}' }
         run: |
           git config user.name "closet-bot"; git config user.email "closet-bot@users.noreply.github.com"
