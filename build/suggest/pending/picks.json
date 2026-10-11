@@ -1,30 +1,58 @@
 [
- {
-  "url": "https://universal-surplus.com/products/universal-hbt-fatigue-pants-navy-blue",
-  "brand": "Universal Surplus",
-  "title": "UNIVERSAL HBT FATIGUE PANTS - NAVY BLUE",
-  "category": "Trousers",
-  "reason": "Twill, fatigue and herringbone, like the 18 East Civilita Asymmetrical Cargo Pant you saved."
- },
- {
-  "url": "https://universal-surplus.com/products/universal-camp-collar-shirt-green",
-  "brand": "Universal Surplus",
-  "title": "UNIVERSAL CAMP COLLAR SHIRT - GREEN",
-  "category": "Shirts",
-  "reason": "Poplin, boxy and camp collar, like the 18 East Siello Utility Jacket, raw denim you saved."
- },
- {
-  "url": "https://shop.morningwitch.com/products/coming-may-3rd-linen-culottes-fungi-forest",
-  "brand": "Morning Witch",
-  "title": "[LINEN CULOTTES] Fungi Forest",
-  "category": "Shirts",
-  "reason": "Linen, like the 18 East Civilita Asymmetrical Cargo Pant you saved."
- },
- {
-  "url": "https://shop.morningwitch.com/products/presale-linen-shorts-cordiform",
-  "brand": "Morning Witch",
-  "title": "[LINEN SHORTS] Cordiform",
-  "category": "Shorts & Swim",
-  "reason": "Linen, like the 18 East Civilita Asymmetrical Cargo Pant you saved."
- }
+  {
+    "url": "https://18east.co/products/updated-vetti-pant-deep-army",
+    "brand": "18 East",
+    "title": "VETTI 2.0 BALLOON PANT - DEEP ARMY COTTON MICRORIPSTOP",
+    "category": "Trousers",
+    "reason": "A balloon-leg pant in olive cotton, in the same wide, utilitarian spirit as the 18 East Civilita Cargo Pant you saved."
+  },
+  {
+    "url": "https://sonofastag.com/products/orslow-usmc-herringbone-wide-fit-utility-trouser-khaki",
+    "brand": "Son of a Stag",
+    "title": "orSlow U.S.M.C. Herringbone Twill Utility Trouser - Khaki",
+    "category": "Trousers",
+    "reason": "Herringbone twill in a fatigue cut, much like the wide M-47 cargo trousers you saved."
+  },
+  {
+    "url": "https://standardandstrange.com/products/15-5-oz-loose-fit-jeans-slub-nep-denim",
+    "brand": "Standard & Strange",
+    "title": "15.5 oz Loose Fit Jeans - Slub Nep Denim",
+    "category": "Jeans",
+    "reason": "A wide, high-rise Japanese denim jean, in the same spirit as the 3sixteen and Full Count denim you saved."
+  },
+  {
+    "url": "https://brut-clothing.us/products/the-cropped-work-jacket-blue",
+    "brand": "Brut Clothing",
+    "title": "THE WORK JACKET",
+    "category": "Jackets & Coats",
+    "reason": "A boxy, cropped Brut Clothing jacket in corded cotton, from the brand whose Ragged Thermal Hoodie you already saved."
+  },
+  {
+    "url": "https://www.blueowl.us/products/jones-cotton-merino-shirt-in-brown-sky",
+    "brand": "Blue Owl Workshop",
+    "title": "Jones Cotton Merino Twill Shirt in Brown Sky",
+    "category": "Shirts",
+    "reason": "A relaxed brown twill button-down, in the same textured, workwear spirit as the patchwork corduroy overshirts you saved."
+  },
+  {
+    "url": "https://nomanwalksalone.com/products/grp-ss26-short-sleeve-knit-shirt-in-avio-blue-perforated-stripe-linen",
+    "brand": "No Man Walks Alone",
+    "title": "Short sleeve knit shirt in Avio washed blue perforated stripe linen",
+    "category": "Knitwear",
+    "reason": "A breathable linen knit shirt, in the same spirit as the Scott Fraser Collection Chet knit tee you saved."
+  },
+  {
+    "url": "https://18east.co/products/asheville-oversized-blazer-dune-cacao",
+    "brand": "18 East",
+    "title": "ASHEVILLE OVERSIZED BLAZER - DUNE LINEN TWILL",
+    "category": "Suits & Blazers",
+    "reason": "An oversized linen blazer in a warm ecru tone, from the same label as the 18 East Ale Blouson you saved."
+  },
+  {
+    "url": "https://brut-clothing.us/products/the-cropped-hoodie-navy",
+    "brand": "Brut Clothing",
+    "title": "THE CROPPED HOODIE",
+    "category": "Knitwear",
+    "reason": "A boxy, cropped hoodie in navy cotton, from Brut Clothing, whose Diving Sweat you also saved."
+  }
 ]
