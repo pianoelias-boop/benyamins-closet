@@ -1,14 +1,14 @@
 # Benyamin's taste profile
 
-<!-- auto:start (rewritten by round.py, 2026-10-03) -->
-## What the notebook says (2026-10-03)
+<!-- auto:start (rewritten by round.py, 2026-10-11) -->
+## What the notebook says (2026-10-11)
 - Hearts: 7  ·  Not for me: 2
-- Brands he saves: 18 East (0.6), Brut Clothing (0.4), Scott Fraser Collection (0.2), Indi + Ash (0.2)
-- Categories: Jackets & Coats (0.6), Knitwear (0.4), Tees & Polos (0.2)
-- Colours: Green (0.6), White/Ivory (0.2), Beige/Tan (0.2), Blue (0.2), Denim (0.1)
-- Fabrics: twill (0.4), cotton (0.3), linen (0.2), cashmere (0.2), silk (0.2), denim (0.2)
-- Cuts and details: pocket (0.7), cropped (0.4), boxy (0.4), ribbed (0.4), rib (0.4), herringbone (0.2), cargo (0.2), elastic (0.2), utility (0.2), collar (0.2)
-- Price bands: 200-300 (0.7), 300+ (0.6)
+- Brands he saves: 18 East (0.4), Brut Clothing (0.3), Scott Fraser Collection (0.1), Indi + Ash (0.1)
+- Categories: Jackets & Coats (0.4), Knitwear (0.3), Tees & Polos (0.1)
+- Colours: Green (0.4), White/Ivory (0.1), Beige/Tan (0.1), Blue (0.1), Denim (0.0)
+- Fabrics: twill (0.3), cotton (0.2), linen (0.1), silk (0.1), cashmere (0.1), denim (0.1)
+- Cuts and details: pocket (0.5), cropped (0.3), rib (0.3), ribbed (0.3), boxy (0.3), herringbone (0.1), cargo (0.1), elastic (0.1), utility (0.1), collar (0.1)
+- Price bands: 200-300 (0.5), 300+ (0.4)
 - Steer away from: nothing yet
 - Most recent hearts: 18 East Siello Utility Jacket, raw denim; 18 East Ale Full-Zip Blouson, tussar cashmere twill; Brut Clothing The Ragged Thermal Hoodie; 18 East Civilita Asymmetrical Cargo Pant; Brut Clothing The Diving Sweat; Indi + Ash George Coat, Handspun Herringbone; Scott Fraser Collection Chet knit tee
 <!-- auto:end -->
