@@ -4,43 +4,43 @@
    "id": 6,
    "name": "Chet knit tee",
    "brand": "Scott Fraser Collection",
-   "age_days": 20.8
+   "age_days": 27.7
   },
   {
    "id": 58,
    "name": "George Coat, Handspun Herringbone",
    "brand": "Indi + Ash",
-   "age_days": 19.9
+   "age_days": 26.8
   },
   {
    "id": 60,
    "name": "Civilita Asymmetrical Cargo Pant",
    "brand": "18 East",
-   "age_days": 19.9
+   "age_days": 26.8
   },
   {
    "id": 84,
    "name": "Ale Full-Zip Blouson, tussar cashmere twill",
    "brand": "18 East",
-   "age_days": 19.9
+   "age_days": 26.8
   },
   {
    "id": 88,
    "name": "Siello Utility Jacket, raw denim",
    "brand": "18 East",
-   "age_days": 19.9
+   "age_days": 26.8
   },
   {
    "id": 110,
    "name": "The Ragged Thermal Hoodie",
    "brand": "Brut Clothing",
-   "age_days": 19.9
+   "age_days": 26.8
   },
   {
    "id": 117,
    "name": "The Diving Sweat",
    "brand": "Brut Clothing",
-   "age_days": 19.9
+   "age_days": 26.8
   }
  ],
  "passed": [
@@ -56,48 +56,48 @@
   }
  ],
  "weights": {
+  "brand:Scott Fraser Collection": 0.14285714285714285,
   "price:200-300": 0.4714285714285714,
   "color:White/Ivory": 0.14285714285714285,
   "cat:Tees & Polos": 0.14285714285714285,
-  "brand:Scott Fraser Collection": 0.14285714285714285,
-  "color:Green": 0.42857142857142855,
-  "brand:Indi + Ash": 0.14285714285714285,
-  "fab:cotton": 0.18571428571428572,
-  "price:300+": 0.42857142857142855,
-  "cat:Jackets & Coats": 0.42857142857142855,
-  "cut:button": 0.042857142857142864,
   "cut:herringbone": 0.14285714285714285,
-  "cat:Trousers": -0.05714285714285713,
+  "cat:Jackets & Coats": 0.42857142857142855,
+  "fab:cotton": 0.18571428571428572,
+  "brand:Indi + Ash": 0.14285714285714285,
+  "color:Green": 0.42857142857142855,
+  "cut:button": 0.042857142857142864,
+  "price:300+": 0.42857142857142855,
   "fab:linen": 0.14285714285714285,
   "fab:twill": 0.2857142857142857,
-  "cut:cargo": 0.14285714285714285,
+  "cat:Trousers": -0.05714285714285713,
   "brand:18 East": 0.42857142857142855,
   "cut:pocket": 0.4714285714285714,
+  "cut:cargo": 0.14285714285714285,
   "color:Beige/Tan": 0.14285714285714285,
-  "cut:elastic": 0.14285714285714285,
-  "fab:silk": 0.14285714285714285,
   "fab:cashmere": 0.14285714285714285,
+  "fab:silk": 0.14285714285714285,
   "cut:cropped": 0.2857142857142857,
-  "color:Denim": 0.042857142857142864,
+  "cut:elastic": 0.14285714285714285,
   "fab:denim": 0.14285714285714285,
-  "cut:relaxed": 0.042857142857142864,
   "cut:utility": 0.14285714285714285,
-  "cut:rib": 0.2857142857142857,
+  "cut:relaxed": 0.042857142857142864,
+  "color:Denim": 0.042857142857142864,
+  "cat:Knitwear": 0.2857142857142857,
   "brand:Brut Clothing": 0.2857142857142857,
   "cut:ribbed": 0.2857142857142857,
-  "cat:Knitwear": 0.2857142857142857,
+  "cut:rib": 0.2857142857142857,
   "cut:boxy": 0.2857142857142857,
-  "color:Blue": 0.14285714285714285,
   "cut:collar": 0.14285714285714285,
   "cut:raglan": 0.14285714285714285,
-  "fab:canvas": -0.09999999999999999,
+  "color:Blue": 0.14285714285714285,
   "color:Red": -0.09999999999999999,
-  "price:100-200": -0.09999999999999999,
-  "brand:Nantucket Reds": -0.09999999999999999,
   "cut:pleat": -0.09999999999999999,
+  "fab:canvas": -0.09999999999999999,
   "cut:pleated": -0.09999999999999999,
+  "brand:Nantucket Reds": -0.09999999999999999,
   "cut:double pleat": -0.09999999999999999,
+  "price:100-200": -0.09999999999999999,
   "brand:W'menswear": -0.09999999999999999
  },
- "fetched": "2026-10-11T10:51:22.982276+00:00"
+ "fetched": "2026-10-18T08:53:11.347771+00:00"
 }
