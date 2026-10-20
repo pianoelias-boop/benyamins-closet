@@ -1,5 +1,9 @@
 {
  "changed": [],
- "errors": [],
+ "errors": [
+  "Manresa: HTTPError HTTP Error 429: Too Many Requests",
+  "Morning Witch: HTTPError HTTP Error 429: Too Many Requests",
+  "Scarpa: HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "checked": "2026-09-25"
 }
