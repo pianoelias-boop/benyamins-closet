@@ -1,7 +1,5 @@
 {
- "changed": [
-  "Bronson"
- ],
+ "changed": [],
  "errors": [
   "Casatlantic: RuntimeError only 0 policy sentences found"
  ],
