@@ -1,52 +1,52 @@
-## Round 4 · 2026-10-18 · chosen by Claude
+## Round 5 · 2026-10-25 · chosen by Claude
 
 @pianoelias-boop — 8 ideas for **Based on your likes**. Merge to publish; close to skip this week.
 
-### Stan Ray — Hunters Jacket (Island Green) · $155
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5028.jpg" width="220">
+### 18 East — ASHEVILLE OVERSIZED BLAZER - CACAO LINEN TWILL · $364
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5036.jpg" width="220">
 
-A relaxed olive cotton jacket, close in spirit to the 18 East Siello Utility Jacket you saved.  
-*100% cotton · work, hang, dinner* · [product page](https://www.stanray.com/products/hunters-jacket-island-green)
+The 18 East Asheville Blazer you saved, now in cacao linen twill.  
+*100% linen twill · work, dressy* · [product page](https://18east.co/products/asheville-oversized-blazer-cacao)
 
-### 3sixteen — Work Pant ~ Ivy Green · $180
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5029.jpg" width="220">
+### Blue Owl Workshop — Wide Fit French Work Pants in Army Green · $275
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5037.jpg" width="220">
 
-A wide-leg green cotton work pant, in the same loose, roomy spirit as the 18 East Civilita Cargo Pant you saved.  
-*100% cotton · work, hang* · [product page](https://www.3sixteen.com/products/work-pant-ivy-green)
+Herringbone twill in army green with a wide leg, like the 18 East Civilita cargo pant you saved.  
+*100% cotton · dance, hang* · [product page](https://www.blueowl.us/products/wide-fit-french-work-pants-in-army-green)
 
-### Glasswing — Papery Lantern Trouser, Olive · $204
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5030.jpg" width="220">
+### Lost & Found — Sage de Cret Cotton Broken Twill Wide Pleated Shorts Olive · $104
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5038.jpg" width="220">
 
-A wide, pleated olive trouser in papery cotton, echoing the easy cargo shape of the Civilita Pant you saved.  
-*100% Cotton · work, dance, dinner* · [product page](https://glasswingshop.com/products/7115-by-szeki-papery-lantern-trouser-olive)
+Wide pleated shorts in olive cotton twill, in the same spirit as the hakama pants you saved.  
+*100% cotton · dance, hang* · [product page](https://shoplostfound.com/products/sage-de-cret-cotton-broken-twill-wide-pleated-shorts-olive)
 
-### 3sixteen — Utility Flannel ~ Espresso Twill Check · $240
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5031.jpg" width="220">
+### Lost & Found — MHL Wide Leg Jogger Workwear Cotton Twill Off White · $258
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5039.jpg" width="220">
 
-A brown twill check shirt cut generous through the chest, textured like the Indi + Ash George Coat you saved.  
-*100% cotton · work* · [product page](https://www.3sixteen.com/products/utility-flannel-espresso-twill-check)
+Wide-leg jogger trousers in off-white, the ecru you favor, cut like the paratrooper pants you saved.  
+*100% cotton · dance, dinner* · [product page](https://shoplostfound.com/products/mhl-wide-leg-jogger-workwear-cotton-twill-off-white)
 
-### TOAST — Tucking Stripe Wool Cotton Sweater | Green Multi · $470
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5032.jpg" width="220">
+### Standard & Strange — Yorba Zip S/S Shirt- White Herringbone · $260
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5040.jpg" width="220">
 
-An oversized wool sweater with tuck-stitched stripes in green, in the same textured-knit spirit as the Chet knit tee you saved.  
-*100% wool · work, dinner* · [product page](https://us.toa.st/products/tucking-stripe-wool-cotton-sweater-green-multi)
+Herringbone cotton in a boxy bowling-shirt cut, the same textured weave as the Indi + Ash George Coat you saved.  
+*100% cotton · dance, exercise* · [product page](https://standardandstrange.com/products/yorba-zip-s-s-white-herringbone)
 
-### Glasswing — Mini Hoodie, Pigment Elm · $154
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5033.jpg" width="220">
+### 18 East — AMER EASTERN BUTTON DOWN SHIRT - RUSSET BROWN / CLEAR BLUE / GOLDENROD BELGIAN LINEN PLAID WITH WHITE HAND-EMBROIDERED DECO CHECK · $248
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5041.jpg" width="220">
 
-A relaxed, boxy cropped hoodie in a warm earthy tone, close to the Ragged Thermal Hoodie you saved.  
-*100% Cotton · dance, hang* · [product page](https://glasswingshop.com/products/lady-white-co-mini-hoodie-pigment-elm)
+A relaxed linen button-down with hand embroidery, from 18 East like the Ale Blouson you saved, in russet and goldenrod.  
+*100% Belgian linen · * · [product page](https://18east.co/products/amer-eastern-button-down-shirt-russet-brown-clear-blue-goldenrod-white)
 
-### No Man Walks Alone — Short sleeve polo in navy blue perforated stripe linen · $228
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5034.jpg" width="220">
+### Kaidu Utility — Ribbed Raglan Sweater - Merino Cashmere - Deep Chocolate - M, L, XL · $290
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5042.jpg" width="220">
 
-A breathable linen polo, good for dancing or travel, close in texture to the Chet knit tee you saved.  
-*100% linen · dance, hang* · [product page](https://nomanwalksalone.com/products/grp-ss26-short-sleeve-polo-in-navy-blue-perforated-stripe-linen)
+A relaxed merino-cashmere raglan sweater in deep chocolate, same cozy weight as the Diving Sweat you saved.  
+*90% merino wool 10% fine cashmere · work, dressy, exercise* · [product page](https://www.kaidutility.com/products/ribbed-raglan-sweater-merino-cashmere-deep-chocolate-m-l-xl)
 
-### Standard & Strange — 13.5 oz Loose Fit Jeans - Indigo · $290
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-39130353288/images/ideas/5035.jpg" width="220">
+### 3sixteen — Ultraweight Crewneck ~ Kombu Green · $200
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-40196492012/images/ideas/5043.jpg" width="220">
 
-The wide-leg loose fit jean he already has, now in indigo, roomy through the top block and good for dancing.  
-*100% cotton · work, dance, hang* · [product page](https://standardandstrange.com/products/13-5-oz-loose-fit-jeans-indigo)
+A boxy heavyweight crewneck in kombu green, the color and boxy ribbed feel like the Chet knit tee you saved.  
+*100% cotton body and ribbing · work, hang* · [product page](https://www.3sixteen.com/products/ultraweight-crewneck-kombu-green)
 
