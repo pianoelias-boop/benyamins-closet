@@ -1,89 +1,5 @@
 [
 {
-"brand": "Stan Ray",
-"status": "approved",
-"title": "Hunters Jacket (Island Green)",
-"category": "Jackets & Coats",
-"price": 155.0,
-"list": 221.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.stanray.com/products/hunters-jacket-island-green",
-"img": "https://cdn.shopify.com/s/files/1/2425/1015/files/SS26047606HUNTERSJACKETISLANDGREEN-1_1.jpg?v=1768472786",
-"tags": [
-"instock-mode",
-"instock-uk",
-"instock-usa",
-"JACKET",
-"JACKETS",
-"SS26"
-],
-"desc": "100% cotton Contrast cord collar Fleece-lined hand pockets Lower flap pockets Two internal pockets YKK zip Button-closure storm flap Reinforced shoulder panels Relaxed fit The Hunters Jacket brings the classic jackets worn by American hunters back in the ’50s and ’60s right up to date. Rugged luxury is maybe how we’d describe this. The hardy twill fabric means it’s reassuringly tough, while that contrasting cord collar gives it a nice and sophisticated feel. Combine that with a chunky YKK zip and fleece-lined hand pockets and you’re all set.",
-"published": "2026-02-25",
-"score": 3.75,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"color:Green",
-0.42857142857142855
-]
-],
-"recolour": false
-},
-{
-"brand": "Stan Ray",
-"status": "approved",
-"title": "Roughneck Jacket (Apple Cinnamon Canvas)",
-"category": "Jackets & Coats",
-"price": 155.0,
-"list": 221.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.stanray.com/products/roughneck-jacket-apple-cinnamon-canvas",
-"img": "https://cdn.shopify.com/s/files/1/2425/1015/files/SS26048629ROUGHNECKJACKETAPPLECINNAMONCANVAS-1_1.jpg?v=1768472827",
-"tags": [
-"instock-mode",
-"instock-uk",
-"instock-usa",
-"JACKET",
-"JACKETS",
-"SS26"
-],
-"desc": "100% cotton Twill fabric Two-way YKK zip Angled handwarmer pockets Zip chest pocket Ribbed hem and cuffs Corduroy collar Boxy fit Sitting somewhere between a bomber and a work jacket, the Roughneck Jacket is the kind of tough, wearable piece of kit you’ll find yourself reaching for time and time again. That cord collar adds a nice bit of luxury, while that washed cotton twill gives it a tastefully worn-in feel that’ll only get better with age. Whether you’re driving your truck to the ranch or just catching the train into the city, this will come in handy.",
-"published": "2026-02-25",
-"score": 3.71,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
 "brand": "18 East",
 "status": "approved",
 "title": "ASYMMETRIC WEP FLIGHT JACKET - BLACK HANDSPUN COTTON CANVAS",
@@ -106,58 +22,16 @@
 0.4714285714285714
 ],
 [
+"price:300+",
+0.42857142857142855
+],
+[
 "cat:Jackets & Coats",
 0.42857142857142855
 ],
 [
 "brand:18 East",
 0.42857142857142855
-],
-[
-"price:300+",
-0.42857142857142855
-]
-],
-"recolour": false
-},
-{
-"brand": "Glasswing",
-"status": "approved",
-"title": "CL Canvas Coach Jacket, Cashew",
-"category": "Jackets & Coats",
-"price": 318.0,
-"list": 455.0,
-"fabric": "100% cotton, 90% cotton, 10% linen",
-"natural": 1.0,
-"url": "https://glasswingshop.com/products/lady-white-co-tumbled-poplin-full-zip-brown-pearl",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/LadyWhiteCocanvascoachjacketcashew_L_6581.jpg?v=1783387492",
-"tags": [
-"081226",
-"CLOTHING",
-"COATS & JACKETS",
-"CURRENT",
-"JUL26M",
-"JUN26M"
-],
-"desc": "The CC Coach Jacket is a roomy, boxy-fitting cropped jacket with a regular point collar. Cut from a 100% cotton twill woven in Japan, the jacket has a soft, flat knobby texture with a structured drape and matte sheen. Finished with two waist pockets and raglan sleeves for movement. fit Chukwuma is 6'0\" and typically wears a size Large in tops. This style has a standard fit with a slightly shorter body. We recommend taking your normal size or sizing up for a more relaxed fit. details Made in USA 90% Cotton 10% Linen Machine wash cold",
-"published": "2026-07-06",
-"score": 3.48,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
 ]
 ],
 "recolour": false
@@ -194,7 +68,91 @@
 0.42857142857142855
 ],
 [
-"cut:ribbed",
+"cut:cropped",
+0.2857142857142857
+],
+[
+"cut:rib",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Stan Ray",
+"status": "approved",
+"title": "Roughneck Jacket (Apple Cinnamon Canvas)",
+"category": "Jackets & Coats",
+"price": 156.0,
+"list": 222.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://www.stanray.com/products/roughneck-jacket-apple-cinnamon-canvas",
+"img": "https://cdn.shopify.com/s/files/1/2425/1015/files/SS26048629ROUGHNECKJACKETAPPLECINNAMONCANVAS-1_1.jpg?v=1768472827",
+"tags": [
+"instock-mode",
+"instock-uk",
+"instock-usa",
+"JACKET",
+"JACKETS",
+"SS26"
+],
+"desc": "100% cotton Twill fabric Two-way YKK zip Angled handwarmer pockets Zip chest pocket Ribbed hem and cuffs Corduroy collar Boxy fit Sitting somewhere between a bomber and a work jacket, the Roughneck Jacket is the kind of tough, wearable piece of kit you’ll find yourself reaching for time and time again. That cord collar adds a nice bit of luxury, while that washed cotton twill gives it a tastefully worn-in feel that’ll only get better with age. Whether you’re driving your truck to the ranch or just catching the train into the city, this will come in handy.",
+"published": "2026-02-25",
+"score": 3.41,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cat:Jackets & Coats",
+0.42857142857142855
+],
+[
+"cut:rib",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Lost & Found",
+"status": "approved",
+"title": "Lady White Co. Mini Hoodie Grindle",
+"category": "Knitwear",
+"price": 230.0,
+"list": 230.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/lady-white-co-mini-hoodie-grindle",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/LadyWhiteCo.MiniHoodieGrindle-1.jpg?v=1766337398",
+"tags": [
+"#LWBOX10",
+"FW25",
+"Grindle",
+"Knit",
+"Lady White Co.",
+"LW624"
+],
+"desc": "- Pigment-dyed 13oz. brushed cotton fleece - Slightly dropped shoulder & cropped fit - Hood with bound finish & crossover neck - Kangaroo pocket - Gusseted shoulders & side panels - Ribbed cuffs & hem - Pre-shrunk - 100% cotton - Made in USA - Model is 6'1” (186cm), 160lbs (73kg) and wearing L",
+"published": "2025-12-21",
+"score": 3.4,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cat:Knitwear",
 0.2857142857142857
 ],
 [
@@ -225,15 +183,15 @@
 0.4714285714285714
 ],
 [
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
 "price:300+",
 0.42857142857142855
 ],
 [
-"cut:rib",
+"cat:Jackets & Coats",
+0.42857142857142855
+],
+[
+"cut:cropped",
 0.2857142857142857
 ]
 ],
@@ -264,15 +222,15 @@
 0.4714285714285714
 ],
 [
+"price:300+",
+0.42857142857142855
+],
+[
 "cat:Jackets & Coats",
 0.42857142857142855
 ],
 [
 "color:Green",
-0.42857142857142855
-],
-[
-"price:300+",
 0.42857142857142855
 ]
 ],
@@ -306,50 +264,8 @@
 0.4714285714285714
 ],
 [
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
 "price:300+",
 0.42857142857142855
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Stan Ray",
-"status": "approved",
-"title": "Hunters Jacket (Eucalyptus)",
-"category": "Jackets & Coats",
-"price": 155.0,
-"list": 221.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.stanray.com/products/hunters-jacket-eucalyptus",
-"img": "https://cdn.shopify.com/s/files/1/2425/1015/files/SS26047601HUNTERSJACKETEUCALYPTUS-1_1.jpg?v=1770909160",
-"tags": [
-"instock-mode",
-"instock-uk",
-"instock-usa",
-"JACKET",
-"JACKETS",
-"SS26"
-],
-"desc": "100% cotton Contrast cord collar Fleece-lined hand pockets Lower flap pockets Two internal pockets YKK zip Button-closure storm flap Reinforced shoulder panels Relaxed fit The Hunters Jacket brings the classic jackets worn by American hunters back in the ’50s and ’60s right up to date. Rugged luxury is maybe how we’d describe this. The hardy twill fabric means it’s reassuringly tough, while that contrasting cord collar gives it a nice and sophisticated feel. Combine that with a chunky YKK zip and fleece-lined hand pockets and you’re all set.",
-"published": "2026-02-25",
-"score": 3.32,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
 ],
 [
 "cat:Jackets & Coats",
@@ -365,24 +281,24 @@
 {
 "brand": "Glasswing",
 "status": "approved",
-"title": "S/S Knit Pullover, Brown",
-"category": "Knitwear",
-"price": 217.0,
-"list": 310.0,
-"fabric": "100% cotton, 100% cotton",
+"title": "CL Canvas Coach Jacket, Cashew",
+"category": "Jackets & Coats",
+"price": 318.0,
+"list": 455.0,
+"fabric": "100% cotton, 90% cotton, 10% linen",
 "natural": 1.0,
-"url": "https://glasswingshop.com/products/universal-works-s-s-knit-pullover-brown",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/UniversalWorks_SSKnitPulloverBrown_M_4162.jpg?v=1780004740",
+"url": "https://glasswingshop.com/products/lady-white-co-tumbled-poplin-full-zip-brown-pearl",
+"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/LadyWhiteCocanvascoachjacketcashew_L_6581.jpg?v=1783387492",
 "tags": [
 "081226",
 "CLOTHING",
+"COATS & JACKETS",
 "CURRENT",
-"JUN26M",
-"MAY26M",
-"MENS"
+"JUL26M",
+"JUN26M"
 ],
-"desc": "S/S Knit Polo is a short sleeved, fully-fashioned polo shirt, knitted in a 100% cotton with a small ribbed, waffle texture in the knit. '50s inspired, it is oversized in fit with a neat collar, square pocket and two button placket. fit Brandt is 6'2\" and typically wears a size Medium in tops. He's wearing the size Medium here for a regular fit. details Made in Portugal 100% Cotton Hand wash cold",
-"published": "2026-05-28",
+"desc": "The CC Coach Jacket is a roomy, boxy-fitting cropped jacket with a regular point collar. Cut from a 100% cotton twill woven in Japan, the jacket has a soft, flat knobby texture with a structured drape and matte sheen. Finished with two waist pockets and raglan sleeves for movement. fit Chukwuma is 6'0\" and typically wears a size Large in tops. This style has a standard fit with a slightly shorter body. We recommend taking your normal size or sizing up for a more relaxed fit. details Made in USA 90% Cotton 10% Linen Machine wash cold",
+"published": "2026-07-06",
 "score": 3.18,
 "hits": [
 [
@@ -394,50 +310,8 @@
 0.42857142857142855
 ],
 [
-"cut:rib",
-0.2857142857142857
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Glasswing",
-"status": "approved",
-"title": "Mini Hoodie, Pigment Elm",
-"category": "Knitwear",
-"price": 154.0,
-"list": 220.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://glasswingshop.com/products/lady-white-co-mini-hoodie-pigment-elm",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/LadyWhite_2317.jpg?v=1776723628",
-"tags": [
-"APR26M",
-"CLOTHING",
-"CURRENT",
-"FP",
-"LADY WHITE CO.",
-"MENS"
-],
-"desc": "A cropped, boxy hoodie with a high crossover collar that reframes a familiar silhouette with a more sculptural edge, featuring dropped shoulders, a shortened body, and gusseted side panels for ease and structure, cut from a lightweight looped French terry that is softly brushed for a smooth hand, with a kangaroo pocket and clean, stringless hood that keeps the shape considered and pared back, and finished with pigment dyeing that brings subtle variation and depth across the surface over time. fit Chukwuma is 6'0\" and typically wears a size Large in tops. This style has a relaxed, boxy fit with",
-"published": "2026-04-21",
-"score": 3.13,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Knitwear",
-0.2857142857142857
+"cat:Jackets & Coats",
+0.42857142857142855
 ],
 [
 "cut:cropped",
@@ -447,38 +321,155 @@
 "recolour": false
 },
 {
-"brand": "Lost & Found",
+"brand": "Found",
 "status": "approved",
-"title": "Lady White Co. Mini Hoodie Grindle",
-"category": "Knitwear",
-"price": 228.0,
-"list": 228.0,
+"title": "Utility Clasp Work Jacket",
+"category": "Jackets & Coats",
+"price": 280.0,
+"list": 280.0,
 "fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://shoplostfound.com/products/lady-white-co-mini-hoodie-grindle",
-"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/LadyWhiteCo.MiniHoodieGrindle-1.jpg?v=1766337398",
+"url": "https://found.store/products/utility-clasp-work-jacket",
+"img": "https://cdn.shopify.com/s/files/1/0389/6781/files/Utility_Clasp_jacket-Red1.jpg?v=1784140117",
 "tags": [
-"#LWBOX10",
-"FW25",
-"Grindle",
-"Knit",
-"Lady White Co.",
-"LW624"
+"SS26"
 ],
-"desc": "- Pigment-dyed 13oz. brushed cotton fleece - Slightly dropped shoulder & cropped fit - Hood with bound finish & crossover neck - Kangaroo pocket - Gusseted shoulders & side panels - Ribbed cuffs & hem - Pre-shrunk - 100% cotton - Made in USA - Model is 6'1” (186cm), 160lbs (73kg) and wearing L",
-"published": "2025-12-21",
-"score": 3.09,
+"desc": "Refined with a utilitarian approach, the Utility Clasp Work Jacket is constructed from 100% cotton in a vintage red wash, giving the piece a naturally worn-in character. Designed with a high collar, structured epaulet detailing, and oversized workwear-inspired pockets, the silhouette blends function with timeless design. Antique matte silver fireman clasps replace traditional closures, adding a distinctive hardware element while staying true to its utility roots. Finished with clean construction and a relaxed fit, this jacket is an effortless outer layer made to develop more character with eve",
+"published": "2026-07-16",
+"score": 3.12,
 "hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
 [
 "cut:pocket",
 0.4714285714285714
 ],
 [
-"cat:Knitwear",
+"price:200-300",
+0.4714285714285714
+],
+[
+"cat:Jackets & Coats",
+0.42857142857142855
+],
+[
+"fab:cotton",
+0.18571428571428572
+]
+],
+"recolour": false
+},
+{
+"brand": "Standard & Strange",
+"status": "approved",
+"title": "Cayucos Jacket - Dusty Blue",
+"category": "Jackets & Coats",
+"price": 400.0,
+"list": 400.0,
+"fabric": "100% cotton, 100% cotton",
+"natural": 1.0,
+"url": "https://standardandstrange.com/products/cayucos-jacket-dusty-blue",
+"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/FreenoteCloth-CayucosJacket-DustyBlue-Flat-156.jpg?v=1792208128",
+"tags": [
+"no-treet",
+"ss26",
+"treet-app",
+"webshop"
+],
+"desc": "The Cayucos Jacket is a casual and unlined \"club jacket\" with some cool two-tone details and a lightweight herringbone body. It's cut with a cropped length and a relaxed torso, featuring handwarmer pockets at a perfect height for resting your hands inside. Beyond that, it's got an easy zip placket, a classic collar, and adjustable cuffs at the end of each sleeve. It's made from a 10oz Japanese HBT (herringbone twill) fabric, with a stiff hand that will soften dramatically over time from wear and washing, changing from a more rigid fabric to something much more relaxed and draping. The directio",
+"published": "2026-10-20",
+"score": 3.12,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:300+",
+0.42857142857142855
+],
+[
+"cat:Jackets & Coats",
+0.42857142857142855
+],
+[
+"cut:cropped",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Blue Owl Workshop",
+"status": "approved",
+"title": "Wide Fit French Work Pants in Army Green",
+"category": "Shorts & Swim",
+"price": 275.0,
+"list": 275.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://www.blueowl.us/products/wide-fit-french-work-pants-in-army-green",
+"img": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_04_Product_OrSlow_WideFitFrenchWorkPantsinArmyGreen_127.jpg?v=1775416997",
+"tags": [
+"Bottoms",
+"Made in Japan",
+"Pants",
+"SS25"
+],
+"desc": "Details Sizing Brand Info orSlow's French Work Pants are wide-leg utility trousers receiving inspiration from 19th century workwear. The pants are built using a mediumweight cotton herringbone twill woven with a dense-weave and smooth surface. Finished with an elasticated waistband, button fly, and bartack reinforcement at points of stress. Wide leg fit Mid-weight Japanese herringbone twill Elastic back waistband Button fly Two slant front pockets Two patch back pockets, one with button closure Bartack reinforcements 100% cotton Made in Japan Size Waist Rise Thigh Knee Inseam Leg Opening 0 28\"",
+"published": "2026-10-21",
+"score": 3.09,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"color:Green",
+0.42857142857142855
+],
+[
+"fab:twill",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Lost & Found",
+"status": "approved",
+"title": "Body of Work Myrtle Quarter-Zip Sweatshirt Sueded French Terry Loam",
+"category": "Tees & Polos",
+"price": 281.0,
+"list": 281.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/body-of-work-myrtle-quarter-zip-sweatshirt-sueded-french-terry-loam",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/BodyofWorkMyrtleQuarter-ZipSweatshirtSuededFrenchTerryLoam-1.jpg?v=1779485348",
+"tags": [
+"#BODYOFWORKBOX4",
+"Body of Work",
+"Knit",
+"Myrtle Quarter-Zip Sweatshirt",
+"SS26",
+"Sueded French"
+],
+"desc": "- Pre-washed brushed French Terry knit - Pointed collar - Set-in sleeves & slightly dropped shoulders - Chest pocket - RiRi zip closure - Ribbed cuffs & hem - 100% cotton - Made in Canada - Model is 6’2” (189cm), 160lbs (73kg) and wearing M",
+"published": "2026-05-22",
+"score": 3.08,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:rib",
 0.2857142857142857
 ],
 [
@@ -512,11 +503,11 @@
 "score": 3.05,
 "hits": [
 [
-"price:200-300",
+"cut:pocket",
 0.4714285714285714
 ],
 [
-"cut:pocket",
+"price:200-300",
 0.4714285714285714
 ],
 [
@@ -524,7 +515,208 @@
 0.2857142857142857
 ],
 [
+"cut:rib",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Kaidu Utility",
+"status": "approved",
+"title": "Ribbed Raglan Sweater - Merino Cashmere - Deep Chocolate - M, L, XL",
+"category": "Knitwear",
+"price": 290.0,
+"list": 260.0,
+"fabric": "90% wool",
+"natural": 1.0,
+"url": "https://www.kaidutility.com/products/ribbed-raglan-sweater-merino-cashmere-deep-chocolate-m-l-xl",
+"img": "https://cdn.shopify.com/s/files/1/0187/7106/files/01brownraglan1.jpg?v=1792544940",
+"tags": [
+"merz B."
+],
+"desc": "Maker: Merz B. Schwanen Looking for a heavy gauge but not too bulky sweater, this sweater might be the answer. Made in 90% merino wool 10% fine cashmere. This is a winter essential sweater. Heavy gauge (but not too heavy), g reat fit (relaxed but not too boxy). Great deep brown color. Size M: Chest 44\", front length 27 1/2\" Size L C hest 46\", front length 29\" Size XL: C hest 48\", front length 29 1/2\" Made in Europe",
+"published": "2026-10-20",
+"score": 2.99,
+"hits": [
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:rib",
+0.2857142857142857
+],
+[
 "cut:ribbed",
+0.2857142857142857
+],
+[
+"cut:boxy",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Lost & Found",
+"status": "approved",
+"title": "Body of Work Senna Hooded Sweatshirt Sueded French Terry Natural",
+"category": "Tees & Polos",
+"price": 215.0,
+"list": 215.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/body-of-work-senna-hooded-sweatshirt-sueded-french-terry-natural",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/BodyofWorkSennaHoodedSweatshirtSuededFrenchTerryNatural-1.jpg?v=1779484880",
+"tags": [
+"#BODYOFWORKBOX2",
+"Body of Work",
+"Knit",
+"natural",
+"Senna Hooded Sweatshirt",
+"SS26"
+],
+"desc": "- Pre-washed brushed French terry knit - Generous crossover neck hood - Set-in sleeves & dropped shoulders - Kangaroo pocket - Deep ribbed cuffs & hem - 100% cotton - Made in Canada - Model is 6’2” (189cm), 160lbs (73kg) and wearing M",
+"published": "2026-05-22",
+"score": 2.94,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:rib",
+0.2857142857142857
+],
+[
+"cut:ribbed",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Brut Clothing",
+"status": "approved",
+"title": "DRUMAGED RESEARCH TEE",
+"category": "Tees & Polos",
+"price": 240.0,
+"list": 240.0,
+"fabric": "cotton",
+"natural": null,
+"url": "https://brut-clothing.us/products/drumaged-research-tee",
+"img": "https://cdn.shopify.com/s/files/1/0929/2169/2493/files/DRUMAGED_TEE-1.webp?v=1792751583",
+"tags": [
+"Brut",
+"T-Shirts"
+],
+"desc": "DRUMAGED This garment was custom destroyed through a process developed by BRUT, using the natural cleaning cycles of industrial washing drums over several weeks. No additional chemicals are used, resulting in a completely unique finish on each piece. Cropped and boxy fit in heavyweight cotton, featuring a thick rib-knit collar and cuffs, a chest patch pocket, slightly dropped shoulders, and BRUT graphics screen-printed on the back and sleeves. Our iconic Research Tee takes on a new dimension with the DRUMAGED process. Each piece has a unique finish, making one of BRUT’s most emblematic styles ",
+"published": "2026-10-23",
+"score": 2.91,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:cropped",
+0.2857142857142857
+],
+[
+"cut:rib",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "No Man Walks Alone",
+"status": "approved",
+"title": "Big pocket crewneck sweatshirt in latte beige wool and cotton terry knit",
+"category": "Tees & Polos",
+"price": 285.0,
+"list": 285.0,
+"fabric": "54% wool, 44% cotton, 1% nylon, 1% polyurethane",
+"natural": 0.98,
+"url": "https://nomanwalksalone.com/products/seagreen-fw26-big-pocket-crewneck-sweatshirt-in-latte-beige-wool-and-cotton-terry-knit",
+"img": "https://cdn.shopify.com/s/files/1/0561/4203/7156/files/Seagreen_Made_in_Japan_Fall_Winter_2026_FW26_Big_pocket_crewneck_sweatshirt_in_latte_beige_wool_and_cotton_terry_knit_9.jpg?v=1792632788",
+"tags": [
+"Active",
+"Color: Beige",
+"Made in: Japan",
+"Maker: Seagreen",
+"Maker_Seagreen",
+"Material: Wool"
+],
+"desc": "\"Like I said before, sweaters with unique details and an excellent fit need to be protected, owned and loved. Seagreen delivers this beautifully, creating a remarkably smooth knit on the surface, while the inner uses looped yarns to create a super soft terry-like effect.\" ---Kenshawn Details 54% wool, 44% organic cotton, 1% nylon, 1% polyurethane Crewneck, ribbed collar cuff and hem, knit pocket Made in Japan Size & Fit Regular fit We recommend taking your usual equivalent size 2=M, 3=L/XL",
+"published": "2026-10-22",
+"score": 2.91,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:rib",
+0.2857142857142857
+],
+[
+"cut:ribbed",
+0.2857142857142857
+]
+],
+"recolour": false
+},
+{
+"brand": "Glasswing",
+"status": "approved",
+"title": "S/S Knit Pullover, Brown",
+"category": "Knitwear",
+"price": 217.0,
+"list": 310.0,
+"fabric": "100% cotton, 100% cotton",
+"natural": 1.0,
+"url": "https://glasswingshop.com/products/universal-works-s-s-knit-pullover-brown",
+"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/UniversalWorks_SSKnitPulloverBrown_M_4162.jpg?v=1780004740",
+"tags": [
+"081226",
+"CLOTHING",
+"CURRENT",
+"JUN26M",
+"MAY26M",
+"MENS"
+],
+"desc": "S/S Knit Polo is a short sleeved, fully-fashioned polo shirt, knitted in a 100% cotton with a small ribbed, waffle texture in the knit. '50s inspired, it is oversized in fit with a neat collar, square pocket and two button placket. fit Brandt is 6'2\" and typically wears a size Medium in tops. He's wearing the size Medium here for a regular fit. details Made in Portugal 100% Cotton Hand wash cold",
+"published": "2026-05-28",
+"score": 2.88,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:300+",
+0.42857142857142855
+],
+[
+"cat:Knitwear",
+0.2857142857142857
+],
+[
+"cut:rib",
 0.2857142857142857
 ]
 ],
@@ -595,38 +787,36 @@
 0.2857142857142857
 ],
 [
-"brand:Brut Clothing",
+"cut:cropped",
 0.2857142857142857
 ],
 [
-"cut:ribbed",
+"cut:rib",
 0.2857142857142857
 ]
 ],
 "recolour": false
 },
 {
-"brand": "No Man Walks Alone",
+"brand": "Blue Owl Workshop",
 "status": "approved",
-"title": "Short sleeve polo in navy blue perforated stripe linen",
-"category": "Tees & Polos",
-"price": 228.0,
-"list": 285.0,
-"fabric": "100% linen",
+"title": "Vintage Fit Herringbone Fatigue Pants in Army Green",
+"category": "Shorts & Swim",
+"price": 275.0,
+"list": 275.0,
+"fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://nomanwalksalone.com/products/grp-ss26-short-sleeve-polo-in-navy-blue-perforated-stripe-linen",
-"img": "https://cdn.shopify.com/s/files/1/0561/4203/7156/files/GRP_Made_in_Italy_Spring_Summer_2026_SS26_Short_sleeve_polo_in_navy_blue_perforated_stripe_linen_7.jpg?v=1776354995",
+"url": "https://www.blueowl.us/products/vintage-fit-fatigue-pants-in-army",
+"img": "https://cdn.shopify.com/s/files/1/0796/5485/files/2025_10_Product_OrSlow_VintageFatiguePantsinArmyHerringbone_03-V5002-76__932.jpg?v=1760999149",
 "tags": [
-"Active",
-"Color: Blue",
-"Made in: Italy",
-"Maker: GRP",
-"Maker_GRP",
-"Material: Linen"
+"Bottoms",
+"Core",
+"Made in Japan",
+"Pants"
 ],
-"desc": "\"The Casa Isaac label on this piece lets you know there's something special going on. It's a small collection we adore from GRP that introduces a folksy, rustic point of view to the design. The linen knit has a dry, crepe-y texture that wears like a dream in warmer temps.\" ---Ludwin Details 100% linen Ribbed hem and cuffs; two button placket with horn buttons Single small chest pocket Made just outside of Florence, Italy Size & Fit Slightly relaxed fit We recommend taking your usual size per the size conversion 4 = S, 5 = M, 6 = L, 7 = XL, 8 =XXL",
-"published": "2026-04-16",
-"score": 2.83,
+"desc": "Details Sizing Brand Info Inspired by vintage military uniforms, orSlow's Fatigue Pants are a rugged alternative to jeans. Built from a durable herringbone twill fabric, the pants feature standard-issue design elements such as elongated pockets with exterior detailing and bartack reinforcements. Cut in orSlow's \"Vintage Fit\", a retro straight-leg designed with a high-rise and wide hem. Vintage fit with high rise and wide leg Medium-weight herringbone twill Two front pockets, two rear flap pockets Adjustable waist Button fly Bartack reinforcements 100% cotton Made in Japan Size Waist Rise Thigh",
+"published": "2026-10-21",
+"score": 2.81,
 "hits": [
 [
 "cut:pocket",
@@ -637,11 +827,11 @@
 0.4714285714285714
 ],
 [
-"cut:rib",
-0.2857142857142857
+"color:Green",
+0.42857142857142855
 ],
 [
-"cut:ribbed",
+"fab:twill",
 0.2857142857142857
 ]
 ],
@@ -675,11 +865,11 @@
 0.4714285714285714
 ],
 [
-"cut:ribbed",
+"cut:rib",
 0.2857142857142857
 ],
 [
-"cut:rib",
+"cut:ribbed",
 0.2857142857142857
 ],
 [
@@ -716,11 +906,11 @@
 0.4714285714285714
 ],
 [
-"cut:ribbed",
+"cut:rib",
 0.2857142857142857
 ],
 [
-"cut:rib",
+"cut:ribbed",
 0.2857142857142857
 ],
 [
@@ -733,123 +923,40 @@
 {
 "brand": "Lost & Found",
 "status": "approved",
-"title": "Body of Work Myrtle Quarter-Zip Sweatshirt Sueded French Terry Loam",
-"category": "Tees & Polos",
-"price": 278.0,
-"list": 278.0,
+"title": "Sage de Cret Cotton Broken Twill Wide Pleated Shorts Olive",
+"category": "Shorts & Swim",
+"price": 104.0,
+"list": 208.0,
 "fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://shoplostfound.com/products/body-of-work-myrtle-quarter-zip-sweatshirt-sueded-french-terry-loam",
-"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/BodyofWorkMyrtleQuarter-ZipSweatshirtSuededFrenchTerryLoam-1.jpg?v=1779485348",
+"url": "https://shoplostfound.com/products/sage-de-cret-cotton-broken-twill-wide-pleated-shorts-olive",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/SagedeCretCottonBrokenTwillWidePleatedShortsOlive-1.jpg?v=1708201794",
 "tags": [
-"#BODYOFWORKBOX4",
-"Body of Work",
-"Knit",
-"Myrtle Quarter-Zip Sweatshirt",
-"SS26",
-"Sueded French"
+"#LOCKERBOX1",
+"#OSSFEST26",
+"31-40-8386",
+"Bottoms",
+"Cotton Broken Twill",
+"olive"
 ],
-"desc": "- Pre-washed brushed French Terry knit - Pointed collar - Set-in sleeves & slightly dropped shoulders - Chest pocket - RiRi zip closure - Ribbed cuffs & hem - 100% cotton - Made in Canada - Model is 6’2” (189cm), 160lbs (73kg) and wearing M",
-"published": "2026-05-22",
+"desc": "- Not everyone wants a short short. Not everyone lived in the 80s. I lived in the 80s and the 90s and as such I like both length of shorts. Aka I'm a renaissance man. A man who has worn two lengths of shorts in his life. I like this short because it gives me options. Options to go long or cuff and go short, we call this versatility. - Broken cotton twill - Partially elasticated waist with button closure & zip fly - Pleated front - Front slash pockets - Rear button flap patch pockets - 100% cotton - Made in Japan - Model is 6’0” (183cm) tall, weighs 160lbs (73kg) and is wearing a size M",
+"published": "2026-08-20",
 "score": 2.77,
 "hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
 [
 "cut:pocket",
 0.4714285714285714
 ],
 [
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "Warehouse & Co 409 Plain Sweatshirt - Navy",
-"category": "Tees & Polos",
-"price": 230.0,
-"list": 230.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/warehouse-409-plain-sweatshirt-navy",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/products/WAREHOUSECO_409PLAINSWEATSHIRT_NAVY.jpg?v=1672755927",
-"tags": [
-"Brand_Warehouse & Co Japan",
-"Colour_Navy",
-"Department_Sweatshirts",
-"Loungewear",
-"Warehouse & Co Japan"
-],
-"desc": "This brilliant college inspired sweatshirt from Warehouse & Co has its roots in the mid-20th Century, and features a short cut, boxy shape, and an iconic raglan sleeve which allows for a superb range of movement. A 100% cotton fabric has been woven on vintage loop wheel knitting machines, a time honoured process which has long given way to more cost effective methods, but which don’t come close to the same quality results. A ribbed collar, cuff, and waistband allow for the perfect comfort fit, while the fabric itself has been chosen for its unique character and authentic fade as it is worn and",
-"published": "2026-02-13",
-"score": 2.77,
-"hits": [
-[
 "price:200-300",
 0.4714285714285714
 ],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-],
-[
-"cut:boxy",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "TOAST",
-"status": "approved",
-"title": "Tucking Stripe Wool Cotton Sweater | Green Multi",
-"category": "Knitwear",
-"price": 470.0,
-"list": 470.0,
-"fabric": "100% wool",
-"natural": 1.0,
-"url": "https://us.toa.st/products/tucking-stripe-wool-cotton-sweater-green-multi",
-"img": "https://cdn.shopify.com/s/files/1/0425/6595/9838/files/MKNWW04_greenmulti_0.jpg?v=1790370816",
-"tags": [
-"also-shown: bill-cotton-canvas-wide-leg-trousers-mahogany",
-"also-shown: vibae-waxed-suede-mules-olive",
-"base_colour: Green",
-"collection: aw26_mw_newaug",
-"collection: gifts_for_him",
-"collection: gwp-knitwear"
-],
-"desc": "Dropped shoulders complement the boxy shape of our sweater. Knitted from a wool and cotton blend with tuck-stitched stripes and finished with a stand collar. Part of our Menswear collection. Wool and organic cotton blend. Dropped shoulders. Stand collar. Integral ribbed neck, cuffs and hem. ### Details Made in Turkey. 100% wool. Soft yarns are liable to pill to some extent, even when using those of the best quality. To take good care of them remove any pills using a pilling comb and protect them from sharp items or jewellery that may catch or snag. Size & Fit Oversized. Length: Low hip. Sleeve",
-"published": "2026-07-29",
-"score": 2.74,
-"hits": [
 [
 "color:Green",
 0.42857142857142855
 ],
 [
-"price:300+",
-0.42857142857142855
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-],
-[
-"cut:ribbed",
+"fab:twill",
 0.2857142857142857
 ]
 ],
@@ -878,11 +985,11 @@
 "score": 2.68,
 "hits": [
 [
-"price:200-300",
+"cut:pocket",
 0.4714285714285714
 ],
 [
-"cut:pocket",
+"price:200-300",
 0.4714285714285714
 ],
 [
@@ -895,6 +1002,88 @@
 ]
 ],
 "recolour": false
+},
+{
+"brand": "Lost & Found",
+"status": "approved",
+"title": "MHL Wide Leg Jogger Workwear Cotton Twill Off White",
+"category": "Trousers",
+"price": 258.0,
+"list": 368.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/mhl-wide-leg-jogger-workwear-cotton-twill-off-white",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/MHL-Wide-Leg-Jogger-Workwear-Cotton-Twill-Off-White-1.jpg?v=1776787192",
+"tags": [
+"#MHLBOX8",
+"Bottoms",
+"Margaret Howell",
+"MHL",
+"MHTR0527Y00JCDOFW",
+"off white"
+],
+"desc": "- C otton twill - Elasticated waist with internal herringbone tape drawcord - Deep front welt pocket - Rear patch pocket with stitch through detail - 100% cotton - Made in Portugal - Model is 6’2” (189cm), 160lbs (73kg) and wearing M",
+"published": "2026-04-21",
+"score": 2.67,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:300+",
+0.42857142857142855
+],
+[
+"fab:twill",
+0.2857142857142857
+],
+[
+"fab:cotton",
+0.18571428571428572
+]
+],
+"recolour": false
+},
+{
+"brand": "Standard & Strange",
+"status": "approved",
+"title": "Yorba Zip S/S - Maroon Combo",
+"category": "Shirts",
+"price": 270.0,
+"list": 270.0,
+"fabric": "100% lyocell",
+"natural": 1.0,
+"url": "https://standardandstrange.com/products/yorba-zip-s-s-maroon-combo",
+"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/FreenoteCloth-YorbaZipS-S-MaroonCombo-Flat-226.jpg?v=1792208461",
+"tags": [
+"no-treet",
+"ss26",
+"treet-app",
+"webshop"
+],
+"desc": "The Yorba Zip shirt is inspired by vintage bowling shirts, with a boxy fit, welted front pocket, and two-tone design. It's got some great details, from the full length back pleats to the button tab adjusters on the waistband, and works well as a shirt or mid-layer. Cut with short sleeves, they're a more vintage shape all around, running slightly small due to the more cropped body and narrow shoulders. It's made from two different shades of a 5oz lyocell twill from Japan. Lightweight and breathable, it's got a super comfortable and fluid drape, just like a classic rayon (or even silk) bowling s",
+"published": "2026-10-20",
+"score": 2.65,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"cut:cropped",
+0.2857142857142857
+],
+[
+"cut:boxy",
+0.2857142857142857
+]
+],
+"recolour": true
 },
 {
 "brand": "18 East",
@@ -919,11 +1108,11 @@
 0.4714285714285714
 ],
 [
-"brand:18 East",
+"price:300+",
 0.42857142857142855
 ],
 [
-"price:300+",
+"brand:18 East",
 0.42857142857142855
 ],
 [
@@ -952,11 +1141,11 @@
 "score": 2.61,
 "hits": [
 [
-"price:200-300",
+"cut:pocket",
 0.4714285714285714
 ],
 [
-"cut:pocket",
+"price:200-300",
 0.4714285714285714
 ],
 [
@@ -964,161 +1153,46 @@
 0.42857142857142855
 ],
 [
-"cut:collar",
+"fab:linen",
 0.14285714285714285
 ]
 ],
 "recolour": false
 },
 {
-"brand": "3sixteen",
+"brand": "Lost & Found",
 "status": "approved",
-"title": "Utility Flannel ~ Espresso Twill Check",
-"category": "Shirts",
-"price": 240.0,
-"list": 240.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.3sixteen.com/products/utility-flannel-espresso-twill-check",
-"img": "https://cdn.shopify.com/s/files/1/0028/6132/files/3S-FW26_UTILITY_FLANNEL_EPSRESSO_TWILL_FRONT_CROPPED_B_ONBODY.jpg?v=1786980723",
-"tags": [
-"FW26",
-"Tops"
-],
-"desc": "Featuring matching front chest pockets and a straight back yoke, the Utility Flannel is a classic workwear silhouette with a modern fit. This flannel body is slightly cropped and more generous in the chest than our Crosscut body. This fabric is custom woven for us to have a raised diagonal twill pattern and a subtle window check pattern that give the shirt dynamic texture. The fabric has been brushed on the inside for comfort. The shirt is finished with natural corozo fisheye buttons that reference vintage workwear trims. !split! !details! Model is 6'1\" and 165lbs, wears a size Medium 100% cot",
-"published": "2026-08-17",
-"score": 2.59,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"cut:cropped",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "3sixteen",
-"status": "approved",
-"title": "Work Pant ~ Ivy Green",
+"title": "Beams Plus Lost & Found 2Pleats Trousers Cotton Linen Olive",
 "category": "Trousers",
-"price": 180.0,
+"price": 245.0,
 "list": 245.0,
-"fabric": "100% cotton",
+"fabric": "86% cotton, 14% linen",
 "natural": 1.0,
-"url": "https://www.3sixteen.com/products/work-pant-ivy-green",
-"img": "https://cdn.shopify.com/s/files/1/0028/6132/files/3S-01JAN25-FW25-WORK-PANT-IVY-GREEN-FRONT_CROPPED_B_ONBODY.jpg?v=1757948643",
+"url": "https://shoplostfound.com/products/beams-plus-lost-found-2pleats-trousers-cotton-linen-olive",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/BeamsPlusLost_Found2PleatsTrousersCottonLinenOlive-1.jpg?v=1784143779",
 "tags": [
-"disable_hem"
+"#BEAMSLFBOX3",
+"2Pleats Trousers Cotton Linen",
+"38-23-0393-874",
+"Beams +",
+"Beams Plus",
+"Bottoms"
 ],
-"desc": "The Work Pant features a wide leg fit and high rise reminiscent of classic work pants. We chose a heavyweight chino fabric with a pronounced twill weave that is structured yet drapes well. After sewing, the pants are garment dyed and rinsed for a broken in feel. The pant is finished with double needle flat fell seams throughout for extra durability and tonal dyed corozo buttons. !split! !details! 100% cotton Corozo buttons Rear welt pockets Made in Portugal !split! !measurements! Sizing Waist Front Rise Back Rise Inseam Thigh Knee Opening 28 28 10¼ 15¼ 33 11 9 8¼ 29 29 10¾ 15½ 33½ 11¾ 9½ 8½ 30",
-"published": "2025-09-15",
-"score": 2.54,
+"desc": "- Cotton linen blend - Button waist closure & zip fly - Double inverted pleats - Front slash pockets with button flap coin pocket - Rear double welt pockets - 86% cotton 14% linen - Made in Japan - Made exclusively for Lost & Found - Model is 5'11\" (180cm), 165lbs (75kg) and wearing (75kg) and wearing M",
+"published": "2026-07-16",
+"score": 2.6,
 "hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
 [
 "price:200-300",
 0.4714285714285714
 ],
 [
-"cut:pocket",
-0.4714285714285714
-],
-[
 "color:Green",
 0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Drake's",
-"status": "approved",
-"title": "Olive Heavy Cotton Flat Front Chino",
-"category": "Trousers",
-"price": 450.0,
-"list": 450.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://us.drakes.com/products/olive-heavy-cotton-flat-front-chino",
-"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B25068-02400-1.jpg?v=1739524821",
-"tags": [
-"badge_Restock",
-"Brand_Drake's Own",
-"Collection_Clothing",
-"Collection_Perennials",
-"Collection_Trousers",
-"Colour_Green"
-],
-"desc": "Composed of a 9.5oz Italian cotton with a robust, compact twill, these chinos provide a versatile linchpin to any wardrobe. Side adjusters alongside belt loops keep up the utilitarian nature of these trousers, while a full leg and high rise that sits just above the hip creates a classic, mid-century shape. 100% Cotton Made in Portugal Button Fastening and Zip Fly Side Adjusters Belt Loops Vertical Pockets Internal French Bearer Please contact our team for sizing advice at productenquiries@drakes.com",
-"published": "2025-02-14",
-"score": 2.54,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"color:Green",
-0.42857142857142855
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Standard & Strange",
-"status": "approved",
-"title": "Short Button Down Shirt - White",
-"category": "Shorts & Swim",
-"price": 260.0,
-"list": 260.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://standardandstrange.com/products/short-button-down-shirt-white",
-"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/OrSlow-ShortButtonDownShirt-White-Flats-30.jpg?v=1759774377",
-"tags": [
-"fem",
-"fw25",
-"treet-app",
-"webshop"
-],
-"desc": "The Short Button Down Shirt is OrSlow's staple Women's shirt, with a wide and almost-cropped body that cuts a more exaggerated and relaxed silhouette. It's got a tonal button placket, with a button-down collar, a single chest pocket, and custom woven labels at the collar and placket. It's made from a 100% cotton oxford cloth that clocks in at a medium-lightweight, more suitable for warmer weather and the hotter seasons. Fits true to size. Wash cold and hang dry. 100% cotton White oxford cloth fabric Single chest pocket Button-down collar Long sleeves Cropped torso Wide body Curved hem Tonal bu",
-"published": "2025-10-06",
-"score": 2.53,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:cropped",
-0.2857142857142857
 ],
 [
 "fab:cotton",
@@ -1128,39 +1202,39 @@
 "recolour": false
 },
 {
-"brand": "Glasswing",
+"brand": "Lost & Found",
 "status": "approved",
-"title": "Papery Lantern Trouser, Olive",
+"title": "Sunflower Wide Twist Chino Khaki",
 "category": "Trousers",
-"price": 204.0,
-"list": 254.0,
+"price": 252.0,
+"list": 252.0,
 "fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://glasswingshop.com/products/7115-by-szeki-papery-lantern-trouser-olive",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/7115byszekipants_4791.jpg?v=1781724423",
+"url": "https://shoplostfound.com/products/sunflower-wide-twist-chino-khaki",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/SunflowerWideTwistChinoKhaki-1.jpg?v=1776795348",
 "tags": [
-"7115 BY SZEKI",
-"BOTTOMS",
-"CURRENT",
-"JUN26M",
-"JUN26W",
-"MENS"
+"#SUNFLOWERBOX2",
+"5150",
+"Bottoms",
+"khaki",
+"Pants",
+"SS26"
 ],
-"desc": "A wide leg trouser crafted from lightweight papery cotton in olive. Featuring a relaxed silhouette with softly curved volume through the leg, front pleats, and an easy drape, the shape balances structure with movement. Finished with side seam pockets, back patch pockets, belt loops, and a zip fly with button closure. fit Christopher is 6'4\" and typically wears a size Large in tops and 34 in bottoms. They're wearing the size Large here for a relaxed fit. details Made in China 100% Cotton Machine Wash Cold",
-"published": "2026-06-18",
-"score": 2.52,
+"desc": "- Garment-dyed cotton twill - Button waist closure & zip fly - Curved front pockets & rear welt pockets - Twisted leg seams - 100% cotton - Model is 6'0” (183cm), 150lbs (68kg) and wearing 32",
+"published": "2026-04-21",
+"score": 2.57,
 "hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
 [
 "cut:pocket",
 0.4714285714285714
 ],
 [
-"color:Green",
-0.42857142857142855
+"price:200-300",
+0.4714285714285714
+],
+[
+"fab:twill",
+0.2857142857142857
 ],
 [
 "fab:cotton",
@@ -1188,11 +1262,11 @@
 "score": 2.49,
 "hits": [
 [
-"price:200-300",
+"cut:pocket",
 0.4714285714285714
 ],
 [
-"cut:pocket",
+"price:200-300",
 0.4714285714285714
 ],
 [
@@ -1202,87 +1276,6 @@
 [
 "fab:twill",
 0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Full Count",
-"status": "approved",
-"title": "1143-3 Fibril Cupra Resort Shorts",
-"category": "Shorts & Swim",
-"price": 205.0,
-"list": 205.0,
-"fabric": "100% tencel",
-"natural": 1.0,
-"url": "https://fullcount.co/products/1143-3",
-"img": "https://cdn.shopify.com/s/files/1/0024/6621/8029/files/black1_60e9c1be-93e3-4ed2-8054-4ab86f31150c.png?v=1759126644",
-"tags": [
-"26SS",
-"pants",
-"shorts"
-],
-"desc": "● Black (One Wash) ● Cupro Sateen Twill ● Cupro 100% *The waist drawstring is located on the inside. Monotone ombre check shorts made from 100% Tencel. Designed with an elastic waistband and grosgrain tape, they feature a relaxed, knee-length wide silhouette for comfortable wear. Equipped with two side pockets and two back pockets, these easy shorts combine functionality with style. Designed to match with the open-collar shirt in the same fabric.",
-"published": "2026-05-16",
-"score": 2.49,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"cut:collar",
-0.14285714285714285
-]
-],
-"recolour": false
-},
-{
-"brand": "Full Count",
-"status": "approved",
-"title": "1143-4 Ombre Check Resort Shorts",
-"category": "Shorts & Swim",
-"price": 205.0,
-"list": 205.0,
-"fabric": "100% tencel",
-"natural": 1.0,
-"url": "https://fullcount.co/products/1143-4",
-"img": "https://cdn.shopify.com/s/files/1/0024/6621/8029/files/gray_3.png?v=1758786210",
-"tags": [
-"26SS",
-"black",
-"check",
-"gray",
-"pants",
-"shorts"
-],
-"desc": "● Gray / Black (One Wash) ● 30/1 Ombre Twill ● Tensel 100% Monotone ombre check shorts made from 100% Tencel. Designed with an elastic waistband and grosgrain tape, they feature a relaxed, knee-length wide silhouette for comfortable wear. Equipped with two side pockets and two back pockets, these easy shorts combine functionality with style. Designed to match with the open-collar shirt in the same fabric.",
-"published": "2026-05-16",
-"score": 2.49,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"cut:collar",
-0.14285714285714285
 ]
 ],
 "recolour": false
@@ -1330,6 +1323,90 @@
 "recolour": false
 },
 {
+"brand": "Lost & Found",
+"status": "approved",
+"title": "Randy's Garments 5-Pocket Jean Scoured Indigo 12oz Cotton Denim",
+"category": "Jeans",
+"price": 176.0,
+"list": 252.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/randys-garments-5-pocket-jean-scoured-indigo-12oz-cotton-denim",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/Randy_sGarments5-PocketJeanScouredIndigo12ozCottonDenim-1_1a578d5e-c27b-4da2-a1fb-e1f84247e74f.jpg?v=1776178739",
+"tags": [
+"#OFFICEBOX9",
+"5-Pocket Jean",
+"Bottoms",
+"Denim",
+"indigo",
+"Pants"
+],
+"desc": "- Scoured 12oz. cotton denim - Reinforced double-face waistband with nickel button closure & #4.5 YKK nickel zip fly - Wide front pockets with deep pocket bags & coin pocket - Rear yoke with patch pockets - Flat felled inseams with pressed plain outseams & contrast bar-tacks at stress points - Contrast stitching - 100% cotton - Made in USA - Model is 6’2” (189cm), 160lbs (73kg) and wearing 3",
+"published": "2025-10-28",
+"score": 2.39,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:200-300",
+0.4714285714285714
+],
+[
+"fab:cotton",
+0.18571428571428572
+],
+[
+"fab:denim",
+0.14285714285714285
+]
+],
+"recolour": false
+},
+{
+"brand": "Lost & Found",
+"status": "approved",
+"title": "Working Sacco Jean Cotton Twill Yeast",
+"category": "Jeans",
+"price": 243.0,
+"list": 346.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://shoplostfound.com/products/working-sacco-jean-cotton-twill-yeast",
+"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/WorkingSaccoJeanCottonTwillYeast-1.jpg?v=1776653804",
+"tags": [
+"#LOCKERBOX1",
+"Cotton Twill",
+"HSW011-29",
+"Pants",
+"Sacco Jean",
+"SS26"
+],
+"desc": "- Dyed cotton denim twill - Pleated front - Brass press stud waist closure & zip fly - Curved fronts pocket with snap button flap pocket at right - Rear patch pockets - Double side seams - Copper rivets - 100% cotton - Made in Japan - Model is 5’10” (178cm), 155lbs (70kg) and wearing size M",
+"published": "2026-04-21",
+"score": 2.37,
+"hits": [
+[
+"cut:pocket",
+0.4714285714285714
+],
+[
+"price:300+",
+0.42857142857142855
+],
+[
+"fab:twill",
+0.2857142857142857
+],
+[
+"fab:cotton",
+0.18571428571428572
+]
+],
+"recolour": false
+},
+{
 "brand": "18 East",
 "status": "approved",
 "title": "BRERA SINGLE BREASTED BLAZER - BLACK LINEN TWILL",
@@ -1353,102 +1430,18 @@
 0.4714285714285714
 ],
 [
+"price:300+",
+0.42857142857142855
+],
+[
 "brand:18 East",
 0.42857142857142855
 ],
 [
-"price:300+",
-0.42857142857142855
-],
-[
 "fab:twill",
 0.2857142857142857
 ]
 ],
 "recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "FULLCOUNT 1121 Burberry Twill 'Duke II' Wide Straight Jean - Beige",
-"category": "Jeans",
-"price": 380.0,
-"list": 380.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/full-count-1121-25-burberry-twill-duke-jean-beige",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/files/FULLCOUNT_1121-25BURBERRYTWILLDUKEJEAN_1_542c6a19-ab46-4cde-95d4-3c80ea1fe510.jpg?v=1744382468",
-"tags": [
-"Brand_Full Count",
-"clothing",
-"Colour_Neutrals",
-"Department_Trousers",
-"FabricFocused",
-"Fit_wide straight"
-],
-"desc": "One more for fans of a wide leg has arrived, from the good people at FULLCOUNT. Usually seen in denim 'The Duke' style is been inspired by the Duke of Windsor, who remains a style hero to many in the 21st Century. This super-wide shape offers superb breathability, and ease of movement in the summer months. This time 'The Duke Jean' makes an appearance in FULLCOUNT's Burberry twill - a fabric inspired by the original gabardine known for its rich lustre and water repellency whilst still retaining cotton's breathability . This seasons Duke features slash pockets at the front, bringing them closer",
-"published": "2025-04-11",
-"score": 2.26,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"fab:cotton",
-0.18571428571428572
-]
-],
-"recolour": false
-},
-{
-"brand": "Standard & Strange",
-"status": "approved",
-"title": "13.5 oz Loose Fit Jeans - Indigo",
-"category": "Jeans",
-"price": 290.0,
-"list": 290.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://standardandstrange.com/products/13-5-oz-loose-fit-jeans-indigo",
-"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/OmotoDenim-13.5ozLooseFitJeans-Indigo-Flat-09.jpg?v=1755126191",
-"tags": [
-"homepage",
-"ss25",
-"treet-app",
-"unisex",
-"webshop",
-"wide"
-],
-"desc": "The Loose Fit from Omoto is a great wide leg jean with a high rise, a roomy top block, and a comfortable straight-leg. They're a super classic 5-pocket jean, with all the right details: copper rivet reinforcements (including hidden ones on the back pockets), heavy-duty chainstitch construction, custom iron button-fly, and selvedge ID details on the outseam and beneath the coin pocket. These are a fantastic wide leg fit that doesn't go too wide, and have already been a best-seller in store — once we get people in these, the combination of comfortable & substantial denim with the relaxed, flatte",
-"published": "2025-08-19",
-"score": 2.19,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"fab:cotton",
-0.18571428571428572
-],
-[
-"fab:denim",
-0.14285714285714285
-]
-],
-"recolour": true
 }
 ]

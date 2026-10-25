@@ -1,13 +1,13 @@
 # Benyamin's taste profile
 
-<!-- auto:start (rewritten by round.py, 2026-10-18) -->
-## What the notebook says (2026-10-18)
+<!-- auto:start (rewritten by round.py, 2026-10-25) -->
+## What the notebook says (2026-10-25)
 - Hearts: 7  ·  Not for me: 2
 - Brands he saves: 18 East (0.4), Brut Clothing (0.3), Scott Fraser Collection (0.1), Indi + Ash (0.1)
 - Categories: Jackets & Coats (0.4), Knitwear (0.3), Tees & Polos (0.1)
 - Colours: Green (0.4), White/Ivory (0.1), Beige/Tan (0.1), Blue (0.1), Denim (0.0)
 - Fabrics: twill (0.3), cotton (0.2), linen (0.1), cashmere (0.1), silk (0.1), denim (0.1)
-- Cuts and details: pocket (0.5), cropped (0.3), ribbed (0.3), rib (0.3), boxy (0.3), herringbone (0.1), cargo (0.1), elastic (0.1), utility (0.1), collar (0.1)
+- Cuts and details: pocket (0.5), cropped (0.3), rib (0.3), ribbed (0.3), boxy (0.3), herringbone (0.1), cargo (0.1), elastic (0.1), utility (0.1), raglan (0.1)
 - Price bands: 200-300 (0.5), 300+ (0.4)
 - Steer away from: nothing yet
 - Most recent hearts: 18 East Siello Utility Jacket, raw denim; 18 East Ale Full-Zip Blouson, tussar cashmere twill; Brut Clothing The Ragged Thermal Hoodie; 18 East Civilita Asymmetrical Cargo Pant; Brut Clothing The Diving Sweat; Indi + Ash George Coat, Handspun Herringbone; Scott Fraser Collection Chet knit tee
