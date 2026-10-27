@@ -1,7 +1,8 @@
 {
- "changed": [],
- "errors": [
-  "Casatlantic: RuntimeError only 0 policy sentences found"
+ "changed": [
+  "Bronson",
+  "Casatlantic"
  ],
+ "errors": [],
  "checked": "2026-09-25"
 }
