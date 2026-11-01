@@ -1,6 +1,6 @@
 {
- "date": "2026-10-25",
- "stage1": "2026-10-25T09:11:13.752122+00:00",
+ "date": "2026-11-01",
+ "stage1": "2026-11-01T11:18:26.333995+00:00",
  "brands_ok": [
   "18 East",
   "3sixteen",
@@ -10,6 +10,7 @@
   "Bronson",
   "Brut Clothing",
   "Canterbury",
+  "Casatlantic",
   "Chamula",
   "Drake's",
   "Earth Studies",
@@ -40,7 +41,6 @@
  ],
  "brands_failed": [
   "Buck Mason",
-  "Casatlantic",
   "Outlier",
   "Todd Snyder",
   "W'menswear"
