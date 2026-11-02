@@ -3976,5 +3976,116 @@
    "Made in Jaipur"
   ],
   "fabric": "100% cotton brushed flannel with ripstop pocket panel"
+ },
+ {
+  "id": 159,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Belted Bridge Coat",
+  "category": "Jackets & Coats",
+  "color": "Black",
+  "occasions": [
+   "dressy",
+   "work"
+  ],
+  "why": "A long belted wrap coat in hairy wool and alpaca herringbone with half-raglan shoulders; the dress coat for a cold trip.",
+  "price": 688.0,
+  "colorDetail": "Black / white hairy herringbone tweed",
+  "categoryDetail": "Long belted wrap coat in herringbone tweed",
+  "url": "https://18east.co/collections/all/products/double-breasted-bridge-coat-black-white-1",
+  "img": "images/full/159.jpg",
+  "hi": true,
+  "desc": "Our belted bridge coat is cut long with a clean, buttonless wrap closure. iIt features a true fit through the body, half raglan shoulders (dropped in the front, comfort in the back), railroad stitching at the hems, side-entry welted hip pockets. Proudly made in India from a 496g wool and alpaca blended herringbone tweed with a hairy textured finish. This coat true to size. We suggest taking your usual alpha size.",
+  "details": [
+   "From your Chrome tabs 2026-11-02",
+   "18 East: true to size, take your usual alpha size",
+   "Buttonless wrap closure with a belt, welted side-entry hip pockets"
+  ],
+  "fabric": "Wool and alpaca blended herringbone tweed, 496 g"
+ },
+ {
+  "id": 160,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Figli Crewneck Sweater",
+  "category": "Knitwear",
+  "color": "Green",
+  "occasions": [
+   "dinner",
+   "work",
+   "hang"
+  ],
+  "why": "Handloomed baby alpaca and merino with a slightly cropped, relaxed body and a drop shoulder: your sweatshirt shape, in a sweater.",
+  "price": 358.0,
+  "colorDetail": "Surplus olive",
+  "categoryDetail": "Handloomed alpaca-merino crewneck",
+  "url": "https://18east.co/collections/all/products/raglan-quarter-zip-sweater-olive",
+  "img": "images/full/160.jpg",
+  "hi": true,
+  "desc": "“Last year Samantha and I headed down to Lima, Peru to follow a lead on a new handloom knitwear manufacturer and were blown away with what we found. Small workshops, local yarns, generational expertise. A lot of similarities to our partners in India. We developed a handful of easy-wearing styles to serve as a cornerstone of a growing partnership with the people and the region. This season marks our second fall with them and they keep getting better.” - The Management The Figli crewneck is handloomed with a slightly cropped and relaxed body from a blend of 60% local baby alpaca and 40% merino w",
+  "details": [
+   "From your Chrome tabs 2026-11-02",
+   "Another colour of piece 85, the cioccolato brown Figli",
+   "Slightly cropped and relaxed body, drop shoulder",
+   "Made in Lima, Peru",
+   "40% merino wool"
+  ],
+  "fabric": "60% baby alpaca, 40% merino wool"
+ },
+ {
+  "id": 161,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Tolmie Hooded Work Jacket",
+  "category": "Jackets & Coats",
+  "color": "Denim",
+  "occasions": [
+   "hang",
+   "work"
+  ],
+  "why": "The Tolmie hooded sweatshirt shape cut from handwoven, naturally indigo-dyed khadi denim, with a two-way zip.",
+  "price": 348.0,
+  "colorDetail": "Natural indigo handwoven khadi denim",
+  "categoryDetail": "Hooded work jacket in handwoven khadi denim",
+  "url": "https://18east.co/collections/all/products/tolmie-hooded-denim-jacket-natural-indigo",
+  "img": "images/full/161.jpg",
+  "hi": true,
+  "desc": "\"When we first developed our Tolmie full-zip sweatshirt, we were referencing vintage hooded workwear styles. This season, we came back around and cut our hooded sweatshirt silhouette from an incredible handwoven and naturally indigo dyed Khadi denim. Kind of like the original references, but better. I love the 8g shiny nickel 2-way zipper at the front and the subtly beautiful hand-embroidered bhuti flower at the back neck.\" - The Management Proudly made in India. These run true to size. We recommend sizing up if you prefer a roomier fit. Please note** These are currently in the air from our ma",
+  "details": [
+   "From your Chrome tabs 2026-11-02",
+   "18 East: true to size, size up for a roomier fit",
+   "Hand-embroidered bhuti flower at the back neck",
+   "Listed as still in transit from India on 2026-11-02, allow extra shipping time"
+  ],
+  "fabric": "Handwoven, natural indigo dyed cotton khadi denim twill"
+ },
+ {
+  "id": 162,
+  "brand": "18 East",
+  "retailer": "18 East",
+  "name": "Pilchuck Work Shirt",
+  "category": "Shirts",
+  "color": "Multi/Print",
+  "occasions": [
+   "hang",
+   "work",
+   "dinner"
+  ],
+  "why": "A very heavy brushed flannel with the diamond pattern woven in, not embroidered; a straight-hem work shirt that wears as a light jacket.",
+  "price": 214.0,
+  "colorDetail": "Salt / bronze / moss diamondweave",
+  "categoryDetail": "Heavyweight brushed flannel work shirt",
+  "url": "https://18east.co/collections/all/products/pilchuck-hand-embroidered-overshirt-salt-bronze-moss-cotton-flannel-with-kantha-stitching",
+  "img": "images/full/162.jpg",
+  "hi": true,
+  "desc": "\"We usually do a patchwork Kantha embroidery on this style, but the cloth on this flannel is so intricately woven (See those diamonds? That's part of the weave!) that we decided we should let this one stand on it's own. The soft but substantial cloth here must be felt to be truly appreciated. I strongly encourage you to do so.\" - The Management The Pilchuck is a straight hem work shirt with two open top patch pockets and hidden hip pockets on the side seams. Great fit, fabric and details on this one. Proudly made in India from a preposterously heavyweight 100% cotton brushed flannel. We recomm",
+  "details": [
+   "From your Chrome tabs 2026-11-02",
+   "Another colour of piece 35, the clay and lavender Pilchuck",
+   "18 East: take your usual alpha size",
+   "Two open patch pockets and hidden hip pockets",
+   "100% cotton brushed flannel"
+  ],
+  "fabric": "100% cotton heavyweight brushed flannel"
  }
 ]
