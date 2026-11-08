@@ -4116,5 +4116,145 @@
    "Collaboration with the Throwing Fits podcast"
   ],
   "fabric": "14.5 oz indigo selvedge denim, custom stonewash"
+ },
+ {
+  "id": 5023,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE WORK JACKET",
+  "category": "Jackets & Coats",
+  "color": "Blue",
+  "colorDetail": "BLUE",
+  "categoryDetail": "Coats & Jackets",
+  "price": 290.0,
+  "list": 290.0,
+  "url": "https://brut-clothing.us/products/the-cropped-work-jacket-blue",
+  "img": "images/full/5023.jpg",
+  "hi": true,
+  "desc": "Four fronts pockets, one inside chest pocket.",
+  "details": [],
+  "fabric": null,
+  "occasions": [
+   "work"
+  ],
+  "why": "pocket, blue",
+  "added": "2026-10-11",
+  "by": "claude"
+ },
+ {
+  "id": 5030,
+  "brand": "Glasswing",
+  "retailer": "Glasswing",
+  "name": "Papery Lantern Trouser, Olive",
+  "category": "Trousers",
+  "color": "Green",
+  "colorDetail": "Green",
+  "categoryDetail": "Men's Clothing",
+  "price": 204.0,
+  "list": 254.0,
+  "url": "https://glasswingshop.com/products/7115-by-szeki-papery-lantern-trouser-olive",
+  "img": "images/full/5030.jpg",
+  "hi": true,
+  "desc": "A wide leg trouser crafted from lightweight papery cotton in olive. Featuring a relaxed silhouette with softly curved volume through the leg, front pleats, and an easy drape, the shape balances structure with movement. Finished with side seam pockets, back patch pockets, belt loops, and a zip fly with button closure. Christopher is 6'4\" and typically wears a size Large in tops and 34 in bottoms. They're wearing the size Large here for a relaxed fit.",
+  "details": [
+   "fit",
+   "Made in China",
+   "100% Cotton",
+   "Machine Wash Cold",
+   "On sale, was $254"
+  ],
+  "fabric": "100% Cotton",
+  "occasions": [
+   "work",
+   "dance",
+   "dinner"
+  ],
+  "why": "100% cotton, wide leg, green",
+  "added": "2026-10-18",
+  "by": "claude"
+ },
+ {
+  "id": 5032,
+  "brand": "TOAST",
+  "retailer": "TOAST",
+  "name": "Tucking Stripe Wool Cotton Sweater | Green Multi",
+  "category": "Knitwear",
+  "color": "Green",
+  "colorDetail": "Green Multi",
+  "categoryDetail": "Men's Sweaters",
+  "price": 470.0,
+  "list": 470.0,
+  "url": "https://us.toa.st/products/tucking-stripe-wool-cotton-sweater-green-multi",
+  "img": "images/full/5032.jpg",
+  "hi": true,
+  "desc": "Dropped shoulders complement the boxy shape of our sweater. Knitted from a wool and cotton blend with tuck-stitched stripes and finished with a stand collar. Soft yarns are liable to pill to some extent, even when using those of the best quality. To take good care of them remove any pills using a pilling comb and protect them from sharp items or jewellery that may catch or snag.",
+  "details": [
+   "Made in Turkey. 100% wool",
+   "Oversized",
+   "Length: Low hip"
+  ],
+  "fabric": "100% wool",
+  "occasions": [
+   "work",
+   "dinner"
+  ],
+  "why": "100% wool, collar, green",
+  "added": "2026-10-18",
+  "by": "claude"
+ },
+ {
+  "id": 5047,
+  "brand": "Brut Clothing",
+  "retailer": "Brut Clothing",
+  "name": "THE CROPPED CREWNECK",
+  "category": "Knitwear",
+  "color": "Multi/Print",
+  "colorDetail": "SEAL",
+  "categoryDetail": "Knitwear",
+  "price": 150.5,
+  "list": 215.0,
+  "url": "https://brut-clothing.us/products/the-cropped-crewneck-seal",
+  "img": "images/full/5047.jpg",
+  "hi": true,
+  "desc": null,
+  "details": [
+   "On sale, was $215"
+  ],
+  "fabric": null,
+  "occasions": [
+   "work",
+   "hang"
+  ],
+  "why": "cropped, multi/print",
+  "added": "2026-11-01",
+  "by": "claude"
+ },
+ {
+  "id": 5049,
+  "brand": "Earth Studies",
+  "retailer": "Earth Studies",
+  "name": "MS-126 Survey Shirt",
+  "category": "Shirts",
+  "color": "Multi/Print",
+  "colorDetail": "Rec Check",
+  "categoryDetail": "Shirt",
+  "price": 230.0,
+  "list": 230.0,
+  "url": "https://earth-studies.com/products/ms-126-survey-shirt-2",
+  "img": "images/full/5049.jpg",
+  "hi": true,
+  "desc": "The ‘Cruiser’ style emerged to suit the needs of the forestry workers of Earth’s northern hemisphere in the 19th Century. The ample fit and generous pocketing enables a versatility of wear across shirting and jacket applications. This version of the MS-126 uses a brushed cotton flannel in a rectangular check. Made from: A mid-weight brushed cotton ripstop with tonal patch pocketing - Two large front pockets with hidden pocket underneath left",
+  "details": [
+   "Fit:",
+   "- 100% cotton w/ ripstop panels"
+  ],
+  "fabric": "100% cotton w/ ripstop panels",
+  "occasions": [
+   "work",
+   "dressy"
+  ],
+  "why": "100% cotton w/ ripstop panels, pocket, multi/print",
+  "added": "2026-11-01",
+  "by": "claude"
  }
 ]
