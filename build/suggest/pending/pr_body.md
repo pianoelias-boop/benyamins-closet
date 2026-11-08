@@ -1,52 +1,52 @@
-## Round 6 · 2026-11-01 · chosen by Claude
+## Round 7 · 2026-11-08 · chosen by Claude
 
 @pianoelias-boop — 8 ideas for **Based on your likes**. Merge to publish; close to skip this week.
 
-### Glasswing — CL Canvas Coach Jacket, Cashew · $318
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5044.jpg" width="220">
+### Labour Union — Chevron Wool Bomber Jacket · $198
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5052.jpg" width="220">
 
-A roomy, boxy coach jacket in cotton and linen, in the textured vein of the Indi + Ash George Coat you saved.  
-*90% Cotton 10% Linen · work, hang* · [product page](https://glasswingshop.com/products/lady-white-co-tumbled-poplin-full-zip-brown-pearl)
+A dropped-shoulder jacket in chevron wool tweed, close to the texture and ease of the Brut Clothing Work Jacket you hearted.  
+*100% chevron wool tweed, it delivers authentic texture and durability · work, dinner, dressy* · [product page](https://labourunion-1986.com/products/chevron-wool-bomber-jacket)
 
-### No Man Walks Alone — Half-zip pullover in dark green nepped raw silk and cotton · $325
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5045.jpg" width="220">
+### Kaidu Utility — Wide Cut 15 oz Denim Trousers - 32 (NO RETURN NO EXCHANGE) · $325
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5053.jpg" width="220">
 
-A dark green silk-and-cotton half-zip knit, in the same drapey vein as the Brut Diving Sweat you saved.  
-*58% cotton, 42% silk body, 50% cotton, 50% silk ribbing · work, dance, dressy* · [product page](https://nomanwalksalone.com/products/blurhms-fw26-half-zip-pullover-in-dark-green-nepped-raw-silk-and-cotton)
+French-made wide-cut denim with a hard, break-in-yourself handfeel, in the same spirit as the Japanese denim you've saved before.  
+*Made in 15 oz denim · work, hang* · [product page](https://www.kaidutility.com/products/wide-cut-denim-trousers-30-32-34-36)
 
-### Son of a Stag — Dubbleworks Tsuriami Sweat Hoodie - Sumikuro · $275
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5046.jpg" width="220">
+### Found — Patchwork Jeans · $203
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5054.jpg" width="220">
 
-A boxy cotton sweat hoodie, cut like the Brut Ragged Thermal Hoodie you saved, easy for travel layering.  
-*100% cotton · hang* · [product page](https://sonofastag.com/products/dubbleworks-tsuriami-sweat-hoodie-sumikuro)
+Pleated, relaxed-leg jeans with a worn, patchwork wash, echoing the raw-denim character of the 18 East Siello jacket you saved.  
+*fibre not stated · work, dance, hang* · [product page](https://found.store/products/patchwork-jeans)
 
-### Brut Clothing — THE CROPPED CREWNECK · $150
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5047.jpg" width="220">
+### Drake's — White Elephant Block Print Linen Camp Collar Long Sleeve Shirt · $425
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5055.jpg" width="220">
 
-A boxy, cropped crewneck from Brut, the same brand as the Diving Sweat and Ragged Thermal Hoodie you saved.  
-*fibre not stated · work, hang* · [product page](https://brut-clothing.us/products/the-cropped-crewneck-seal)
+A loose, block-printed linen camp shirt, in the breezy, textured spirit of the Earth Studies Survey Shirt you hearted.  
+*100% Linen · dance, dinner* · [product page](https://us.drakes.com/products/white-elephant-block-print-linen-camp-collar-long-sleeve-shirt)
 
-### Blue Owl Workshop — Vintage Fit Herringbone Fatigue Pants in Army Green · $275
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5048.jpg" width="220">
+### Full Count — [2026AW] 3773 Heavyweight Sulfur Dyed Zip Hoodie · $430
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5056.jpg" width="220">
 
-Herringbone fatigue pants, wide and army green, close in spirit to the Civilita Cargo Pant you saved.  
-*100% cotton · hang* · [product page](https://www.blueowl.us/products/vintage-fit-fatigue-pants-in-army)
+A heavyweight Japanese fleece zip hoodie in olive, loose through the body, like the Brut Clothing Ragged Thermal Hoodie you hearted.  
+*100% · hang* · [product page](https://fullcount.co/products/3773)
 
-### Earth Studies — MS-126 Survey Shirt · $230
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5049.jpg" width="220">
+### Indi + Ash — NOVA SWEATER grey/walnut · $348
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5057.jpg" width="220">
 
-A relaxed, generously pocketed utility shirt, in the same functional spirit as the Siello Utility Jacket you saved.  
-*100% cotton w/ ripstop panels · work, dressy* · [product page](https://earth-studies.com/products/ms-126-survey-shirt-2)
+An oversized alpaca-cotton sweater in walnut brown, with the fuzzy, textured handle you've favoured in knits before.  
+*fibre not stated · * · [product page](https://indi-and-ash.com/products/nova-sweater-greyalpaca-walnut)
 
-### Standard & Strange — Yorba Zip S/S - Maroon Combo · $270
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5050.jpg" width="220">
+### Casatlantic — MEKNÈS · $270
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5058.jpg" width="220">
 
-A boxy lyocell bowling shirt, another colourway of the Yorba Zip already in your closet.  
-*100% lyocell · dance, exercise* · [product page](https://standardandstrange.com/products/yorba-zip-s-s-maroon-combo)
+A relaxed, generously cut wool sweater in ecru, with the deep V neck and easy proportions you tend to like.  
+*fibre not stated · work* · [product page](https://www.casatlantic.com/products/meknes-wool-ecru)
 
-### Son of a Stag — FULLCOUNT 1121 Burberry Twill 'Duke II' Wide Straight Jean - Beige · $380
-<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-41314976587/images/ideas/5051.jpg" width="220">
+### TOAST — Donegal Wool Crew Neck Tank | Smoke · $300
+<img src="https://raw.githubusercontent.com/pianoelias-boop/benyamins-closet/round/claude-42488647371/images/ideas/5059.jpg" width="220">
 
-A wide-leg Full Count jean in beige, the Japanese denim and roomy cut you've favoured in your saves.  
-*100% Cotton, Burberry twill · work, dance, hang* · [product page](https://sonofastag.com/products/full-count-1121-25-burberry-twill-duke-jean-beige)
+A Donegal wool tank with an easy, mid-hip fit, from TOAST, a brand whose textures you keep saving.  
+*100% wool · dance, dressy* · [product page](https://us.toa.st/products/donegal-wool-crew-neck-tank-smoke)
 
