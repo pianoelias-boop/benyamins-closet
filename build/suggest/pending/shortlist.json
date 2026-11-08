@@ -1,37 +1,483 @@
 [
 {
-"brand": "18 East",
+"brand": "TOAST",
 "status": "approved",
-"title": "ASYMMETRIC WEP FLIGHT JACKET - BLACK HANDSPUN COTTON CANVAS",
-"category": "Jackets & Coats",
-"price": 324.0,
-"list": 324.0,
-"fabric": "100% cotton",
+"title": "Donegal Wool Crew Neck Tank | Smoke",
+"category": "Tees & Polos",
+"price": 300.0,
+"list": 300.0,
+"fabric": "100% wool",
 "natural": 1.0,
-"url": "https://18east.co/products/wep-flight-jacket-black",
-"img": "https://cdn.shopify.com/s/files/1/0026/8707/4416/files/D19_WEBJACKET_01.jpg?v=1773699486",
+"url": "https://us.toa.st/products/donegal-wool-crew-neck-tank-smoke",
+"img": "https://cdn.shopify.com/s/files/1/0425/6595/9838/files/MKNWW02_smoke_0.jpg?v=1790283676",
 "tags": [
-"MAINSTAYS SPRING '26"
+"also-shown: bill-cotton-canvas-wide-leg-trousers-mahogany",
+"also-shown: cotton-relaxed-tee-paper-white",
+"aw26-mw-octfav",
+"aw26-mw-octfavus",
+"base_colour: Black",
+"collection: aw26_mw_newaug"
 ],
-"desc": "Our newest interpretation of the iconic flight bomber, cut full and cropped from the same piece dyed, hand-spun cotton duck canvas used in this season's Sam Shirts and Kells. The WEP features a two-way zip closure with Rajasthani embroidered storm flap, mitred “envelope” pocket at the left chest, hidden on seam hip pockets, a bi-swing back for ease of movement, ribbed stand collar with snap back throat latch and 2 oversized interior storage pockets. Proudly made in India from 100% cotton. These run slightly cropped - We recommend sizing up if you prefer a less cropped fit.",
-"published": "2026-03-27",
-"score": 3.56,
+"desc": "Our tank is knitted from flecky wool spun in Donegal, Ireland. Shaped for an easy fit with a crew neck and falling to the mid hip. Donegal-spun wool. Easy fit. Crew neck. Mid-hip length. Ribbed edges. ### Details Made in Romania. 100% wool. Size & Fit Easy fit. Length: Mid hip. Sleeve: Sleeveless. Neck: Crew. Studio model Zhuo is 6ft 1in/185cm tall and is wearing a size M.",
+"published": "2026-07-29",
+"score": 0.06,
 "hits": [
 [
-"cut:pocket",
-0.4714285714285714
+"brand:TOAST",
+0.125
+],
+[
+"cat:Tees & Polos",
+-0.004166666666666652
+],
+[
+"fab:wool",
+-0.04999999999999997
 ],
 [
 "price:300+",
-0.42857142857142855
+-0.1499999999999999
+]
 ],
-[
-"brand:18 East",
-0.42857142857142855
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "Fair Isle Wool Vest",
+"category": "Jackets & Coats",
+"price": 112.0,
+"list": 112.0,
+"fabric": "100% wool",
+"natural": 1.0,
+"url": "https://labourunion-1986.com/products/fair-isle-wool-vest",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/fair-isle-wool-vest-brown-model-worn_e34ac032-3ef5-41d9-85d5-e83f3bdf6184.jpg?v=1792912482",
+"tags": [
+"26AW",
+"__label: new",
+"All",
+"All Product",
+"aw26-batch2",
+"Fair Isle"
 ],
+"desc": "A pure-wool Fair Isle vest is more than a piece of clothing. It brings a bit of vintage character to whatever you wear it with. Wear it over a shirt and tie for a classic gentleman's look or mix it into a relaxed vintage outfit. The traditional pattern and warm wool make it a piece you'll come back to every autumn and winter. Fabric: 100% wool Fit: Close Colours: Brown, Blue Model: 180cm / 69kg wears 38 Size & Fit Size guide (cm, garment measurements) Size Length Chest Strap width Hem 36 64.5 104 12.5 38 38 66 108 13 40 40 67.5 112 13 42 42 69 126 13.5 44 Care: Dry clean only; do not machine w",
+"published": "2026-10-25",
+"score": -0.05,
+"hits": [
 [
 "cat:Jackets & Coats",
-0.42857142857142855
+0.20000000000000004
+],
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"price:100-200",
+-0.28333333333333327
+]
+],
+"recolour": false
+},
+{
+"brand": "Nantucket Reds",
+"status": "approved",
+"title": "Peter Millar - Crown 25th Anniversary Cashmere Quarter Zip Sweater - Oslo Grey",
+"category": "Knitwear",
+"price": 398.0,
+"list": 398.0,
+"fabric": "100% cashmere",
+"natural": 1.0,
+"url": "https://www.nantucketreds.com/products/crown-anniversary-cashmere-quarter-zip-sweater-osgry",
+"img": "https://cdn.shopify.com/s/files/1/0063/1132/files/MF26S89_OSGRY.jpg?v=1793032791",
+"tags": [
+"Mens",
+"Sweaters"
+],
+"desc": "Description Peter Millar was founded in 2001 with a single cashmere sweater. This limited-edition design celebrates our 25th anniversary in an updated take on the original pure cashmere style. Offered in a wide range of colors, with a unique label and hand-stitched \"XXV\" at the hem. Details Men's 100% cashmere quarter-zip Limited-edition 25th anniversary logo 12 gauge jersey stitch Hand wash cold; lay flat to dry or dry clean Fit Classic Fit Model is 6'3\", wearing a size Medium",
+"published": "2026-10-26",
+"score": -0.21,
+"hits": [
+[
+"fab:cashmere",
+-0.004166666666666652
+],
+[
+"brand:Nantucket Reds",
+-0.05833333333333333
+],
+[
+"price:300+",
+-0.1499999999999999
+],
+[
+"cat:Knitwear",
+-0.19583333333333322
+]
+],
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "Chevron Wool Bomber Jacket",
+"category": "Jackets & Coats",
+"price": 198.0,
+"list": 198.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://labourunion-1986.com/products/chevron-wool-bomber-jacket",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/Labourunionclothing_heritage_menswear_vintage_inspired_outerwear_chevron_wool_bomber_jacket_7.jpg?v=1772767940",
+"tags": [
+"2025AW",
+"All",
+"All Product",
+"bomber jacekt",
+"Jackets & Coats",
+"Low stock"
+],
+"desc": "This reimagined harrington jacket marries vintage heritage with contemporary ease. Crafted from 100% chevron wool tweed, it delivers authentic texture and durability. The dropped shoulder silhouette creates a relaxed, modern fit that moves with you. A refined take on a timeless classic, designed for those who appreciate quality construction and understated style. Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model is 1.80 m and 70 kg wearing size W32 • These sizes follow the Asian size standard Size Measurement Fo",
+"published": "2026-10-31",
+"score": -0.37,
+"hits": [
+[
+"cat:Jackets & Coats",
+0.20000000000000004
+],
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"price:100-200",
+-0.28333333333333327
+]
+],
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "Wool Plaid Jacket Houndstooth Pattern",
+"category": "Jackets & Coats",
+"price": 183.0,
+"list": 183.0,
+"fabric": "100% wool",
+"natural": 1.0,
+"url": "https://labourunion-1986.com/products/plaid-wool-jaceket-hundstooth",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/Labourunionclothing_heritage_menswear_vintage_inspired_outerwear_Wool_Plaid_Harrington_Jacket_Houndstooth_Pattern_coffee_2.jpg?v=1772767913",
+"tags": [
+"2025AW",
+"All",
+"All Product",
+"Jackets & Coats",
+"mid-length overcoat",
+"Outerwear"
+],
+"desc": "Rooted in authentic hunting jacket heritage, this season's wool plaid design reimagines classic menswear with contemporary flair. Dropped shoulders provide a modern silhouette while padded cotton lining delivers warmth and comfort. Crafted from 100% wool with a distinctive houndstooth pattern, this jacket seamlessly layers into your winter wardrobe, balancing timeless craftsmanship with refined, updated proportions. Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model is 1.80 m and 70 kg wearing size W32 • These si",
+"published": "2025-11-16",
+"score": -0.53,
+"hits": [
+[
+"cat:Jackets & Coats",
+0.20000000000000004
+],
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"price:100-200",
+-0.28333333333333327
+]
+],
+"recolour": false
+},
+{
+"brand": "Found",
+"status": "approved",
+"title": "Crimson Letterman Jacket",
+"category": "Jackets & Coats",
+"price": 348.5,
+"list": 410.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://found.store/products/crimson-letterman-jacket",
+"img": "https://cdn.shopify.com/s/files/1/0389/6781/files/FW24-005-Crimson-Letterman-Jacket-Found-SS-24-7copy.jpg?v=1761925224",
+"tags": [
+"no-discount"
+],
+"desc": "Our Crimson Letterman Jacket is inspired by the mid 1900s athletic Ivy League wardrobe. Made from a wool blend body fabric with contrast distressed genuine leather sleeves and accents. The garment features embroidered chenille patches, symbolizing varsity sports of the era. The garment has a slightly roomy, boxy fit and lightly distressed ribbing for a true vintage look and feel. This jacket is crafted from ethically sourced materials made in Pakistan. Leather in nature has unique discrepancies - making no two garments perfectly alike and allowing each garment to distress further with wear. Un",
+"published": "2024-07-25",
+"score": -0.58,
+"hits": [
+[
+"cat:Jackets & Coats",
+0.20000000000000004
+],
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"color:Red",
+-0.05833333333333333
+],
+[
+"cut:embroidered",
+-0.08749999999999998
+]
+],
+"recolour": false
+},
+{
+"brand": "TOAST",
+"status": "approved",
+"title": "Finn Donegal Wool Sweater | Navy",
+"category": "Knitwear",
+"price": 395.0,
+"list": 395.0,
+"fabric": "100% wool",
+"natural": 1.0,
+"url": "https://us.toa.st/products/finn-donegal-wool-sweater-navy",
+"img": "https://cdn.shopify.com/s/files/1/0425/6595/9838/files/MKNWW19_navy_0.jpg?v=1787659451",
+"tags": [
+"also-shown: casper-pigment-dye-cotton-trousers-blue-black",
+"also-shown: sturlini-leather-lace-up-shoes-chocolate",
+"base_colour: Blue",
+"collection: aw26_mw_newsep",
+"collection: gifts-for-him",
+"collection: gifts_for_him"
+],
+"desc": "Our Finn sweater is made using a soft wool yarn spun in Donegal. Shaped with easy, dropped shoulders and a high neckline and finished with ribbed edges. Part of our Menswear collection. Donegal-spun wool. High neck. Dropped shoulders. Ribbed edges. ### Details 100% virgin wool. Made in Romania. Size & Fit Oversized. Length: Mid hip. Sleeve: Full length. Studio model Zhuo is 6ft 1in/185cm tall and is wearing a size M. Care Guide Hand wash. Soft yarns are liable to pill to some extent, even when using those of the best quality. To take good care of them, remove any pills using a pilling comb and",
+"published": "2026-08-26",
+"score": -0.61,
+"hits": [
+[
+"brand:TOAST",
+0.125
+],
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"color:Blue",
+-0.05416666666666662
+],
+[
+"price:300+",
+-0.1499999999999999
+]
+],
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "Black High-Waisted Pleated Wool Trousers",
+"category": "Trousers",
+"price": 153.0,
+"list": 153.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://labourunion-1986.com/products/black-high-waisted-pleated-wool-trousers",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/3_999861c1-d947-40de-9cc3-2bcd59218e5d.jpg?v=1780689038",
+"tags": [
+"26SS",
+"All",
+"All Product",
+"Bottoms",
+"Pants & Trousers"
+],
+"desc": "Description These black high-waisted pleated trousers are tailored from a worsted wool blend that keeps wool's natural drape while improving breathability and wrinkle-resistance. Lightweight, low-iron men's pleated wool dress trousers with a sharp, business-ready line that stays cool and comfortable. Details • Worsted wool-blend fabric • Breathable, wrinkle-resistant, low-iron • High-waisted pleated cut • Sharp, business-ready silhouette • Classic black colourway Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model",
+"published": "2026-06-29",
+"score": -0.7,
+"hits": [
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"cut:pleated",
+-0.14583333333333331
+],
+[
+"cut:pleat",
+-0.1958333333333333
+],
+[
+"price:100-200",
+-0.28333333333333327
+]
+],
+"recolour": false
+},
+{
+"brand": "Morning Witch",
+"status": "approved",
+"title": "[LINEN BOLERO] Ginkgo",
+"category": "Shirts",
+"price": 85.0,
+"list": 85.0,
+"fabric": "linen",
+"natural": null,
+"url": "https://shop.morningwitch.com/products/coming-may-3rd-linen-bolero-ginkgo",
+"img": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/GinkgoListing_5.png?v=1746023327",
+"tags": [
+"linen"
+],
+"desc": "The linen boleros tie at the neck and have loose, dramatic sleeves. The arms are embroidered and have a tencel lining for comfort. linen does not stretch - if you are on the upper end of the a sizing, you may have to size up. Care instructions: For any linen fabric, we recommend hand washing cold with a gentle detergent and air drying to avoid damage to the fibers. Heat and agitation from machine washing/drying may cause issues. Please see our apparel care blog post for more info!",
+"published": "2025-04-30",
+"score": -0.76,
+"hits": [
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cut:embroidered",
+-0.08749999999999998
+],
+[
+"cat:Shirts",
+-0.31249999999999994
+]
+],
+"recolour": false
+},
+{
+"brand": "Morning Witch",
+"status": "approved",
+"title": "[LINEN BOLERO] Scarlet Garden",
+"category": "Shirts",
+"price": 85.0,
+"list": 85.0,
+"fabric": "linen",
+"natural": null,
+"url": "https://shop.morningwitch.com/products/coming-dec-13th-linen-bolero-scarlet-garden",
+"img": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/IMG_3238_shopify.png?v=1764363323",
+"tags": [
+"linen"
+],
+"desc": "The linen boleros tie at the neck and have loose, dramatic sleeves. The arms are embroidered and have a tencel lining for comfort. linen does not stretch - if you are on the upper end of the a sizing, you may have to size up. Care instructions: For any linen fabric, we recommend hand washing cold with a gentle detergent and air drying to avoid damage to the fibers. Heat and agitation from machine washing/drying may cause issues. Please see our apparel care blog post for more info!",
+"published": "2025-11-28",
+"score": -0.81,
+"hits": [
+[
+"color:Red",
+-0.05833333333333333
+],
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cut:embroidered",
+-0.08749999999999998
+],
+[
+"cat:Shirts",
+-0.31249999999999994
+]
+],
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "High-Waisted Pleated Wool Trousers",
+"category": "Trousers",
+"price": 153.0,
+"list": 153.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://labourunion-1986.com/products/high-waisted-pleated-wool-trousers",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/4_2fcaa372-1b3c-431e-9f73-c546c1bc3ac4.jpg?v=1780688945",
+"tags": [
+"26SS",
+"All",
+"All Product",
+"Bottoms",
+"Pants & Trousers"
+],
+"desc": "Description These high-waisted pleated trousers are tailored from a worsted wool blend that keeps wool's natural drape while improving breathability. Lightweight, low-iron men's pleated wool trousers with a sharp, business-ready line, they stay cool and comfortable in grey and camel. Details: • Worsted wool-blend fabric • Breathable, wrinkle-resistant, low-iron • High-waisted pleated cut • Sharp, business-ready silhouette • Grey and camel colourways Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model is 1.80 m and",
+"published": "2026-06-29",
+"score": -0.88,
+"hits": [
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"cut:pleated",
+-0.14583333333333331
+],
+[
+"color:White/Ivory",
+-0.1791666666666666
+],
+[
+"cut:pleat",
+-0.1958333333333333
+]
+],
+"recolour": false
+},
+{
+"brand": "Universal Surplus",
+"status": "approved",
+"title": "BLACK RAF TAILOR PANTS",
+"category": "Trousers",
+"price": 87.0,
+"list": 87.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://universal-surplus.com/products/black-raf-tailor-pants",
+"img": "https://cdn.shopify.com/s/files/1/0712/5080/5023/files/30OCT_LOOKBOOK_KILLIAN_RIPSTOP-2.jpg?v=1793382801",
+"tags": [
+"90's",
+"Best",
+"Pants",
+"pleated",
+"Surplus",
+"tailor"
+],
+"desc": "Originally issued to Royal Air Force officers in the 1990s, these tailored trousers combine military functionality with the refined spirit of British tailoring. Made from a durable wool-polyester blend, they were designed for everyday use, balancing warmth, resilience, and comfort. The design features a single pleat for ease of movement, side adjusters for a secure fit, and a modern straight-leg cut that makes them easy to wear beyond their original military context. A versatile piece that bridges formal sophistication with utilitarian heritage. Used but well-preserved, these trousers showcase",
+"published": "2022-12-13",
+"score": -0.93,
+"hits": [
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cut:pleat",
+-0.1958333333333333
+],
+[
+"cat:Trousers",
+-0.3458333333333332
 ]
 ],
 "recolour": false
@@ -39,1129 +485,754 @@
 {
 "brand": "Drake's",
 "status": "approved",
-"title": "Navy Cotton Half-Zip Collared Sweatshirt",
+"title": "White Elephant Block Print Linen Camp Collar Long Sleeve Shirt",
+"category": "Shirts",
+"price": 425.0,
+"list": 425.0,
+"fabric": "100% linen",
+"natural": 1.0,
+"url": "https://us.drakes.com/products/white-elephant-block-print-linen-camp-collar-long-sleeve-shirt",
+"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/BlockPrintStyleStory6.jpg?v=1781700708",
+"tags": [
+"Brand_Drake's Own",
+"Collection_Casual Shirts",
+"Collection_Clothing",
+"Collection_Shirts",
+"Colour_White",
+"Feature_Camp Collar"
+],
+"desc": "The camp collar holiday shirt has taken many forms‚ and many names‚ over the years, but its essential essence remains undiluted. It's a simple, square-hemmed, long-sleeved shirt with an open collar. Not to be overdesigned or overthought. The Drake's take on this warm weather staple brings the story up-to-date; cut with a neat open collar, loose fit, plain front and straight hemline, all constructed from a soft, breezy linen fabric, authentically block-printed by hand in India. It is, quite simply, the quintessential high summer shirt. 100% Linen Made in Portugal Camp Collar Straight Hem Knife ",
+"published": "2026-05-28",
+"score": -0.94,
+"hits": [
+[
+"price:300+",
+-0.1499999999999999
+],
+[
+"color:White/Ivory",
+-0.1791666666666666
+],
+[
+"cut:collar",
+-0.2291666666666666
+],
+[
+"cat:Shirts",
+-0.31249999999999994
+]
+],
+"recolour": false
+},
+{
+"brand": "Labour Union",
+"status": "approved",
+"title": "Icelandic Wool Sweaters Cream",
+"category": "Knitwear",
+"price": 171.0,
+"list": 171.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://labourunion-1986.com/products/cream-icelandic-wool-sweater",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/products/Labourunionclothing_vintageinspired_heritage_menswear_Cream_Icelandic_Wool_Sweater1.jpg?v=1772767058",
+"tags": [
+"All Product",
+"AW22",
+"Knitwear",
+"Tops"
+],
+"desc": "Inspired by a traditional Iceland totem, this round neck jumper features geometric patterns symbolizing the natural landscape of Iceland with ribbed detailing on the cuff and waistband completing the look. Shetland wool is opted for this piece due to its heat retention property and softness. The beige adds a pop-up color for the dreary winter. • Celandic Knitting Pattern • Ribbed cuff and waistband • Shetland wool Size & Fit Fitting Information • This piece fits smaller to size. We recommend you get your get one size up • Fit: loose fit • The model is 1.77 m and 70 kg wearing size L 40 Size Me",
+"published": "2022-12-05",
+"score": -0.98,
+"hits": [
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"color:White/Ivory",
+-0.1791666666666666
+],
+[
+"cut:ribbed",
+-0.18333333333333326
+],
+[
+"cat:Knitwear",
+-0.19583333333333322
+]
+],
+"recolour": false
+},
+{
+"brand": "Haspel",
+"status": "approved",
+"title": "Granite Gray Seersucker Sport Coat | Seersucker Suit Separates",
+"category": "Suits & Blazers",
+"price": 450.0,
+"list": 450.0,
+"fabric": "97% cotton, 3% lycra",
+"natural": 0.97,
+"url": "https://www.haspel.com/products/granite-gray-seersucker-sport-coat",
+"img": "https://cdn.shopify.com/s/files/1/0665/5557/files/granite_gray_sport_coat_copy.jpg?v=1770145511",
+"tags": [
+"boldmetrics:mens_blazers_numeric",
+"color:Granite Gray",
+"Core",
+"fit:audubon",
+"fit:toulouse",
+"meta-size-chart-Audubon-coat-size-chart"
+],
+"desc": "Keep it in neutral or kick it into high gear in gray seersucker suit separates. The ultimate wingman, this look begs to be touched. Rock that granite! 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Maximized Seersucker Pucker • Audubon Classic Fit • Flat Front • Unfinished Bottom • Dry Clean Audubon or Toulouse? Watch the Fit Video >>> Audubon Classic Fit – Our Classic Fit. A full cut jacket with slightly tapered sides. Full fit pant. Toulouse Modern Fit – Our Modern Fit. A trimmer fitting jacket with a slightly higher arm hole. Tapered pant leg. The waist, seat and rise ar",
+"published": "2022-04-28",
+"score": -1.04,
+"hits": [
+[
+"price:300+",
+-0.1499999999999999
+],
+[
+"cat:Suits & Blazers",
+-0.17499999999999996
+],
+[
+"color:White/Ivory",
+-0.1791666666666666
+],
+[
+"fab:cotton",
+-1.2666666666666668
+]
+],
+"recolour": false
+},
+{
+"brand": "Drake's",
+"status": "approved",
+"title": "Grey Melange Cotton Reverse Weave Sweatshirt",
 "category": "Tees & Polos",
 "price": 425.0,
 "list": 425.0,
 "fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://us.drakes.com/products/navy-cotton-half-zip-collared-sweatshirt",
-"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5M25586-01-250-1.jpg?v=1755853577",
+"url": "https://us.drakes.com/products/grey-melange-cotton-reverse-weave-sweatshirt",
+"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5I26605-01600-1.jpg?v=1790081222",
 "tags": [
 "Brand_Drake's Own",
 "Collection_Clothing",
-"Collection_Polos & Sweatshirts",
-"Collection_Sweatshirts",
-"Colour_Blue",
-"Material_Cotton"
-],
-"desc": "Cut in our signature fit — slightly boxy, slightly cropped — this sweatshirt takes its cues from vintage sportswear discovered on our travels. Made from a supple Japanese cotton jersey, it borrows details from mid-century running gear: ribbed cuffs and hem, twin chest pockets, an O-ring zip, and our chain-stitched monogram on the sleeve. 100% Cotton Made in Portugal Ribbed Cuffs and Hem Two Chest Pockets O-Ring Zip Embroidered Monogram on Sleeve",
-"published": "2025-11-29",
-"score": 3.46,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"cut:cropped",
-0.2857142857142857
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "No Man Walks Alone",
-"status": "approved",
-"title": "Half-zip pullover in dark green nepped raw silk and cotton",
-"category": "Knitwear",
-"price": 325.0,
-"list": 325.0,
-"fabric": "58% cotton, 42% silk, 50% cotton, 50% silk",
-"natural": 1.0,
-"url": "https://nomanwalksalone.com/products/blurhms-fw26-half-zip-pullover-in-dark-green-nepped-raw-silk-and-cotton",
-"img": "https://cdn.shopify.com/s/files/1/0561/4203/7156/files/blurhms_Made_in_Japan_Fall_Winter_2026_FW26_Half-zip_pullover_in_dark_green_nepped_raw_silk_and_cotton_7.jpg?v=1793236467",
-"tags": [
-"Active",
-"Color: Green",
-"Made in: Japan",
-"Maker: blurhms",
-"Material: Cotton",
-"New Arrivals"
-],
-"desc": "\"Drapey but not droopy, blurhms keeps the raw silk on the outside for its characteristic slub, while backing it with cotton for comfort and resilience, eliminating the bagging that can occur with silk. With a generous collar and good looking zip, they finish things off with side seam hand-pockets that make this an easy one to grab every day and throw on.\" ---Kyle Details 58% cotton, 42% silk body, 50% cotton, 50% silk ribbing Half-zip closure, ribbed cuff and hem Made in Japan Size & Fit Relaxed fit We recommend taking your usual blurhms number size for intended fit 2=S/M, 3=M/L, 4= L/XL",
-"published": "2026-10-29",
-"score": 3.42,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"color:Green",
-0.42857142857142855
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Stan Ray",
-"status": "approved",
-"title": "Roughneck Jacket (Apple Cinnamon Canvas)",
-"category": "Jackets & Coats",
-"price": 156.0,
-"list": 222.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.stanray.com/products/roughneck-jacket-apple-cinnamon-canvas",
-"img": "https://cdn.shopify.com/s/files/1/2425/1015/files/SS26048629ROUGHNECKJACKETAPPLECINNAMONCANVAS-1_1.jpg?v=1768472827",
-"tags": [
-"BRADERYNOV26",
-"instock-mode",
-"instock-uk",
-"instock-usa",
-"JACKET",
-"JACKETS"
-],
-"desc": "100% cotton Twill fabric Two-way YKK zip Angled handwarmer pockets Zip chest pocket Ribbed hem and cuffs Corduroy collar Boxy fit Sitting somewhere between a bomber and a work jacket, the Roughneck Jacket is the kind of tough, wearable piece of kit you’ll find yourself reaching for time and time again. That cord collar adds a nice bit of luxury, while that washed cotton twill gives it a tastefully worn-in feel that’ll only get better with age. Whether you’re driving your truck to the ranch or just catching the train into the city, this will come in handy.",
-"published": "2026-02-25",
-"score": 3.41,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Samuel Zelig",
-"status": "approved",
-"title": "Varsity Jacket",
-"category": "Jackets & Coats",
-"price": 450.0,
-"list": 450.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://samuelzelig.com/products/varsity-jacket-1",
-"img": "https://cdn.shopify.com/s/files/1/0365/4490/5260/files/VARSITYJACKET1.jpg?v=1790889277",
-"tags": [],
-"desc": "Details 9 oz Cotton Corduroy Cat eye corozo Buttons Triple needle seam construction Raglan sleeves Welt Pockets Lined custom rib trim This garment has undergone a vintage wash and dye to remove all shrinkage and give it a unique sun-faded look Color: Charcoal Embroidery Color: Multi Size & Fit Fit is boxy and slightly cropped Model wears a medium Model measures: height 6'2\"/ 190cm S M L XL XXL Chest 24.25\" 26.5\" 27\" 28.75\" 30\" Length 24.5\" 25.25\" 25.5\" 26.25\" 27\" Sleeve 32\" 32.25\" 32.5\" 32.75\" 33.25\" Care & Origin 100% cotton Machine wash cold tumble dry low Designed in Los Angeles imported De",
-"published": "2026-10-02",
-"score": 3.35,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"cut:cropped",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Brut Clothing",
-"status": "approved",
-"title": "THE ALPINE JACKET",
-"category": "Jackets & Coats",
-"price": 330.0,
-"list": 330.0,
-"fabric": "cotton",
-"natural": null,
-"url": "https://brut-clothing.us/products/the-alpine-jacket-black",
-"img": "https://cdn.shopify.com/s/files/1/0929/2169/2493/files/alpinejacketblackbybrutarchives-3.webp?v=1784734657",
-"tags": [
-"archivessale26",
-"Brut",
-"Coats & Jackets"
-],
-"desc": "The ALPINE JACKET is inspired by a treasured summer smock from our archives, paying homage to the minimalism of 1950s French workwear. Crafted from high-quality cotton twill fabric, it is designed for all-day comfort. BRUT's commitment to quality ensures that this jacket will stand the test of time. Proudly made in Tunisia by a professional workwear factory. Cropped and boxy fit. 2 front pockets. Button closure on the front. Buttoned square wrist cuffs. Drop shoulder sleeve construction.",
-"published": "2026-01-07",
-"score": 3.33,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"color:Green",
-0.42857142857142855
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-]
-],
-"recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "Dubbleworks Loop Wheel Sweat Jacket - Sumikuro",
-"category": "Jackets & Coats",
-"price": 305.0,
-"list": 305.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/dubbleworks-loop-wheel-sweat-jacket-sumikuro",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/files/DUBBLEWORKS_SWEATJACKET_5.jpg?v=1767707873",
-"tags": [
-"AW25",
-"Brand_Dubbleworks",
-"clothing",
-"Colour_Black",
-"Department_Sweatshirts",
-"latest"
-],
-"desc": "Inspired by iconic sportswear of the mid 20th Century, this collared sweat jacket from Dubbleworks does all the simple things well, making it a wardrobe essential in all four seasons. Cut in a boxy shape from a beautifully soft 100% cotton fabric, this cardigan is an ideal layering piece in the winter months, and will see you right in the cool summer evenings. A ribbed cuff and waistband have been added to ensure the perfect comfort fit, while patch pockets have been included for timeless styling and convenience. With a mid-century inspired collar and cat eye button front closure, this is a vi",
-"published": "2026-01-06",
-"score": 3.32,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Glasswing",
-"status": "approved",
-"title": "CL Canvas Coach Jacket, Cashew",
-"category": "Jackets & Coats",
-"price": 318.0,
-"list": 455.0,
-"fabric": "100% cotton, 90% cotton, 10% linen",
-"natural": 1.0,
-"url": "https://glasswingshop.com/products/lady-white-co-tumbled-poplin-full-zip-brown-pearl",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/LadyWhiteCocanvascoachjacketcashew_L_6581.jpg?v=1783387492",
-"tags": [
-"081226",
-"CLOTHING",
-"COATS & JACKETS",
-"CURRENT",
-"JUL26M",
-"JUN26M"
-],
-"desc": "The CC Coach Jacket is a roomy, boxy-fitting cropped jacket with a regular point collar. Cut from a 100% cotton twill woven in Japan, the jacket has a soft, flat knobby texture with a structured drape and matte sheen. Finished with two waist pockets and raglan sleeves for movement. fit Chukwuma is 6'0\" and typically wears a size Large in tops. This style has a standard fit with a slightly shorter body. We recommend taking your normal size or sizing up for a more relaxed fit. details Made in USA 90% Cotton 10% Linen Machine wash cold",
-"published": "2026-07-06",
-"score": 3.18,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Found",
-"status": "approved",
-"title": "Utility Clasp Work Jacket",
-"category": "Jackets & Coats",
-"price": 280.0,
-"list": 280.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://found.store/products/utility-clasp-work-jacket",
-"img": "https://cdn.shopify.com/s/files/1/0389/6781/files/Utility_Clasp_jacket-Red1.jpg?v=1784140117",
-"tags": [
-"SS26"
-],
-"desc": "Refined with a utilitarian approach, the Utility Clasp Work Jacket is constructed from 100% cotton in a vintage red wash, giving the piece a naturally worn-in character. Designed with a high collar, structured epaulet detailing, and oversized workwear-inspired pockets, the silhouette blends function with timeless design. Antique matte silver fireman clasps replace traditional closures, adding a distinctive hardware element while staying true to its utility roots. Finished with clean construction and a relaxed fit, this jacket is an effortless outer layer made to develop more character with eve",
-"published": "2026-07-16",
-"score": 3.12,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"fab:cotton",
-0.18571428571428572
-]
-],
-"recolour": false
-},
-{
-"brand": "Standard & Strange",
-"status": "approved",
-"title": "Cayucos Jacket - Dusty Blue",
-"category": "Jackets & Coats",
-"price": 400.0,
-"list": 400.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://standardandstrange.com/products/cayucos-jacket-dusty-blue",
-"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/FreenoteCloth-CayucosJacket-DustyBlue-Flat-156.jpg?v=1792208128",
-"tags": [
-"no-treet",
-"ss26",
-"treet-app",
-"webshop"
-],
-"desc": "The Cayucos Jacket is a casual and unlined \"club jacket\" with some cool two-tone details and a lightweight herringbone body. It's cut with a cropped length and a relaxed torso, featuring handwarmer pockets at a perfect height for resting your hands inside. Beyond that, it's got an easy zip placket, a classic collar, and adjustable cuffs at the end of each sleeve. It's made from a 10oz Japanese HBT (herringbone twill) fabric, with a stiff hand that will soften dramatically over time from wear and washing, changing from a more rigid fabric to something much more relaxed and draping. The directio",
-"published": "2026-10-20",
-"score": 3.12,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"cat:Jackets & Coats",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Lost & Found",
-"status": "approved",
-"title": "Lady White Co. Mini Hoodie Grindle",
-"category": "Knitwear",
-"price": 230.0,
-"list": 230.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://shoplostfound.com/products/lady-white-co-mini-hoodie-grindle",
-"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/LadyWhiteCo.MiniHoodieGrindle-1.jpg?v=1766337398",
-"tags": [
-"#LWBOX10",
-"FW25",
-"Grindle",
-"Knit",
-"Lady White Co.",
-"LW624"
-],
-"desc": "- Pigment-dyed 13oz. brushed cotton fleece - Slightly dropped shoulder & cropped fit - Hood with bound finish & crossover neck - Kangaroo pocket - Gusseted shoulders & side panels - Ribbed cuffs & hem - Pre-shrunk - 100% cotton - Made in USA - Model is 6'1” (186cm), 160lbs (73kg) and wearing L",
-"published": "2025-12-21",
-"score": 3.1,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:cropped",
-0.2857142857142857
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "Dubbleworks Tsuriami Sweat Hoodie - Sumikuro",
-"category": "Knitwear",
-"price": 275.0,
-"list": 275.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/dubbleworks-tsuriami-sweat-hoodie-sumikuro",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/files/DUBBLEWORKS_LOOPWHEELHOODIE_BLACK.jpg?v=1704291584",
-"tags": [
-"Brand_Dubbleworks",
-"Colour_Blue",
-"Department_Hoodies",
-"Dubbleworks",
-"hoodies",
-"latest"
-],
-"desc": "Inspired by iconic sportswear of the mid 20th Century, this ‘Tsuriami’ hoodie from Dubbleworks does all the simple things well, making it a wardrobe essential in all four seasons. Cut in a boxy shape from a beautifully soft 100% cotton fabric, this sweat is an ideal layering piece in the winter months, and will see you right in the cool summer evenings. A ribbed cuff and waistband have been added to ensure the perfect comfort fit, while a simple patch pocket has been included for timeless styling and convenience. Vintage/Boxy shape 100% cotton Loop wheel fabric construction Single patch pocket",
-"published": "2026-01-17",
-"score": 3.05,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Brut Clothing",
-"status": "approved",
-"title": "DRUMAGED RESEARCH TEE",
-"category": "Tees & Polos",
-"price": 240.0,
-"list": 240.0,
-"fabric": "cotton",
-"natural": null,
-"url": "https://brut-clothing.us/products/drumaged-research-tee",
-"img": "https://cdn.shopify.com/s/files/1/0929/2169/2493/files/DRUMAGED_TEE-1.webp?v=1792751583",
-"tags": [
-"Brut",
-"T-Shirts"
-],
-"desc": "DRUMAGED This garment was custom destroyed through a process developed by BRUT, using the natural cleaning cycles of industrial washing drums over several weeks. No additional chemicals are used, resulting in a completely unique finish on each piece. Cropped and boxy fit in heavyweight cotton, featuring a thick rib-knit collar and cuffs, a chest patch pocket, slightly dropped shoulders, and BRUT graphics screen-printed on the back and sleeves. Our iconic Research Tee takes on a new dimension with the DRUMAGED process. Each piece has a unique finish, making one of BRUT’s most emblematic styles ",
-"published": "2026-10-23",
-"score": 2.91,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:cropped",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "No Man Walks Alone",
-"status": "approved",
-"title": "Big pocket crewneck sweatshirt in latte beige wool and cotton terry knit",
-"category": "Tees & Polos",
-"price": 285.0,
-"list": 285.0,
-"fabric": "54% wool, 44% cotton, 1% nylon, 1% polyurethane",
-"natural": 0.98,
-"url": "https://nomanwalksalone.com/products/seagreen-fw26-big-pocket-crewneck-sweatshirt-in-latte-beige-wool-and-cotton-terry-knit",
-"img": "https://cdn.shopify.com/s/files/1/0561/4203/7156/files/Seagreen_Made_in_Japan_Fall_Winter_2026_FW26_Big_pocket_crewneck_sweatshirt_in_latte_beige_wool_and_cotton_terry_knit_9.jpg?v=1792632788",
-"tags": [
-"Active",
-"Color: Beige",
-"Made in: Japan",
-"Maker: Seagreen",
-"Maker_Seagreen",
-"Material: Wool"
-],
-"desc": "\"Like I said before, sweaters with unique details and an excellent fit need to be protected, owned and loved. Seagreen delivers this beautifully, creating a remarkably smooth knit on the surface, while the inner uses looped yarns to create a super soft terry-like effect.\" ---Kenshawn Details 54% wool, 44% organic cotton, 1% nylon, 1% polyurethane Crewneck, ribbed collar cuff and hem, knit pocket Made in Japan Size & Fit Regular fit We recommend taking your usual equivalent size 2=M, 3=L/XL",
-"published": "2026-10-22",
-"score": 2.91,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Glasswing",
-"status": "approved",
-"title": "S/S Knit Pullover, Brown",
-"category": "Knitwear",
-"price": 217.0,
-"list": 310.0,
-"fabric": "100% cotton, 100% cotton",
-"natural": 1.0,
-"url": "https://glasswingshop.com/products/universal-works-s-s-knit-pullover-brown",
-"img": "https://cdn.shopify.com/s/files/1/0174/7796/files/UniversalWorks_SSKnitPulloverBrown_M_4162.jpg?v=1780004740",
-"tags": [
-"081226",
-"CLOTHING",
-"CURRENT",
-"JUN26M",
-"MAY26M",
-"MENS"
-],
-"desc": "S/S Knit Polo is a short sleeved, fully-fashioned polo shirt, knitted in a 100% cotton with a small ribbed, waffle texture in the knit. '50s inspired, it is oversized in fit with a neat collar, square pocket and two button placket. fit Brandt is 6'2\" and typically wears a size Medium in tops. He's wearing the size Medium here for a regular fit. details Made in Portugal 100% Cotton Hand wash cold",
-"published": "2026-05-28",
-"score": 2.88,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Brut Clothing",
-"status": "approved",
-"title": "THE CROPPED CREWNECK",
-"category": "Knitwear",
-"price": 150.5,
-"list": 215.0,
-"fabric": "cotton",
-"natural": null,
-"url": "https://brut-clothing.us/products/the-cropped-crewneck-seal",
-"img": "https://cdn.shopify.com/s/files/1/0929/2169/2493/files/CROPPEDCREWNECKbybrutarchives-2.webp?v=1784820011",
-"tags": [
-"EndOfLine",
-"Q42026"
-],
-"desc": "Boxy and cropped fit. Vintage wash cotton. Ribbed collar, cuff and hem. Raglan construction. Signature print at front.",
-"published": "2026-02-03",
-"score": 2.85,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:cropped",
-0.2857142857142857
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-],
-[
-"cut:ribbed",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Blue Owl Workshop",
-"status": "approved",
-"title": "Vintage Fit Herringbone Fatigue Pants in Army Green",
-"category": "Shorts & Swim",
-"price": 275.0,
-"list": 275.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.blueowl.us/products/vintage-fit-fatigue-pants-in-army",
-"img": "https://cdn.shopify.com/s/files/1/0796/5485/files/2025_10_Product_OrSlow_VintageFatiguePantsinArmyHerringbone_03-V5002-76__932.jpg?v=1760999149",
-"tags": [
-"Bottoms",
-"Core",
-"Made in Japan",
-"Pants"
-],
-"desc": "Details Sizing Brand Info Inspired by vintage military uniforms, orSlow's Fatigue Pants are a rugged alternative to jeans. Built from a durable herringbone twill fabric, the pants feature standard-issue design elements such as elongated pockets with exterior detailing and bartack reinforcements. Cut in orSlow's \"Vintage Fit\", a retro straight-leg designed with a high-rise and wide hem. Vintage fit with high rise and wide leg Medium-weight herringbone twill Two front pockets, two rear flap pockets Adjustable waist Button fly Bartack reinforcements 100% cotton Made in Japan Size Waist Rise Thigh",
-"published": "2026-10-21",
-"score": 2.81,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"color:Green",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Drake's",
-"status": "approved",
-"title": "Navy Slub Cotton Long-Sleeve Mock Neck Hiking T-Shirt",
-"category": "Tees & Polos",
-"price": 275.0,
-"list": 275.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://us.drakes.com/products/navy-slub-cotton-long-sleeve-mock-neck-hiking-t-shirt",
-"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26130-01-250-1_b6ea66e8-1fb4-4d8c-9297-f0988eb49c21.jpg?v=1791994109",
-"tags": [
-"Brand_Drake's Own",
-"Collection_Clothing",
+"Collection_Gifting",
 "Collection_New In",
-"Collection_T-Shirts",
-"Colour_Blue",
-"Material_Cotton"
+"Collection_Polos & Sweatshirts",
+"Collection_Sweatshirts"
 ],
-"desc": "This long-sleeved take on our Hiking T-Shirt channels the romance of mid-century trail gear. Back when outdoor clothing was simple, sturdy, and built to last, pieces like this were the quiet heroes of any kit. Cut from a slub cotton jersey with a reassuring weight, it’s relaxed without being loose, making it just as at home under a flannel shirt as it is worn on its own. The mock neck and ribbed cuffs bring a touch of vintage sporting charm, while the length is perfect for tucking into well-worn strides. 100% Cotton Made in Portugal Mock Neck Ribbed Collar and Cuffs",
-"published": "2026-10-06",
-"score": 2.78,
+"desc": "A proper cotton sweatshirt, built around the details that made old athletic sweatshirts so good in the first place. It’s made from a Japanese brushed cotton fleece, with a soft handle and the right amount of stretch. The body is cut with broad side panels, joined with flatlock stitching that gives the seams a little definition. Generous ribbing at the cuffs and hem keeps the shape in check, while the simple crew neck leaves things pleasingly uncomplicated. Garment dyed in grey melange, it’s the sort of sweatshirt that will only improve with wear. As they tend to. 100% Cotton Made in Portugal C",
+"published": "2026-09-24",
+"score": -1.06,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-],
-[
-"fab:cotton",
-0.18571428571428572
-]
-],
-"recolour": false
-},
-{
-"brand": "Lost & Found",
-"status": "approved",
-"title": "Body of Work Myrtle Quarter-Zip Sweatshirt Sueded French Terry Loam",
-"category": "Tees & Polos",
-"price": 281.0,
-"list": 281.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://shoplostfound.com/products/body-of-work-myrtle-quarter-zip-sweatshirt-sueded-french-terry-loam",
-"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/BodyofWorkMyrtleQuarter-ZipSweatshirtSuededFrenchTerryLoam-1.jpg?v=1779485348",
-"tags": [
-"#BODYOFWORKBOX4",
-"Body of Work",
-"Knit",
-"Myrtle Quarter-Zip Sweatshirt",
-"SS26",
-"Sueded French"
-],
-"desc": "- Pre-washed brushed French Terry knit - Pointed collar - Set-in sleeves & slightly dropped shoulders - Chest pocket - RiRi zip closure - Ribbed cuffs & hem - 100% cotton - Made in Canada - Model is 6’2” (189cm), 160lbs (73kg) and wearing M",
-"published": "2026-05-22",
-"score": 2.78,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Found",
-"status": "approved",
-"title": "Varsity Patch Collared Cardigan",
-"category": "Knitwear",
-"price": 230.0,
-"list": 230.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://found.store/products/varsity-patch-collared-cardigan",
-"img": "https://cdn.shopify.com/s/files/1/0389/6781/files/varsity-cardigan-found-1.jpg?v=1758776695",
-"tags": [
-"cardigan",
-"sweater",
-"top"
-],
-"desc": "Our Varsity Patch Cardigan is a nod to classic collegiate and athletic heritage, reimagined through our own lens. Crafted from a 100% cotton knit, it features bold striping at the cuffs, collar, and hem, balanced with a relaxed fit. A large chenille “F” patch anchors the front, while an assortment of embroidered patches are scattered across the sleeves and body - each piece intentionally placed to give it a lived-in, storied character. Finished with a wooden button front and ribbed trim, it’s the kind of layer that feels like it’s been passed down, carrying both nostalgia and comfort. Unisex, ",
-"published": "2025-09-23",
-"score": 2.73,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cat:Knitwear",
-0.2857142857142857
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "No Man Walks Alone",
-"status": "approved",
-"title": "Soft and Hard crewneck sweatshirt in dark green cotton",
-"category": "Tees & Polos",
-"price": 255.0,
-"list": 255.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://nomanwalksalone.com/products/blurhms-fw26-soft-and-hard-crewneck-sweatshirt-in-dark-green-cotton",
-"img": "https://cdn.shopify.com/s/files/1/0561/4203/7156/files/blurhms_Made_in_Japan_Fall_Winter_2026_FW26_Soft_and_Hard_crewneck_sweatshirt_in_dark_green_cotton_7.jpg?v=1793236449",
-"tags": [
-"Active",
-"Color: Green",
-"Made in: Japan",
-"Maker: blurhms",
-"Material: Cotton",
-"New Arrivals"
-],
-"desc": "\"A solid, no fuss, crewneck primed for easy layering. The name comes from the soft hand of the fabric despite it being a high thread count, making it extremely resilient to stretching out yet still soft to the touch.\" --- Kenshawn Details 100% cotton Crewneck sweatshirt style with ribbed knit collar, cuffs, and hem Ribbed side panels for ease of movement Made in Japan Size & Fit Relaxed fit We recommend taking your usual blurhms number size for intended fit 2=S/M, 3=M/L, 4= L/XL",
-"published": "2026-10-29",
-"score": 2.72,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"color:Green",
-0.42857142857142855
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Lost & Found",
-"status": "approved",
-"title": "Our Legacy Relic Hoodie Washed Black Rogue Loopback",
-"category": "Knitwear",
-"price": 264.0,
-"list": 376.0,
-"fabric": "79% cotton, 19% linen",
-"natural": 1.0,
-"url": "https://shoplostfound.com/products/our-legacy-relic-hoodie-washed-black-rogue-loopback",
-"img": "https://cdn.shopify.com/s/files/1/0113/7222/files/OurLegacyRelicHoodieWashedBlackRogueLoopback-1.jpg?v=1773871558",
-"tags": [
-"#OLBOX9",
-"Knit",
-"Our Legacy",
-"Relic Hoodie",
-"SS26",
-"SS26MD1"
-],
-"desc": "- Pigment-dyed Italian loopback cotton, linen & elastane with distressing - Raw edge open after hood with wide ribbed neck - Kangaroo pocket - Ribbed hem & ribbed cuffs with distressed thumb openings - 79% cotton 19% linen 2% other fibres - Made in Portugal - Model is 6'1” (186cm), 160lbs (73kg) and wearing 48",
-"published": "2026-03-19",
-"score": 2.69,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
+"cat:Tees & Polos",
+-0.004166666666666652
 ],
 [
 "price:300+",
-0.42857142857142855
+-0.1499999999999999
 ],
 [
-"cat:Knitwear",
-0.2857142857142857
+"cut:rib",
+-0.44583333333333325
 ],
 [
-"cut:ribbed",
-0.2857142857142857
+"fab:cotton",
+-1.2666666666666668
 ]
 ],
 "recolour": false
 },
 {
-"brand": "Blue Owl Workshop",
+"brand": "Kaidu Utility",
 "status": "approved",
-"title": "Wide Fit French Work Pants in Black",
-"category": "Shorts & Swim",
-"price": 275.0,
-"list": 275.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.blueowl.us/products/wide-fit-french-work-pants-in-black",
-"img": "https://cdn.shopify.com/s/files/1/0796/5485/files/2025_08_Product_OrSlow_RS-33x-RelaxedStraight-NaturalSelvedgeDenim_196.jpg?v=1754527319",
+"title": "Shoreline Wool Jacket - Black - M, L, XL, XXL",
+"category": "Jackets & Coats",
+"price": 365.0,
+"list": 365.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://www.kaidutility.com/products/shoreline-wool-jacket-navy-m-l-xl-xxl",
+"img": "https://cdn.shopify.com/s/files/1/0187/7106/files/01shoreline1_812799ef-b546-4b6c-91ef-6544fd08242f.jpg?v=1793757711",
 "tags": [
-"Bottoms",
-"Core",
-"Made in Japan",
-"Pants"
+"Cotton",
+"jacketothers"
 ],
-"desc": "Details Sizing Brand Info orSlow's French Work Pants are wide-leg utility trousers receiving inspiration from 19th century workwear. The pants are built using a mediumweight cotton herringbone twill woven with a dense-weave and smooth surface. Finished with an elasticated waistband, button fly, and bartack reinforcement at points of stress. Wide leg fit Mid-weight Japanese herringbone twill Elastic back waistband Button fly Two slant front pockets Two patch back pockets, one with button closure Bartack reinforcements 100% cotton Made in Japan Size Waist Rise Thigh Knee Inseam Leg Opening 0 28\"",
-"published": "2026-10-21",
-"score": 2.66,
+"desc": "Brand: Merz B. Schwanen Made in 100% Portuguese wool. Very soft. The cut is relaxed so it can be layered over another jacket or heavy sweater without losing mobility. Size M: Shoulder 18 1/2\", chest 46\", front length: 29 1/2\" Size L: Shoulder 19\", chest 48\", front length: 30\" Size XL: Shoulder 19 1/2\", chest 50\", front length: 30 1/2\" Size XXL: Shoulder 20 1/2\", chest 52\", front length: 31 1/2\" Made in Europe.",
+"published": "2026-11-03",
+"score": -1.09,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"cat:Jackets & Coats",
+0.20000000000000004
 ],
 [
-"cut:pocket",
-0.4714285714285714
+"fab:wool",
+-0.04999999999999997
 ],
 [
-"fab:twill",
-0.2857142857142857
+"brand:Kaidu Utility",
+-0.08749999999999998
+],
+[
+"price:300+",
+-0.1499999999999999
+]
+],
+"recolour": false
+},
+{
+"brand": "Universal Surplus",
+"status": "approved",
+"title": "SWEDISH OFFICER HIGH WAIST PANTS",
+"category": "Trousers",
+"price": 87.0,
+"list": 87.0,
+"fabric": "wool",
+"natural": null,
+"url": "https://universal-surplus.com/products/swedish-officer-high-waist-pants",
+"img": "https://cdn.shopify.com/s/files/1/0712/5080/5023/files/30OCT_LOOKBOOK_KILLIAN-56.jpg?v=1793382160",
+"tags": [
+"Best",
+"Pants",
+"tailor"
+],
+"desc": "Tailored Swedish Navy trousers manufactured by CBV Karlskrona, the historic outfitter for Sweden’s main naval base. Issued during the late 1980s and 1990s, these trousers were part of the official dress and duty uniform, combining durability with a refined, formal cut. Made from a poly-wool blend engineered to hold a sharp crease and resist wrinkles, they feature a high waist, pleated front, belt loops, and a straight-leg silhouette. Minimal, versatile, and rooted in European naval tradition, a clean design equally suited for modern everyday wear. ERA Late 1980s–1990s ORIGIN Swedish Navy CONDI",
+"published": "2023-03-06",
+"score": -1.13,
+"hits": [
+[
+"fab:wool",
+-0.04999999999999997
+],
+[
+"color:Blue",
+-0.05416666666666662
+],
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cut:pleated",
+-0.14583333333333331
+]
+],
+"recolour": false
+},
+{
+"brand": "Universal Surplus",
+"status": "approved",
+"title": "UNIVERSAL SAILOR WORK SHIRT",
+"category": "Shirts",
+"price": 112.0,
+"list": 112.0,
+"fabric": "100% cotton",
+"natural": 1.0,
+"url": "https://universal-surplus.com/products/universal-sailor-work-shirt-natural",
+"img": "https://cdn.shopify.com/s/files/1/0712/5080/5023/files/SAILOR_NATURAL-1_eff07d0d-38e8-4bc4-9ae5-b3f9afc5b58f.jpg?v=1777882340",
+"tags": [
+"sailor",
+"sailor-work-shirt",
+"shirts",
+"Surplus",
+"Tops",
+"UNIVERSAL SURPLUS"
+],
+"desc": "DESCRIPTION The story of the French sailor smock begins with its name. Vareuse comes from the old French verb varer , meaning “to protect” or “to shelter” a clear reference to its original purpose as a hard-wearing layer made for life at sea. Traditionally, sailors often made their own vareuse from leftover sailcloth: expensive but extremely durable fabric built to resist wind, salt, and daily friction. Over time, ports and maritime trades even developed their own signature colors, turning the vareuse into a true symbol of coastal identity. Our version is a faithful reinterpretation of the tra",
+"published": "2026-01-28",
+"score": -1.14,
+"hits": [
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"price:100-200",
+-0.28333333333333327
+],
+[
+"cat:Shirts",
+-0.31249999999999994
 ],
 [
 "fab:cotton",
-0.18571428571428572
+-1.2666666666666668
 ]
 ],
-"recolour": true
+"recolour": false
 },
 {
-"brand": "Standard & Strange",
+"brand": "Indi + Ash",
 "status": "approved",
-"title": "Yorba Zip S/S - Maroon Combo",
-"category": "Shirts",
+"title": "BIG EASY SHORT smoke",
+"category": "Shorts & Swim",
+"price": 198.0,
+"list": 198.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://indi-and-ash.com/products/easy-big-short-smoke-handwoven-ripstop",
+"img": "https://cdn.shopify.com/s/files/1/0603/4492/6294/files/SP26_BIG_EASY_SHORT_smoke_flat.jpg?v=1785427472",
+"tags": [
+"bottoms",
+"shorts",
+"SP26"
+],
+"desc": "New development in our exploration of reimagining miltaria. We've developed a handwoven ripstop for our spring collections texture and weight combined with airiness and drape marked by heavy ripstop dobby line. Extremely textural and comfortable. This iteration dyed with iron.",
+"published": "2026-04-14",
+"score": -1.15,
+"hits": [
+[
+"brand:Indi + Ash",
+0.08333333333333333
+],
+[
+"cat:Shorts & Swim",
+-0.26249999999999996
+],
+[
+"price:100-200",
+-0.28333333333333327
+]
+],
+"recolour": false
+},
+{
+"brand": "Casatlantic",
+"status": "approved",
+"title": "MEKNÈS",
+"category": "Knitwear",
 "price": 270.0,
 "list": 270.0,
-"fabric": "100% lyocell",
-"natural": 1.0,
-"url": "https://standardandstrange.com/products/yorba-zip-s-s-maroon-combo",
-"img": "https://cdn.shopify.com/s/files/1/0352/5633/files/FreenoteCloth-YorbaZipS-S-MaroonCombo-Flat-226.jpg?v=1792208461",
+"fabric": "wool",
+"natural": null,
+"url": "https://www.casatlantic.com/products/meknes-wool-ecru",
+"img": "https://cdn.shopify.com/s/files/1/0586/2047/7615/files/Meknes_Ecru-10810_compressed.jpg?v=1760705021",
 "tags": [
-"no-treet",
-"ss26",
-"treet-app",
-"webshop"
+"_alt_meknes_",
+"FW25",
+"FW26",
+"stock-watch"
 ],
-"desc": "The Yorba Zip shirt is inspired by vintage bowling shirts, with a boxy fit, welted front pocket, and two-tone design. It's got some great details, from the full length back pleats to the button tab adjusters on the waistband, and works well as a shirt or mid-layer. Cut with short sleeves, they're a more vintage shape all around, running slightly small due to the more cropped body and narrow shoulders. It's made from two different shades of a 5oz lyocell twill from Japan. Lightweight and breathable, it's got a super comfortable and fluid drape, just like a classic rayon (or even silk) bowling s",
-"published": "2026-10-20",
-"score": 2.65,
+"desc": "Meknès is defined by its deep, narrow V neck and generous proportions. A traditional wool sweater with a relaxed shape and a distinctly Casatlantic fit.",
+"published": "2026-10-22",
+"score": -1.16,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"color:Multi/Print",
+-0.012499999999999956
 ],
 [
-"cut:pocket",
-0.4714285714285714
+"fab:wool",
+-0.04999999999999997
 ],
 [
-"cut:cropped",
-0.2857142857142857
+"cat:Knitwear",
+-0.19583333333333322
 ],
 [
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": true
-},
-{
-"brand": "Drake's",
-"status": "approved",
-"title": "Blue and White Wide Stripe Mock Collar Long-Sleeve Jersey",
-"category": "Shirts",
-"price": 295.0,
-"list": 295.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://us.drakes.com/products/blue-and-white-wide-stripe-mock-collar-long-sleeve-jersey",
-"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/products/DR2A5F23166-01252-1.jpg?v=1678198592",
-"tags": [
-"Brand_Drake's Own",
-"Collection_Casual",
-"Collection_Clothing",
-"Collection_Polos & Sweatshirts",
-"Collection_Rugby Shirts",
-"Collection_Spring"
-],
-"desc": "Constructed from a densely knitted cotton jersey, this long-sleeve crew neck top has a sewn-on mock collar, redolent of historic sportswear. We found a mill in Portugal that knits the most exquisite cotton jersey, and that was the starting point for this piece. We worked with them to develop a substantial 320g fabric with big, bold, vintage-inspired stripes. Something a bit more unusual, our Mock Collar Long-Sleeve Jersey is a playful bit of casualwear that sits somewhere between a polo, a rugby, and a t-shirt. It has ribbed cuffs, a stepped hem and is finished with neat cover stitching. It go",
-"published": "2023-03-07",
-"score": 2.59,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:ribbed",
-0.2857142857142857
-],
-[
-"cut:rib",
-0.2857142857142857
-],
-[
-"fab:cotton",
-0.18571428571428572
+"cut:relaxed",
+-0.6374999999999998
 ]
 ],
 "recolour": false
 },
 {
-"brand": "Earth Studies",
+"brand": "Labour Union",
 "status": "approved",
-"title": "MS-126 Survey Shirt",
-"category": "Shirts",
-"price": 230.0,
-"list": 230.0,
-"fabric": "100% cotton",
+"title": "Two Tone Knitted Tee",
+"category": "Tees & Polos",
+"price": 92.0,
+"list": 103.0,
+"fabric": "100% cotton, 100% cotton",
 "natural": 1.0,
-"url": "https://earth-studies.com/products/ms-126-survey-shirt-2",
-"img": "https://cdn.shopify.com/s/files/1/0019/1293/0413/files/MS126-RECCHECK-FLAT.jpg?v=1789072625",
+"url": "https://labourunion-1986.com/products/two-tone-knitted-tee",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/products/labourunionclothing_heritage_menswear_tops_TwoTone_KnittedTee_green2.jpg?v=1772767192",
 "tags": [
-"Experiment_16",
-"Experiment_16.1",
-"Shirt"
+"2023SS",
+"All",
+"All Product",
+"Blackfriday",
+"Father's day gifts",
+"Low stock"
 ],
-"desc": "The ‘Cruiser’ style emerged to suit the needs of the forestry workers of Earth’s northern hemisphere in the 19th Century. The ample fit and generous pocketing enables a versatility of wear across shirting and jacket applications. This version of the MS-126 uses a brushed cotton flannel in a rectangular check. Made from: A mid-weight brushed cotton ripstop with tonal patch pocketing Fit: - Relaxed fit - Model is 5'11\" and wearing a size Large Notations: - Two large front pockets with hidden pocket underneath left - Accessories loop at left pocket - Asymmetric pocket closures - Snap front closur",
-"published": "2026-09-23",
-"score": 2.58,
+"desc": "Stay cool and comfy in this vintage-inspired Two Tone Knitted Tee. Crafted from 100% cotton, it features an eye-catching green palette with classic stripes for a retro 70s flare. Plus, with a baggy fit and dropped shoulder design, the T-shirt provides maximum comfort for those hot summer days. • 100% Cotton •Two Tone T-shirts • 70s Knitting T-shirt Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model is 1.80 m and 67.5 kg wearing size M 38 • These sizes follow the Asian size standard Size Measurement For more infor",
+"published": "2023-05-13",
+"score": -1.17,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"cat:Tees & Polos",
+-0.004166666666666652
 ],
 [
-"cut:pocket",
-0.4714285714285714
+"cut:stripe",
+-0.04999999999999997
+],
+[
+"price:100-200",
+-0.28333333333333327
 ],
 [
 "color:Green",
-0.42857142857142855
-],
-[
-"fab:cotton",
-0.18571428571428572
+-0.28749999999999987
 ]
 ],
 "recolour": false
 },
 {
-"brand": "Drake's",
+"brand": "Universal Surplus",
 "status": "approved",
-"title": "Olive Heavy Cotton Flat Front Chino",
+"title": "MILITARY RUBBER LAB SMOCK",
+"category": "Jackets & Coats",
+"price": 245.0,
+"list": 245.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://universal-surplus.com/products/military-rubber-lab-smock",
+"img": "https://cdn.shopify.com/s/files/1/0712/5080/5023/files/universal_surplus_fallwinter_24_military_deadstock_-50_4b3b3cf4-7c17-405e-8500-f7b01c20aa55.jpg?v=1779955737",
+"tags": [
+"Best",
+"Coats & Jackets",
+"parka",
+"smock",
+"Surplus"
+],
+"desc": "ERA : 60'S ORIGIN : FRENCH CONDITION : Used DESCRIPTION : This 1967 model heavy-duty protective suit is designed for military decontamination teams working in chemically contaminated zones. Crafted from double-sided butyl-coated polyamide fabric by French Army green, the suit is built for durability and chemical resistance. The suit includes: Adjustable strap overalls for a secure fit A jacket with an integrated hood and a butyl face cover, designed to fit with a standard military gas mask (ANP) Butyl rubber cuffs at the wrists and ankles to ensure a tight seal with gloves and boots Weighing 3",
+"published": "2026-02-17",
+"score": -1.23,
+"hits": [
+[
+"cat:Jackets & Coats",
+0.20000000000000004
+],
+[
+"color:Multi/Print",
+-0.012499999999999956
+],
+[
+"price:200-300",
+-0.8374999999999998
+]
+],
+"recolour": false
+},
+{
+"brand": "Yitai",
+"status": "approved",
+"title": "Pleated Wool Trousers - Charcoal",
 "category": "Trousers",
-"price": 450.0,
-"list": 450.0,
-"fabric": "100% cotton",
+"price": 138.0,
+"list": 168.0,
+"fabric": "100% wool",
 "natural": 1.0,
-"url": "https://us.drakes.com/products/olive-heavy-cotton-flat-front-chino",
-"img": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B25068-02400-1.jpg?v=1739524821",
+"url": "https://www.yitai.la/products/pleated-wool-trousers-charcoal-1",
+"img": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame14_01002c0f-029f-4a2f-8d75-e02a5936cee6.jpg?v=1790285213",
 "tags": [
-"badge_Restock",
-"Brand_Drake's Own",
-"Collection_Clothing",
-"Collection_Perennials",
-"Collection_Trousers",
-"Colour_Green"
+"new",
+"pants",
+"trousers"
 ],
-"desc": "Composed of a 9.5oz Italian cotton with a robust, compact twill, these chinos provide a versatile linchpin to any wardrobe. Side adjusters alongside belt loops keep up the utilitarian nature of these trousers, while a full leg and high rise that sits just above the hip creates a classic, mid-century shape. 100% Cotton Made in Portugal Button Fastening and Zip Fly Side Adjusters Belt Loops Vertical Pockets Internal French Bearer Please contact our team for sizing advice at productenquiries@drakes.com",
-"published": "2025-02-14",
-"score": 2.54,
+"desc": "Production Notice: This item is currently in production and is expected to ship by 5th November, 2026. Orders placed in October are expected to ship by 30th November, 2026. Our wool fabric is custom-milled specifically for YITAI, and additional production takes time. We’re committed to making the best product possible rather than compromising on the fabric or construction. Thank you for your patience and support. Product Description Cut from a custom-developed 100% Australian Super 110s wool, these trousers feature a relaxed straight-leg silhouette with a single front pleat for added volume an",
+"published": "2026-09-25",
+"score": -1.24,
 "hits": [
 [
-"cut:pocket",
-0.4714285714285714
+"fab:wool",
+-0.04999999999999997
 ],
 [
-"price:300+",
-0.42857142857142855
+"cut:pleated",
+-0.14583333333333331
 ],
 [
-"color:Green",
-0.42857142857142855
+"cut:pleat",
+-0.1958333333333333
 ],
 [
-"fab:twill",
-0.2857142857142857
+"price:100-200",
+-0.28333333333333327
 ]
 ],
 "recolour": false
 },
 {
-"brand": "18 East",
+"brand": "Ryoko Rain",
 "status": "approved",
-"title": "ASHEVILLE OVERSIZED BLAZER - WASHED NAVY COTTON THICK & THIN BASKETWEAVE",
-"category": "Suits & Blazers",
-"price": 364.0,
-"list": 364.0,
+"title": "UNSEEN HOURS - EVERYONE WILL SEE SLEEVELESS TEE",
+"category": "Tees & Polos",
+"price": 25.0,
+"list": 50.0,
 "fabric": "100% cotton",
 "natural": 1.0,
-"url": "https://18east.co/products/asheville-sportcoat-navy",
-"img": "https://cdn.shopify.com/s/files/1/0026/8707/4416/files/18EAST_D9_B2_NAVYSPORTCOAT_1FRONT.jpg?v=1756239943",
-"tags": [
-"ARCHIVE1",
-"PRE FALL MAINSTAYS 1 (AUG '25)"
-],
-"desc": "The Asheville is back. Wear it with its matching baker pants, cargos, sweats, anything. Cut deliberately oversized and unlined with a button closure, patch hip pockets and a center back vent. Proudly made in India from a beautifully irregular 100% cotton basketweave. This fits roughly one size large. We recommend taking your normal alpha size for a relaxed fit or sizing down one for a truer fit.",
-"published": "2025-08-29",
-"score": 2.52,
+"url": "https://ryokorain.com/products/unseen-hours-sleeveless-tee",
+"img": "https://cdn.shopify.com/s/files/1/0388/4944/6019/files/RYOKO_4x5_001_2.jpg?v=1723147738",
+"tags": [],
+"desc": "A limited release in collaboration with Drew Hanlen and Unseen Hours. Sleeves have been hand-cut and left with a raw-edge finish. Printed and finished in Orange County, CA. - Standard and boxy fit. True to size. - Unisex - Material: 100% Cotton - Imported",
+"published": "2024-08-09",
+"score": -1.25,
 "hits": [
 [
-"cut:pocket",
-0.4714285714285714
+"cat:Tees & Polos",
+-0.004166666666666652
 ],
 [
-"price:300+",
-0.42857142857142855
+"price:u100",
+-0.08749999999999998
 ],
 [
-"brand:18 East",
-0.42857142857142855
+"color:Beige/Tan",
+-0.1791666666666666
+],
+[
+"cut:boxy",
+-0.32083333333333325
+]
+],
+"recolour": false
+},
+{
+"brand": "Manresa",
+"status": "approved",
+"title": "The Shop Tee in Black",
+"category": "Tees & Polos",
+"price": 70.0,
+"list": 70.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://manresaclothing.com/products/fw25-black-shop-tee",
+"img": "https://cdn.shopify.com/s/files/1/0638/1535/2560/files/IMG_7636.jpg?v=1756759619",
+"tags": [],
+"desc": "\"...ooooh, ya, you can't get there from here...\" 8 oz. 100% slightly oversized tee. Made in USA. Jonny is 6', 180 lbs and would have worn a large had we remembered to shoot him in the tee. Thanks.",
+"published": "2025-09-04",
+"score": -1.27,
+"hits": [
+[
+"cat:Tees & Polos",
+-0.004166666666666652
+],
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cut:oversized",
+-0.22499999999999995
+]
+],
+"recolour": false
+},
+{
+"brand": "Haspel",
+"status": "approved",
+"title": "Pink Lemonade Seersucker Stretch Pant | Seersucker Suit Separates",
+"category": "Suits & Blazers",
+"price": 245.0,
+"list": 245.0,
+"fabric": "97% cotton, 3% lycra",
+"natural": 0.97,
+"url": "https://www.haspel.com/products/pink-lemonade-seersucker-stretch-pant",
+"img": "https://cdn.shopify.com/s/files/1/0665/5557/files/pink_lemonade_pants_copy.jpg?v=1770143218",
+"tags": [
+"boldmetrics:mens_pants_numeric",
+"color:Pink Lemonade",
+"Core",
+"fabric:seersucker",
+"fit:audubon",
+"meta-size-chart-Audubon-Pant-size-chart"
+],
+"desc": "Take on your next adventure with confidence in our Pink Lemonade Seersucker Stretch Pant. This bold and fresh look is perfect for all your spring good times. Pretty in pink never looked so good! Our pants are unfinished with a 37.5\" inseam, enough length to cuff or not cuff, your call. 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Maximized Seersucker Pucker • Audubon Classic Fit • Flat Front • Unfinished Bottom (37.5\") • Dry Clean Audubon or Toulouse? Watch the Fit Video >>> Audubon Classic Fit – Our Classic Fit. A full cut jacket with slightly tapered sides. Full fit pan",
+"published": "2024-02-15",
+"score": -1.29,
+"hits": [
+[
+"cat:Suits & Blazers",
+-0.17499999999999996
+],
+[
+"price:200-300",
+-0.8374999999999998
 ],
 [
 "fab:cotton",
-0.18571428571428572
+-1.2666666666666668
 ]
 ],
-"recolour": true
+"recolour": false
 },
 {
-"brand": "18 East",
+"brand": "Haspel",
 "status": "approved",
-"title": "FIN OVERSIZED BLAZER - MIDNIGHT MIDNIGHT NAVY COTTON TWILL",
+"title": "Satsuma Orange Seersucker Pant | Seersucker Suit Separates",
 "category": "Suits & Blazers",
-"price": 298.0,
-"list": 298.0,
+"price": 245.0,
+"list": 245.0,
+"fabric": "97% cotton, 3% lycra",
+"natural": 0.97,
+"url": "https://www.haspel.com/products/satsuma-orange-seersucker-pant",
+"img": "https://cdn.shopify.com/s/files/1/0665/5557/files/satsuma_orange_pants_copy_cc7abaaf-28cf-4d3b-974e-4900a96bfcb9.jpg?v=1770155629",
+"tags": [
+"boldmetrics:mens_pants_numeric",
+"color:Satsuma Orange",
+"Core",
+"fabric:seersucker",
+"fit:audubon",
+"meta-size-chart-Audubon-Pant-size-chart"
+],
+"desc": "Refreshingly lightweight orange seersucker suit separates are sure to brighten everyone's day. Your style, your call. 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Maximized Seersucker Pucker • Audubon Classic Fit • Flat Front • Unfinished Bottom (37.5\") • Dry Clean Audubon Classic Fit – Our Classic Fit. A full cut jacket with slightly tapered sides. Full fit pant. For the best fit, please follow the measurements on the size charts. Pants are unhemmed at 37.5”. Free exchanges. Return Policy Don't see your size? More seersucker coming soon!! Click your size and fit, then us",
+"published": "2022-04-15",
+"score": -1.29,
+"hits": [
+[
+"cat:Suits & Blazers",
+-0.17499999999999996
+],
+[
+"price:200-300",
+-0.8374999999999998
+],
+[
+"fab:cotton",
+-1.2666666666666668
+]
+],
+"recolour": false
+},
+{
+"brand": "Ryoko Rain",
+"status": "approved",
+"title": "BAGGY BLACK PAISLEY MESH SHORTS",
+"category": "Shorts & Swim",
+"price": 78.0,
+"list": 78.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://ryokorain.com/products/baggy-black-paisley-mesh-shorts",
+"img": "https://cdn.shopify.com/s/files/1/0388/4944/6019/files/BLKPAISLEY-BAGGYMESH.jpg?v=1791320505",
+"tags": [
+"adult-shorts-baggy",
+"adult-shorts-mesh"
+],
+"desc": "",
+"published": "2026-10-09",
+"score": -1.29,
+"hits": [
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cat:Shorts & Swim",
+-0.26249999999999996
+]
+],
+"recolour": false
+},
+{
+"brand": "Ryoko Rain",
+"status": "approved",
+"title": "BAGGY CLASSIC MESH SHORTS - BLACK",
+"category": "Shorts & Swim",
+"price": 78.0,
+"list": 78.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://ryokorain.com/products/baggy-classic-mesh-shorts-black",
+"img": "https://cdn.shopify.com/s/files/1/0388/4944/6019/files/BLKSOLID-BAGGYMESH_1.jpg?v=1791320041",
+"tags": [
+"adult-shorts-baggy",
+"adult-shorts-mesh"
+],
+"desc": "",
+"published": "2026-10-09",
+"score": -1.29,
+"hits": [
+[
+"price:u100",
+-0.08749999999999998
+],
+[
+"cat:Shorts & Swim",
+-0.26249999999999996
+]
+],
+"recolour": false
+},
+{
+"brand": "Haspel",
+"status": "approved",
+"title": "Granite Gray Seersucker Pant | Seersucker Suit Separates",
+"category": "Suits & Blazers",
+"price": 245.0,
+"list": 245.0,
+"fabric": "97% cotton, 3% lycra",
+"natural": 0.97,
+"url": "https://www.haspel.com/products/granite-gray-seersucker-pant",
+"img": "https://cdn.shopify.com/s/files/1/0665/5557/files/granite_gray_pants_copy.jpg?v=1770141995",
+"tags": [
+"boldmetrics:mens_pants_numeric",
+"color:Granite Gray",
+"Core",
+"fabric:seersucker",
+"fit:audubon",
+"fit:toulouse"
+],
+"desc": "Keep it in neutral or kick it into high gear in gray seersucker suit separates. The ultimate wingman, this look begs to be touched. Rock that granite! 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Maximized Seersucker Pucker • Audubon Classic Fit • Flat Front • Unfinished Bottom (37.5\") • Dry Clean Audubon or Toulouse? Watch the Fit Video >>> Audubon Classic Fit – Our Classic Fit. A full cut jacket with slightly tapered sides. Full fit pant. Toulouse Modern Fit – Our Modern Fit. A trimmer fitting jacket with a slightly higher arm hole. Tapered pant leg. The waist, seat and",
+"published": "2022-04-11",
+"score": -1.29,
+"hits": [
+[
+"cat:Suits & Blazers",
+-0.17499999999999996
+],
+[
+"price:200-300",
+-0.8374999999999998
+],
+[
+"fab:cotton",
+-1.2666666666666668
+]
+],
+"recolour": false
+},
+{
+"brand": "Indi + Ash",
+"status": "approved",
+"title": "NOVA SWEATER grey/walnut",
+"category": "Knitwear",
+"price": 348.0,
+"list": 348.0,
 "fabric": "cotton",
 "natural": null,
-"url": "https://18east.co/products/fin-oversized-blazer-midnight",
-"img": "https://cdn.shopify.com/s/files/1/0026/8707/4416/files/FinBlazer_01.jpg?v=1790092092",
+"url": "https://indi-and-ash.com/products/nova-sweater-greyalpaca-walnut",
+"img": "https://cdn.shopify.com/s/files/1/0603/4492/6294/files/NOVA_walnut_grey2_web.jpg?v=1725286130",
 "tags": [
-"COLLECTION 3: MAINSTAYS PF 26"
+"sweater"
 ],
-"desc": "Based on our Asheville oversized blazer, but with a few more places to put stuff. Wear it with its matching Hays pant, cargos, sweats, anything. Cut deliberately oversized and unlined with a two button closure, patch pockets and a center back vent. Proudly made in India from a substantial yet soft heavy cotton twill. This fits roughly one size large. We recommend taking your normal alpha size for a relaxed fit or sizing down one for a truer fit. Adam is 5'9\" with a 31 waist and wears Medium.",
-"published": "2026-09-25",
-"score": 2.49,
+"desc": "We've re-imagined the Nova this season in a heavy blend of eco alpaca and organic cotton. We've run one yarn of undyded alpaca with two yarns of naturally dyed cotton simultaneously. In this case a grey alpaca yarn is run with a walnut dyed cotton yarn. Not for the faint of heart, this limited edition version is heavy enough to be worn as outerwear.. Its also our softest sweater ever. Our signature triangle \"dorito\" hand embroidery at the neckline. Hand wash and lay flat to dry. Abi is 5'8\" and wearing the sz 3. Intentional oversized fit, size down for slimmer fit. Measurements: Sz 1 (XS): Len",
+"published": "2025-10-20",
+"score": -1.29,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"brand:Indi + Ash",
+0.08333333333333333
 ],
 [
-"cut:pocket",
-0.4714285714285714
+"price:300+",
+-0.1499999999999999
 ],
 [
-"brand:18 East",
-0.42857142857142855
+"cat:Knitwear",
+-0.19583333333333322
 ],
 [
-"fab:twill",
-0.2857142857142857
+"cut:oversized",
+-0.22499999999999995
 ]
 ],
 "recolour": false
@@ -1169,286 +1240,151 @@
 {
 "brand": "Full Count",
 "status": "approved",
-"title": "1143-3 Fibril Cupra Resort Shorts",
-"category": "Shorts & Swim",
-"price": 205.0,
-"list": 205.0,
-"fabric": "100% tencel",
-"natural": 1.0,
-"url": "https://fullcount.co/products/1143-3",
-"img": "https://cdn.shopify.com/s/files/1/0024/6621/8029/files/black1_60e9c1be-93e3-4ed2-8054-4ab86f31150c.png?v=1759126644",
+"title": "[2026AW] 3773 Heavyweight Sulfur Dyed Zip Hoodie",
+"category": "Knitwear",
+"price": 430.0,
+"list": 430.0,
+"fabric": "cotton",
+"natural": null,
+"url": "https://fullcount.co/products/3773",
+"img": "https://cdn.shopify.com/s/files/1/0024/6621/8029/files/olive_229abc3f-c9f4-4fbc-89cf-4eec7303fe7e.png?v=1775034214",
 "tags": [
-"26SS",
-"pants",
-"shorts"
+"26AW",
+"Sweat",
+"Sweatshirt"
 ],
-"desc": "● Black (One Wash) ● Cupro Sateen Twill ● Cupro 100% *The waist drawstring is located on the inside. Monotone ombre check shorts made from 100% Tencel. Designed with an elastic waistband and grosgrain tape, they feature a relaxed, knee-length wide silhouette for comfortable wear. Equipped with two side pockets and two back pockets, these easy shorts combine functionality with style. Designed to match with the open-collar shirt in the same fabric.",
-"published": "2026-05-16",
-"score": 2.49,
+"desc": "● Egg plant / Black / Olive / Brown ● Original High-density Fleece ● Cotton 100% A zip-up hoodie made from original heavyweight fleece fabric. Both the face and back yarns use thick #10 yarn, creating a dense and durable fabric reminiscent of workwear.Although it has substantial weight, it gradually conforms to the body with wear. The silhouette features a slightly loose modern fit. After sulfur dyeing, a fade process is applied to create a naturally aged appearance.",
+"published": "2026-10-02",
+"score": -1.32,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"price:300+",
+-0.1499999999999999
 ],
 [
-"cut:pocket",
-0.4714285714285714
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"cut:collar",
-0.14285714285714285
-]
-],
-"recolour": false
-},
-{
-"brand": "Universal Works",
-"status": "approved",
-"title": "Navy Mitla Print Cotton Hi Water Trouser",
-"category": "Trousers",
-"price": 138.0,
-"list": 212.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://universalworks.com/products/universal-works-hi-water-trouser-in-navy-mitla-print-cotton",
-"img": "https://cdn.shopify.com/s/files/1/1831/8429/files/p32018_milta-print-cotton-navy_1.jpg?v=1753712276",
-"tags": [
-"ARCHIVE",
-"category:trousers",
-"colour:Navy",
-"fabric:cotton",
-"fabricname:MITLA",
-"fbexclude"
-],
-"desc": "A slightly cropped trouser, handy for avoiding getting wet at high tide. Designed to sit above the ankle, these pants have a loose, super casual fit. Our model is 6' 2'' with a 31.5’ Waist and is wearing a size ‘32.’ Inspired by a trip our Co-Founders took to Oaxaca, Mexico, our Mitla print is created in homage to the zigzag patterns seen across traditional Zapotec architecture. Here, the pattern is screen printed by hand onto Broadcloth, resulting in a subtly statement, but very wearable, piece. • Drawcord adjustable waist. • Slightly cropped leg length. • Two slanted hand pockets. • Two back",
-"published": "2026-09-16",
-"score": 2.45,
-"hits": [
-[
-"price:200-300",
-0.4714285714285714
-],
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"cut:cropped",
-0.2857142857142857
+"cat:Knitwear",
+-0.19583333333333322
 ],
 [
 "fab:cotton",
-0.18571428571428572
+-1.2666666666666668
 ]
 ],
 "recolour": false
 },
 {
-"brand": "Universal Works",
+"brand": "Labour Union",
 "status": "approved",
-"title": "Navy Konos Cotton Judo Pant",
-"category": "Trousers",
-"price": 174.0,
-"list": 267.0,
-"fabric": "99% cotton, 1% elastane",
-"natural": 0.99,
-"url": "https://universalworks.com/products/navy-konos-cotton-judo-pant",
-"img": "https://cdn.shopify.com/s/files/1/1831/8429/files/34802_konos-cotton-navy_1.jpg?v=1771849951",
+"title": "Flared Raw Denim Jeans",
+"category": "Jeans",
+"price": 164.0,
+"list": 164.0,
+"fabric": "unknown",
+"natural": null,
+"url": "https://labourunion-1986.com/products/flared-raw-denim-jeans",
+"img": "https://cdn.shopify.com/s/files/1/0472/4162/5751/files/labourunionclothing_vintage_inspired_heritage_menswear_bottoms_Flared_Raw_Denim_jeans_indigo1.jpg?v=1772767315",
 "tags": [
-"ARCHIVE",
-"Category:Trousers",
-"fabric:cotton",
-"fabricname:KONOS COTTON",
-"fbexclude",
-"fit:loose"
+"All",
+"All Product",
+"Bottoms",
+"Denim",
+"Low stock",
+"Pants & Trousers"
 ],
-"desc": "Judo, our most simple, straightest pant, inspired by the wide and loose trouser styles worn for practising martial arts. A stylish, yet comfortable trouser for great freedom of movement, and added pockets. Model is 6’1” with a 40” chest and a 32” waist, wearing a size ‘Large' top and size ’32' bottoms. Woven in Portugal exclusively for us, this is a luxurious, heavily patterned and textured fabric. • Drawcord, elasticated waist. • Hanging loop on waistband. • No fly. • Two front pockets. • Two rear patch pockets. • Simple relaxed fit. • Fabric Content: 99% Cotton, 1% Elastane. • Washcare: Wash",
-"published": "2026-09-14",
-"score": 2.45,
+"desc": "Introducing Flared Raw Denim Jeans, all features keep to the original design. These boot-cut jeans are cut from 15.5oz mid-weight wide-loom raw denim, offering a timeless look for denim fanatics. *Raw denim shrink after first wash 2 cm. Avoid using warm water or machine dryer. •15.5oz Raw Denim •Boot-cut •Talon Zip Fly Size & Fit Fitting Information • This piece fits true to size. We recommend you get your regular size • Fit: Classic fit • The model is 1.77 m and 70 kg wearing size M 38 • These sizes follow the Asian size standard Size Measurement For more information on size info please see t",
+"published": "2024-07-12",
+"score": -2.2,
 "hits": [
 [
-"price:200-300",
-0.4714285714285714
+"fab:denim",
+-0.09166666666666663
 ],
 [
-"cut:pocket",
-0.4714285714285714
+"color:Denim",
+-0.14999999999999997
 ],
 [
-"fab:cotton",
-0.18571428571428572
+"cat:Jeans",
+-0.26249999999999996
 ],
 [
-"color:Blue",
-0.14285714285714285
+"price:100-200",
+-0.28333333333333327
 ]
 ],
 "recolour": false
 },
 {
-"brand": "Blue Owl Workshop",
+"brand": "Kaidu Utility",
 "status": "approved",
-"title": "\"50s Blue Modesto\" 14oz Rinsed Selvedge Denim Pant - Straight Fit",
+"title": "Wide Cut 15 oz Denim Trousers - 32 (NO RETURN NO EXCHANGE)",
 "category": "Jeans",
 "price": 325.0,
 "list": 325.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://www.blueowl.us/products/50s-blue-modesto-11oz-rinsed-selvedge-denim-pant-straight-fit",
-"img": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_06_Product_FreenoteCloth_ModestoWorkwearCut14OUNCE50sDENIMRINSED_294.jpg?v=1781729269",
+"fabric": "unknown",
+"natural": null,
+"url": "https://www.kaidutility.com/products/wide-cut-denim-trousers-30-32-34-36",
+"img": "https://cdn.shopify.com/s/files/1/0187/7106/files/0115oz_202edf4e-b7a4-4e77-815d-869996b10ec2.jpg?v=1758128632",
 "tags": [
-"Denim Indigo",
-"Denim Straight",
-"Made in USA",
-"Mediumweight",
-"Pants",
+"BOTTOMOTHERS",
+"scarti-lab"
+],
+"desc": "*** NO RETURN NO EXCHANGE FOR CLEARANCE ITEMS. NO EXCEPTIONS. Brand: Fleur De Bagne Made in 15 oz denim. Hard handfeel for those who like to break in their denim pants in their own way. Bio washed. Size 30: waist 32\", bottom opening 17\", inseam: 32 1/2\". Size 32: waist 34\", bottom opening 17 1/2\", inseam 32 1/2\". Size 34: waist 36\", bottom opening 18\", inseam 33\". Size 36: waist 38\", bottom opening 18\", inseam 33\". Made in France",
+"published": "2024-09-10",
+"score": -2.79,
+"hits": [
+[
+"brand:Kaidu Utility",
+-0.08749999999999998
+],
+[
+"fab:denim",
+-0.09166666666666663
+],
+[
+"price:300+",
+-0.1499999999999999
+],
+[
+"color:Denim",
+-0.14999999999999997
+]
+],
+"recolour": false
+},
+{
+"brand": "Found",
+"status": "approved",
+"title": "Patchwork Jeans",
+"category": "Jeans",
+"price": 203.0,
+"list": 290.0,
+"fabric": "cotton",
+"natural": null,
+"url": "https://found.store/products/patchwork-jeans",
+"img": "https://cdn.shopify.com/s/files/1/0389/6781/files/Patchwork-Jeans-vintage-blue-FOUND-SS-26-13.jpg?v=1774387382",
+"tags": [
 "SS26"
 ],
-"desc": "Details Sizing Brand Info Freenote's single-rinse 50s selvedge denim features a texture reminiscent of midcentury workwear. These classic blue-jeans are woven at a versatile 14oz weight and come pre-rinsed for a softer hand feel. The Modesto Fit is a workwear inspired straight cut designed with a high rise, full top block, and wide straight leg. Finished with herringbone twill pocket bags, brass hardware, and a custom leather patch. 14oz rinsed Japanese selvedge denim Freenote’s Modesto fit is a workwear-inspired straight cut designed with a high rise, full top block, and wide straight legs Bu",
-"published": "2026-06-25",
-"score": 2.42,
+"desc": "The Pleated Relaxed Fit Jeans draw from the relaxed character of vintage denim. Made from sturdy cotton denim, the fabric has been washed to reveal natural fading and subtle variation across the surface. Front pleats introduce a fuller shape through the leg, giving the jeans an easy, relaxed silhouette that recalls classic everyday trousers while staying grounded in traditional denim construction. Simple details keep the design familiar and easy to wear. An everyday staple designed to be worn often and grow more familiar with time. Unisex, Relaxed Fit. True to Size. Mid-Weight, Designed to be ",
+"published": "2026-03-24",
+"score": -3.03,
 "hits": [
 [
-"cut:pocket",
-0.4714285714285714
+"fab:denim",
+-0.09166666666666663
 ],
 [
-"price:300+",
-0.42857142857142855
+"cut:pleated",
+-0.14583333333333331
 ],
 [
-"fab:twill",
-0.2857142857142857
+"color:White/Ivory",
+-0.1791666666666666
 ],
 [
-"fab:cotton",
-0.18571428571428572
-]
-],
-"recolour": false
-},
-{
-"brand": "18 East",
-"status": "approved",
-"title": "BRERA SINGLE BREASTED BLAZER - BLACK LINEN TWILL",
-"category": "Suits & Blazers",
-"price": 398.0,
-"list": 398.0,
-"fabric": "100% linen",
-"natural": 1.0,
-"url": "https://18east.co/products/brera-single-breasted-blazer-black",
-"img": "https://cdn.shopify.com/s/files/1/0026/8707/4416/files/Linen_BreraSingleBreastedBlazer-Black-1.jpg?v=1747931813",
-"tags": [
-"archive",
-"LINENS&THINGS"
-],
-"desc": "Taking its cues from vintage Milanese tailoring, the Brera is cut with a lower gorge notch lapel, 2 button closure, patch pockets, and a side vented back, it looks equally proper with its matching pant as a suit or over a tee and full cut trousers. Proudly made in India from 100% linen twill. This garment runs true to size. We recommend taking your usual alpha size. James is 6’1”, 29 waist and wears Medium.",
-"published": "2025-05-23",
-"score": 2.36,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"brand:18 East",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-]
-],
-"recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "FULLCOUNT 1121 Burberry Twill 'Duke II' Wide Straight Jean - Beige",
-"category": "Jeans",
-"price": 380.0,
-"list": 380.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/full-count-1121-25-burberry-twill-duke-jean-beige",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/files/FULLCOUNT_1121-25BURBERRYTWILLDUKEJEAN_1_542c6a19-ab46-4cde-95d4-3c80ea1fe510.jpg?v=1744382468",
-"tags": [
-"Brand_Full Count",
-"clothing",
-"Colour_Neutrals",
-"Department_Trousers",
-"FabricFocused",
-"Fit_wide straight"
-],
-"desc": "One more for fans of a wide leg has arrived, from the good people at FULLCOUNT. Usually seen in denim 'The Duke' style is been inspired by the Duke of Windsor, who remains a style hero to many in the 21st Century. This super-wide shape offers superb breathability, and ease of movement in the summer months. This time 'The Duke Jean' makes an appearance in FULLCOUNT's Burberry twill - a fabric inspired by the original gabardine known for its rich lustre and water repellency whilst still retaining cotton's breathability . This seasons Duke features slash pockets at the front, bringing them closer",
-"published": "2025-04-11",
-"score": 2.26,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"fab:cotton",
-0.18571428571428572
-]
-],
-"recolour": false
-},
-{
-"brand": "Son of a Stag",
-"status": "approved",
-"title": "ONI Denim 266SVC-GOL Chino Cloth Loose Straight Jean - Grey/Olive",
-"category": "Jeans",
-"price": 380.0,
-"list": 380.0,
-"fabric": "100% cotton",
-"natural": 1.0,
-"url": "https://sonofastag.com/products/oni-266svc-gol-regular-straight-cloth-chino-grey-olive",
-"img": "https://cdn.shopify.com/s/files/1/0298/8013/files/ONI_266SUCGOLJEANS.jpg?v=1754575397",
-"tags": [
-"Brand_ONI Denim",
-"clothing",
-"Colour_Green",
-"DenimLookbook",
-"Department_Jeans",
-"Department_Trousers"
-],
-"desc": "Masters of denim ONI are never afraid of a bit of experimentation. Made from a 8 oz. selvedge cotton twill, these trousers are lightweight and breathable for the warmer months whilst still retaining durability for the colder days too. The classic 5 pocket jean design features a button fly, selvedge edge and ONI's iconic leather patch. 100% Cotton 8 oz. Selvedge cotton twill Regular/straight 5 pocket design Button fly Selvedge ID Product code: 266SVC-GOL Made in Japan",
-"published": "2025-08-07",
-"score": 2.16,
-"hits": [
-[
-"cut:pocket",
-0.4714285714285714
-],
-[
-"price:300+",
-0.42857142857142855
-],
-[
-"fab:twill",
-0.2857142857142857
-],
-[
-"fab:cotton",
-0.18571428571428572
+"cut:pleat",
+-0.1958333333333333
 ]
 ],
 "recolour": false

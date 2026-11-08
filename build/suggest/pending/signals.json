@@ -4,43 +4,73 @@
    "id": 6,
    "name": "Chet knit tee",
    "brand": "Scott Fraser Collection",
-   "age_days": 41.8
+   "age_days": 48.8
   },
   {
    "id": 58,
    "name": "George Coat, Handspun Herringbone",
    "brand": "Indi + Ash",
-   "age_days": 40.9
+   "age_days": 47.9
   },
   {
    "id": 60,
    "name": "Civilita Asymmetrical Cargo Pant",
    "brand": "18 East",
-   "age_days": 40.9
+   "age_days": 47.9
   },
   {
    "id": 84,
    "name": "Ale Full-Zip Blouson, tussar cashmere twill",
    "brand": "18 East",
-   "age_days": 40.9
+   "age_days": 47.9
   },
   {
    "id": 88,
    "name": "Siello Utility Jacket, raw denim",
    "brand": "18 East",
-   "age_days": 40.9
+   "age_days": 47.9
   },
   {
    "id": 110,
    "name": "The Ragged Thermal Hoodie",
    "brand": "Brut Clothing",
-   "age_days": 40.9
+   "age_days": 47.9
   },
   {
    "id": 117,
    "name": "The Diving Sweat",
    "brand": "Brut Clothing",
-   "age_days": 40.9
+   "age_days": 47.9
+  },
+  {
+   "id": 5023,
+   "name": "THE WORK JACKET",
+   "brand": "Brut Clothing",
+   "age_days": 5.5
+  },
+  {
+   "id": 5030,
+   "name": "Papery Lantern Trouser, Olive",
+   "brand": "Glasswing",
+   "age_days": 5.5
+  },
+  {
+   "id": 5032,
+   "name": "Tucking Stripe Wool Cotton Sweater | Green Multi",
+   "brand": "TOAST",
+   "age_days": 5.5
+  },
+  {
+   "id": 5047,
+   "name": "THE CROPPED CREWNECK",
+   "brand": "Brut Clothing",
+   "age_days": 5.5
+  },
+  {
+   "id": 5049,
+   "name": "MS-126 Survey Shirt",
+   "brand": "Earth Studies",
+   "age_days": 5.5
   }
  ],
  "passed": [
@@ -50,54 +80,228 @@
    "brand": "Nantucket Reds"
   },
   {
+   "id": 7,
+   "name": "K Pant (Olive Rs/Poplin Mix)",
+   "brand": "Stan Ray"
+  },
+  {
    "id": 19,
    "name": "Wendy Trouser - Indigo/Gold",
    "brand": "W'menswear"
+  },
+  {
+   "id": 5020,
+   "name": "VETTI 2.0 BALLOON PANT - DEEP ARMY COTTON MICRORIPSTOP",
+   "brand": "18 East"
+  },
+  {
+   "id": 5021,
+   "name": "orSlow U.S.M.C. Herringbone Twill Utility Trouser - Khaki",
+   "brand": "Son of a Stag"
+  },
+  {
+   "id": 5022,
+   "name": "15.5 oz Loose Fit Jeans - Slub Nep Denim",
+   "brand": "Standard & Strange"
+  },
+  {
+   "id": 5024,
+   "name": "Jones Cotton Merino Twill Shirt in Brown Sky",
+   "brand": "Blue Owl Workshop"
+  },
+  {
+   "id": 5025,
+   "name": "Short sleeve knit shirt in Avio washed blue perforated stripe linen",
+   "brand": "No Man Walks Alone"
+  },
+  {
+   "id": 5026,
+   "name": "ASHEVILLE OVERSIZED BLAZER - DUNE LINEN TWILL",
+   "brand": "18 East"
+  },
+  {
+   "id": 5027,
+   "name": "THE CROPPED HOODIE",
+   "brand": "Brut Clothing"
+  },
+  {
+   "id": 5028,
+   "name": "Hunters Jacket (Island Green)",
+   "brand": "Stan Ray"
+  },
+  {
+   "id": 5029,
+   "name": "Work Pant ~ Ivy Green",
+   "brand": "3sixteen"
+  },
+  {
+   "id": 5031,
+   "name": "Utility Flannel ~ Espresso Twill Check",
+   "brand": "3sixteen"
+  },
+  {
+   "id": 5033,
+   "name": "Mini Hoodie, Pigment Elm",
+   "brand": "Glasswing"
+  },
+  {
+   "id": 5034,
+   "name": "Short sleeve polo in navy blue perforated stripe linen",
+   "brand": "No Man Walks Alone"
+  },
+  {
+   "id": 5035,
+   "name": "13.5 oz Loose Fit Jeans - Indigo",
+   "brand": "Standard & Strange"
+  },
+  {
+   "id": 5036,
+   "name": "ASHEVILLE OVERSIZED BLAZER - CACAO LINEN TWILL",
+   "brand": "18 East"
+  },
+  {
+   "id": 5037,
+   "name": "Wide Fit French Work Pants in Army Green",
+   "brand": "Blue Owl Workshop"
+  },
+  {
+   "id": 5038,
+   "name": "Sage de Cret Cotton Broken Twill Wide Pleated Shorts Olive",
+   "brand": "Lost & Found"
+  },
+  {
+   "id": 5039,
+   "name": "MHL Wide Leg Jogger Workwear Cotton Twill Off White",
+   "brand": "Lost & Found"
+  },
+  {
+   "id": 5040,
+   "name": "Yorba Zip S/S Shirt- White Herringbone",
+   "brand": "Standard & Strange"
+  },
+  {
+   "id": 5041,
+   "name": "AMER EASTERN BUTTON DOWN SHIRT - RUSSET BROWN / CLEAR BLUE / GOLDENROD BELGIAN LINEN PLAID WITH WHITE HAND-EMBROIDERED DECO CHECK",
+   "brand": "18 East"
+  },
+  {
+   "id": 5042,
+   "name": "Ribbed Raglan Sweater - Merino Cashmere - Deep Chocolate - M, L, XL",
+   "brand": "Kaidu Utility"
+  },
+  {
+   "id": 5043,
+   "name": "Ultraweight Crewneck ~ Kombu Green",
+   "brand": "3sixteen"
+  },
+  {
+   "id": 5044,
+   "name": "CL Canvas Coach Jacket, Cashew",
+   "brand": "Glasswing"
+  },
+  {
+   "id": 5045,
+   "name": "Half-zip pullover in dark green nepped raw silk and cotton",
+   "brand": "No Man Walks Alone"
+  },
+  {
+   "id": 5046,
+   "name": "Dubbleworks Tsuriami Sweat Hoodie - Sumikuro",
+   "brand": "Son of a Stag"
+  },
+  {
+   "id": 5048,
+   "name": "Vintage Fit Herringbone Fatigue Pants in Army Green",
+   "brand": "Blue Owl Workshop"
+  },
+  {
+   "id": 5050,
+   "name": "Yorba Zip S/S - Maroon Combo",
+   "brand": "Standard & Strange"
+  },
+  {
+   "id": 5051,
+   "name": "FULLCOUNT 1121 Burberry Twill 'Duke II' Wide Straight Jean - Beige",
+   "brand": "Son of a Stag"
   }
  ],
  "weights": {
-  "color:White/Ivory": 0.14285714285714285,
-  "cat:Tees & Polos": 0.14285714285714285,
-  "price:200-300": 0.4714285714285714,
-  "brand:Scott Fraser Collection": 0.14285714285714285,
-  "cut:button": 0.042857142857142864,
-  "brand:Indi + Ash": 0.14285714285714285,
-  "price:300+": 0.42857142857142855,
-  "color:Green": 0.42857142857142855,
-  "cut:herringbone": 0.14285714285714285,
-  "fab:cotton": 0.18571428571428572,
-  "cat:Jackets & Coats": 0.42857142857142855,
-  "fab:twill": 0.2857142857142857,
-  "fab:linen": 0.14285714285714285,
-  "brand:18 East": 0.42857142857142855,
-  "cat:Trousers": -0.05714285714285713,
-  "cut:cargo": 0.14285714285714285,
-  "cut:pocket": 0.4714285714285714,
-  "cut:cropped": 0.2857142857142857,
-  "color:Beige/Tan": 0.14285714285714285,
-  "fab:cashmere": 0.14285714285714285,
-  "cut:elastic": 0.14285714285714285,
-  "fab:silk": 0.14285714285714285,
-  "fab:denim": 0.14285714285714285,
-  "color:Denim": 0.042857142857142864,
-  "cut:relaxed": 0.042857142857142864,
-  "cut:utility": 0.14285714285714285,
-  "cat:Knitwear": 0.2857142857142857,
-  "cut:ribbed": 0.2857142857142857,
-  "cut:rib": 0.2857142857142857,
-  "brand:Brut Clothing": 0.2857142857142857,
-  "cut:boxy": 0.2857142857142857,
-  "cut:raglan": 0.14285714285714285,
-  "cut:collar": 0.14285714285714285,
-  "color:Blue": 0.14285714285714285,
-  "fab:canvas": -0.09999999999999999,
-  "price:100-200": -0.09999999999999999,
-  "cut:double pleat": -0.09999999999999999,
-  "cut:pleated": -0.09999999999999999,
-  "cut:pleat": -0.09999999999999999,
-  "brand:Nantucket Reds": -0.09999999999999999,
-  "color:Red": -0.09999999999999999,
-  "brand:W'menswear": -0.09999999999999999
+  "brand:Scott Fraser Collection": 0.08333333333333333,
+  "price:200-300": -0.8374999999999998,
+  "cat:Tees & Polos": -0.004166666666666652,
+  "color:White/Ivory": -0.1791666666666666,
+  "fab:cotton": -1.2666666666666668,
+  "brand:Indi + Ash": 0.08333333333333333,
+  "color:Green": -0.28749999999999987,
+  "cut:button": -1.4250000000000005,
+  "price:300+": -0.1499999999999999,
+  "cut:herringbone": -0.3541666666666666,
+  "cat:Jackets & Coats": 0.20000000000000004,
+  "cut:pocket": -1.0999999999999999,
+  "brand:18 East": -0.09999999999999994,
+  "fab:twill": -1.0583333333333333,
+  "cat:Trousers": -0.3458333333333332,
+  "fab:linen": -0.4416666666666666,
+  "cut:cargo": -0.09166666666666663,
+  "cut:cropped": -0.32083333333333325,
+  "fab:cashmere": -0.004166666666666652,
+  "cut:elastic": -0.1791666666666666,
+  "fab:silk": -0.004166666666666652,
+  "color:Beige/Tan": -0.1791666666666666,
+  "cut:utility": -0.3541666666666666,
+  "fab:denim": -0.09166666666666663,
+  "cut:relaxed": -0.6374999999999998,
+  "color:Denim": -0.14999999999999997,
+  "cat:Knitwear": -0.19583333333333322,
+  "brand:Brut Clothing": 0.32916666666666666,
+  "cut:ribbed": -0.18333333333333326,
+  "cut:boxy": -0.32083333333333325,
+  "cut:rib": -0.44583333333333325,
+  "cut:collar": -0.2291666666666666,
+  "cut:raglan": -0.09166666666666663,
+  "color:Blue": -0.05416666666666662,
+  "brand:Glasswing": -0.04999999999999997,
+  "cut:wide": -0.6624999999999999,
+  "cut:wide leg": -0.4874999999999999,
+  "cut:pleat": -0.1958333333333333,
+  "brand:TOAST": 0.125,
+  "cut:stripe": -0.04999999999999997,
+  "cut:oversized": -0.22499999999999995,
+  "fab:wool": -0.04999999999999997,
+  "price:100-200": -0.28333333333333327,
+  "color:Multi/Print": -0.012499999999999956,
+  "brand:Earth Studies": 0.125,
+  "cat:Shirts": -0.31249999999999994,
+  "fab:flannel": 0.03750000000000001,
+  "color:Red": -0.05833333333333333,
+  "fab:canvas": -0.14583333333333331,
+  "brand:Nantucket Reds": -0.05833333333333333,
+  "cut:double pleat": -0.05833333333333333,
+  "cut:pleated": -0.14583333333333331,
+  "price:u100": -0.08749999999999998,
+  "brand:Stan Ray": -0.17499999999999996,
+  "fab:poplin": -0.08749999999999998,
+  "brand:W'menswear": -0.05833333333333333,
+  "brand:Son of a Stag": -0.26249999999999996,
+  "cut:fatigue": -0.17499999999999996,
+  "cat:Jeans": -0.26249999999999996,
+  "cut:straight": -0.43749999999999994,
+  "cut:high rise": -0.43749999999999994,
+  "cut:selvedge": -0.17499999999999996,
+  "brand:Standard & Strange": -0.3499999999999999,
+  "brand:Blue Owl Workshop": -0.26249999999999996,
+  "fab:merino": -0.17499999999999996,
+  "color:Brown": -0.43749999999999994,
+  "brand:No Man Walks Alone": -0.26249999999999996,
+  "cut:short sleeve": -0.3499999999999999,
+  "cat:Suits & Blazers": -0.17499999999999996,
+  "fab:cord": -0.08749999999999998,
+  "brand:3sixteen": -0.26249999999999996,
+  "cat:Shorts & Swim": -0.26249999999999996,
+  "brand:Lost & Found": -0.17499999999999996,
+  "cut:embroidered": -0.08749999999999998,
+  "brand:Kaidu Utility": -0.08749999999999998,
+  "fab:lyocell": -0.08749999999999998
  },
- "fetched": "2026-11-01T11:18:26.333995+00:00"
+ "fetched": "2026-11-08T11:19:22.991237+00:00"
 }

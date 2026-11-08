@@ -1,112 +1,112 @@
-# Shortlist for the round of 2026-11-01
+# Shortlist for the round of 2026-11-08
 
-Hearts: 7 · Not for me: 2 · candidates swept: 9378 from 36 brands.
+Hearts: 12 · Not for me: 30 · candidates swept: 9457 from 36 brands.
 
-1. [18 East] ASYMMETRIC WEP FLIGHT JACKET - BLACK HANDSPUN COTTON CANVAS — Jackets & Coats — $324 — 100% cotton — score 3.56
-   Our newest interpretation of the iconic flight bomber, cut full and cropped from the same piece dyed, hand-spun cotton duck canvas used in this season's Sam Shirts and Kells. The WEP features a two-way zip closure with R
-   https://18east.co/products/wep-flight-jacket-black
-2. [Drake's] Navy Cotton Half-Zip Collared Sweatshirt — Tees & Polos — $425 — 100% cotton — score 3.46
-   Cut in our signature fit — slightly boxy, slightly cropped — this sweatshirt takes its cues from vintage sportswear discovered on our travels. Made from a supple Japanese cotton jersey, it borrows details from mid-centur
-   https://us.drakes.com/products/navy-cotton-half-zip-collared-sweatshirt
-3. [No Man Walks Alone] Half-zip pullover in dark green nepped raw silk and cotton — Knitwear — $325 — 58% cotton, 42% silk, 50% cotton, 50% silk — score 3.42
-   "Drapey but not droopy, blurhms keeps the raw silk on the outside for its characteristic slub, while backing it with cotton for comfort and resilience, eliminating the bagging that can occur with silk. With a generous co
-   https://nomanwalksalone.com/products/blurhms-fw26-half-zip-pullover-in-dark-green-nepped-raw-silk-and-cotton
-4. [Stan Ray] Roughneck Jacket (Apple Cinnamon Canvas) — Jackets & Coats — $156 (list $222) — 100% cotton — score 3.41
-   100% cotton Twill fabric Two-way YKK zip Angled handwarmer pockets Zip chest pocket Ribbed hem and cuffs Corduroy collar Boxy fit Sitting somewhere between a bomber and a work jacket, the Roughneck Jacket is the kind of 
-   https://www.stanray.com/products/roughneck-jacket-apple-cinnamon-canvas
-5. [Samuel Zelig] Varsity Jacket — Jackets & Coats — $450 — 100% cotton — score 3.35
-   Details 9 oz Cotton Corduroy Cat eye corozo Buttons Triple needle seam construction Raglan sleeves Welt Pockets Lined custom rib trim This garment has undergone a vintage wash and dye to remove all shrinkage and give it 
-   https://samuelzelig.com/products/varsity-jacket-1
-6. [Brut Clothing] THE ALPINE JACKET — Jackets & Coats — $330 — cotton — score 3.33
-   The ALPINE JACKET is inspired by a treasured summer smock from our archives, paying homage to the minimalism of 1950s French workwear. Crafted from high-quality cotton twill fabric, it is designed for all-day comfort. BR
-   https://brut-clothing.us/products/the-alpine-jacket-black
-7. [Son of a Stag] Dubbleworks Loop Wheel Sweat Jacket - Sumikuro — Jackets & Coats — $305 — 100% cotton — score 3.32
-   Inspired by iconic sportswear of the mid 20th Century, this collared sweat jacket from Dubbleworks does all the simple things well, making it a wardrobe essential in all four seasons. Cut in a boxy shape from a beautiful
-   https://sonofastag.com/products/dubbleworks-loop-wheel-sweat-jacket-sumikuro
-8. [Glasswing] CL Canvas Coach Jacket, Cashew — Jackets & Coats — $318 (list $455) — 100% cotton, 90% cotton, 10% linen — score 3.18
-   The CC Coach Jacket is a roomy, boxy-fitting cropped jacket with a regular point collar. Cut from a 100% cotton twill woven in Japan, the jacket has a soft, flat knobby texture with a structured drape and matte sheen. Fi
-   https://glasswingshop.com/products/lady-white-co-tumbled-poplin-full-zip-brown-pearl
-9. [Found] Utility Clasp Work Jacket — Jackets & Coats — $280 — 100% cotton — score 3.12
-   Refined with a utilitarian approach, the Utility Clasp Work Jacket is constructed from 100% cotton in a vintage red wash, giving the piece a naturally worn-in character. Designed with a high collar, structured epaulet de
-   https://found.store/products/utility-clasp-work-jacket
-10. [Standard & Strange] Cayucos Jacket - Dusty Blue — Jackets & Coats — $400 — 100% cotton, 100% cotton — score 3.12
-   The Cayucos Jacket is a casual and unlined "club jacket" with some cool two-tone details and a lightweight herringbone body. It's cut with a cropped length and a relaxed torso, featuring handwarmer pockets at a perfect h
-   https://standardandstrange.com/products/cayucos-jacket-dusty-blue
-11. [Lost & Found] Lady White Co. Mini Hoodie Grindle — Knitwear — $230 — 100% cotton — score 3.1
-   - Pigment-dyed 13oz. brushed cotton fleece - Slightly dropped shoulder & cropped fit - Hood with bound finish & crossover neck - Kangaroo pocket - Gusseted shoulders & side panels - Ribbed cuffs & hem - Pre-shrunk - 100%
-   https://shoplostfound.com/products/lady-white-co-mini-hoodie-grindle
-12. [Son of a Stag] Dubbleworks Tsuriami Sweat Hoodie - Sumikuro — Knitwear — $275 — 100% cotton, 100% cotton — score 3.05
-   Inspired by iconic sportswear of the mid 20th Century, this ‘Tsuriami’ hoodie from Dubbleworks does all the simple things well, making it a wardrobe essential in all four seasons. Cut in a boxy shape from a beautifully s
-   https://sonofastag.com/products/dubbleworks-tsuriami-sweat-hoodie-sumikuro
-13. [Brut Clothing] DRUMAGED RESEARCH TEE — Tees & Polos — $240 — cotton — score 2.91
-   DRUMAGED This garment was custom destroyed through a process developed by BRUT, using the natural cleaning cycles of industrial washing drums over several weeks. No additional chemicals are used, resulting in a completel
-   https://brut-clothing.us/products/drumaged-research-tee
-14. [No Man Walks Alone] Big pocket crewneck sweatshirt in latte beige wool and cotton terry knit — Tees & Polos — $285 — 54% wool, 44% cotton, 1% nylon, 1% polyurethane — score 2.91
-   "Like I said before, sweaters with unique details and an excellent fit need to be protected, owned and loved. Seagreen delivers this beautifully, creating a remarkably smooth knit on the surface, while the inner uses loo
-   https://nomanwalksalone.com/products/seagreen-fw26-big-pocket-crewneck-sweatshirt-in-latte-beige-wool-and-cotton-terry-knit
-15. [Glasswing] S/S Knit Pullover, Brown — Knitwear — $217 (list $310) — 100% cotton, 100% cotton — score 2.88
-   S/S Knit Polo is a short sleeved, fully-fashioned polo shirt, knitted in a 100% cotton with a small ribbed, waffle texture in the knit. '50s inspired, it is oversized in fit with a neat collar, square pocket and two butt
-   https://glasswingshop.com/products/universal-works-s-s-knit-pullover-brown
-16. [Brut Clothing] THE CROPPED CREWNECK — Knitwear — $150 (list $215) — cotton — score 2.85
-   Boxy and cropped fit. Vintage wash cotton. Ribbed collar, cuff and hem. Raglan construction. Signature print at front.
-   https://brut-clothing.us/products/the-cropped-crewneck-seal
-17. [Blue Owl Workshop] Vintage Fit Herringbone Fatigue Pants in Army Green — Shorts & Swim — $275 — 100% cotton — score 2.81
-   Details Sizing Brand Info Inspired by vintage military uniforms, orSlow's Fatigue Pants are a rugged alternative to jeans. Built from a durable herringbone twill fabric, the pants feature standard-issue design elements s
-   https://www.blueowl.us/products/vintage-fit-fatigue-pants-in-army
-18. [Drake's] Navy Slub Cotton Long-Sleeve Mock Neck Hiking T-Shirt — Tees & Polos — $275 — 100% cotton — score 2.78
-   This long-sleeved take on our Hiking T-Shirt channels the romance of mid-century trail gear. Back when outdoor clothing was simple, sturdy, and built to last, pieces like this were the quiet heroes of any kit. Cut from a
-   https://us.drakes.com/products/navy-slub-cotton-long-sleeve-mock-neck-hiking-t-shirt
-19. [Lost & Found] Body of Work Myrtle Quarter-Zip Sweatshirt Sueded French Terry Loam — Tees & Polos — $281 — 100% cotton — score 2.78
-   - Pre-washed brushed French Terry knit - Pointed collar - Set-in sleeves & slightly dropped shoulders - Chest pocket - RiRi zip closure - Ribbed cuffs & hem - 100% cotton - Made in Canada - Model is 6’2” (189cm), 160lbs 
-   https://shoplostfound.com/products/body-of-work-myrtle-quarter-zip-sweatshirt-sueded-french-terry-loam
-20. [Found] Varsity Patch Collared Cardigan — Knitwear — $230 — 100% cotton — score 2.73
-   Our Varsity Patch Cardigan is a nod to classic collegiate and athletic heritage, reimagined through our own lens. Crafted from a 100% cotton knit, it features bold striping at the cuffs, collar, and hem, balanced with a 
-   https://found.store/products/varsity-patch-collared-cardigan
-21. [No Man Walks Alone] Soft and Hard crewneck sweatshirt in dark green cotton — Tees & Polos — $255 — 100% cotton — score 2.72
-   "A solid, no fuss, crewneck primed for easy layering. The name comes from the soft hand of the fabric despite it being a high thread count, making it extremely resilient to stretching out yet still soft to the touch." --
-   https://nomanwalksalone.com/products/blurhms-fw26-soft-and-hard-crewneck-sweatshirt-in-dark-green-cotton
-22. [Lost & Found] Our Legacy Relic Hoodie Washed Black Rogue Loopback — Knitwear — $264 (list $376) — 79% cotton, 19% linen — score 2.69
-   - Pigment-dyed Italian loopback cotton, linen & elastane with distressing - Raw edge open after hood with wide ribbed neck - Kangaroo pocket - Ribbed hem & ribbed cuffs with distressed thumb openings - 79% cotton 19% lin
-   https://shoplostfound.com/products/our-legacy-relic-hoodie-washed-black-rogue-loopback
-23. [Blue Owl Workshop] Wide Fit French Work Pants in Black — Shorts & Swim — $275 — 100% cotton — score 2.66 — ANOTHER COLOUR of a piece already in the closet
-   Details Sizing Brand Info orSlow's French Work Pants are wide-leg utility trousers receiving inspiration from 19th century workwear. The pants are built using a mediumweight cotton herringbone twill woven with a dense-we
-   https://www.blueowl.us/products/wide-fit-french-work-pants-in-black
-24. [Standard & Strange] Yorba Zip S/S - Maroon Combo — Shirts — $270 — 100% lyocell — score 2.65 — ANOTHER COLOUR of a piece already in the closet
-   The Yorba Zip shirt is inspired by vintage bowling shirts, with a boxy fit, welted front pocket, and two-tone design. It's got some great details, from the full length back pleats to the button tab adjusters on the waist
-   https://standardandstrange.com/products/yorba-zip-s-s-maroon-combo
-25. [Drake's] Blue and White Wide Stripe Mock Collar Long-Sleeve Jersey — Shirts — $295 — 100% cotton — score 2.59
-   Constructed from a densely knitted cotton jersey, this long-sleeve crew neck top has a sewn-on mock collar, redolent of historic sportswear. We found a mill in Portugal that knits the most exquisite cotton jersey, and th
-   https://us.drakes.com/products/blue-and-white-wide-stripe-mock-collar-long-sleeve-jersey
-26. [Earth Studies] MS-126 Survey Shirt — Shirts — $230 — 100% cotton — score 2.58
-   The ‘Cruiser’ style emerged to suit the needs of the forestry workers of Earth’s northern hemisphere in the 19th Century. The ample fit and generous pocketing enables a versatility of wear across shirting and jacket appl
-   https://earth-studies.com/products/ms-126-survey-shirt-2
-27. [Drake's] Olive Heavy Cotton Flat Front Chino — Trousers — $450 — 100% cotton — score 2.54
-   Composed of a 9.5oz Italian cotton with a robust, compact twill, these chinos provide a versatile linchpin to any wardrobe. Side adjusters alongside belt loops keep up the utilitarian nature of these trousers, while a fu
-   https://us.drakes.com/products/olive-heavy-cotton-flat-front-chino
-28. [18 East] ASHEVILLE OVERSIZED BLAZER - WASHED NAVY COTTON THICK & THIN BASKETWEAVE — Suits & Blazers — $364 — 100% cotton — score 2.52 — ANOTHER COLOUR of a piece already in the closet
-   The Asheville is back. Wear it with its matching baker pants, cargos, sweats, anything. Cut deliberately oversized and unlined with a button closure, patch hip pockets and a center back vent. Proudly made in India from a
-   https://18east.co/products/asheville-sportcoat-navy
-29. [18 East] FIN OVERSIZED BLAZER - MIDNIGHT MIDNIGHT NAVY COTTON TWILL — Suits & Blazers — $298 — cotton — score 2.49
-   Based on our Asheville oversized blazer, but with a few more places to put stuff. Wear it with its matching Hays pant, cargos, sweats, anything. Cut deliberately oversized and unlined with a two button closure, patch poc
-   https://18east.co/products/fin-oversized-blazer-midnight
-30. [Full Count] 1143-3 Fibril Cupra Resort Shorts — Shorts & Swim — $205 — 100% tencel — score 2.49
-   ● Black (One Wash) ● Cupro Sateen Twill ● Cupro 100% *The waist drawstring is located on the inside. Monotone ombre check shorts made from 100% Tencel. Designed with an elastic waistband and grosgrain tape, they feature 
-   https://fullcount.co/products/1143-3
-31. [Universal Works] Navy Mitla Print Cotton Hi Water Trouser — Trousers — $138 (list $212) — 100% cotton — score 2.45
-   A slightly cropped trouser, handy for avoiding getting wet at high tide. Designed to sit above the ankle, these pants have a loose, super casual fit. Our model is 6' 2'' with a 31.5’ Waist and is wearing a size ‘32.’ Ins
-   https://universalworks.com/products/universal-works-hi-water-trouser-in-navy-mitla-print-cotton
-32. [Universal Works] Navy Konos Cotton Judo Pant — Trousers — $174 (list $267) — 99% cotton, 1% elastane — score 2.45
-   Judo, our most simple, straightest pant, inspired by the wide and loose trouser styles worn for practising martial arts. A stylish, yet comfortable trouser for great freedom of movement, and added pockets. Model is 6’1” 
-   https://universalworks.com/products/navy-konos-cotton-judo-pant
-33. [Blue Owl Workshop] "50s Blue Modesto" 14oz Rinsed Selvedge Denim Pant - Straight Fit — Jeans — $325 — 100% cotton — score 2.42
-   Details Sizing Brand Info Freenote's single-rinse 50s selvedge denim features a texture reminiscent of midcentury workwear. These classic blue-jeans are woven at a versatile 14oz weight and come pre-rinsed for a softer h
-   https://www.blueowl.us/products/50s-blue-modesto-11oz-rinsed-selvedge-denim-pant-straight-fit
-34. [18 East] BRERA SINGLE BREASTED BLAZER - BLACK LINEN TWILL — Suits & Blazers — $398 — 100% linen — score 2.36
-   Taking its cues from vintage Milanese tailoring, the Brera is cut with a lower gorge notch lapel, 2 button closure, patch pockets, and a side vented back, it looks equally proper with its matching pant as a suit or over 
-   https://18east.co/products/brera-single-breasted-blazer-black
-35. [Son of a Stag] FULLCOUNT 1121 Burberry Twill 'Duke II' Wide Straight Jean - Beige — Jeans — $380 — 100% cotton — score 2.26
-   One more for fans of a wide leg has arrived, from the good people at FULLCOUNT. Usually seen in denim 'The Duke' style is been inspired by the Duke of Windsor, who remains a style hero to many in the 21st Century. This s
-   https://sonofastag.com/products/full-count-1121-25-burberry-twill-duke-jean-beige
-36. [Son of a Stag] ONI Denim 266SVC-GOL Chino Cloth Loose Straight Jean - Grey/Olive — Jeans — $380 — 100% cotton — score 2.16
-   Masters of denim ONI are never afraid of a bit of experimentation. Made from a 8 oz. selvedge cotton twill, these trousers are lightweight and breathable for the warmer months whilst still retaining durability for the co
-   https://sonofastag.com/products/oni-266svc-gol-regular-straight-cloth-chino-grey-olive
+1. [TOAST] Donegal Wool Crew Neck Tank | Smoke — Tees & Polos — $300 — 100% wool — score 0.06
+   Our tank is knitted from flecky wool spun in Donegal, Ireland. Shaped for an easy fit with a crew neck and falling to the mid hip. Donegal-spun wool. Easy fit. Crew neck. Mid-hip length. Ribbed edges. ### Details Made in
+   https://us.toa.st/products/donegal-wool-crew-neck-tank-smoke
+2. [Labour Union] Fair Isle Wool Vest — Jackets & Coats — $112 — 100% wool — score -0.05
+   A pure-wool Fair Isle vest is more than a piece of clothing. It brings a bit of vintage character to whatever you wear it with. Wear it over a shirt and tie for a classic gentleman's look or mix it into a relaxed vintage
+   https://labourunion-1986.com/products/fair-isle-wool-vest
+3. [Nantucket Reds] Peter Millar - Crown 25th Anniversary Cashmere Quarter Zip Sweater - Oslo Grey — Knitwear — $398 — 100% cashmere — score -0.21
+   Description Peter Millar was founded in 2001 with a single cashmere sweater. This limited-edition design celebrates our 25th anniversary in an updated take on the original pure cashmere style. Offered in a wide range of 
+   https://www.nantucketreds.com/products/crown-anniversary-cashmere-quarter-zip-sweater-osgry
+4. [Labour Union] Chevron Wool Bomber Jacket — Jackets & Coats — $198 — wool — score -0.37
+   This reimagined harrington jacket marries vintage heritage with contemporary ease. Crafted from 100% chevron wool tweed, it delivers authentic texture and durability. The dropped shoulder silhouette creates a relaxed, mo
+   https://labourunion-1986.com/products/chevron-wool-bomber-jacket
+5. [Labour Union] Wool Plaid Jacket Houndstooth Pattern — Jackets & Coats — $183 — 100% wool — score -0.53
+   Rooted in authentic hunting jacket heritage, this season's wool plaid design reimagines classic menswear with contemporary flair. Dropped shoulders provide a modern silhouette while padded cotton lining delivers warmth a
+   https://labourunion-1986.com/products/plaid-wool-jaceket-hundstooth
+6. [Found] Crimson Letterman Jacket — Jackets & Coats — $348 (list $410) — wool — score -0.58
+   Our Crimson Letterman Jacket is inspired by the mid 1900s athletic Ivy League wardrobe. Made from a wool blend body fabric with contrast distressed genuine leather sleeves and accents. The garment features embroidered ch
+   https://found.store/products/crimson-letterman-jacket
+7. [TOAST] Finn Donegal Wool Sweater | Navy — Knitwear — $395 — 100% wool — score -0.61
+   Our Finn sweater is made using a soft wool yarn spun in Donegal. Shaped with easy, dropped shoulders and a high neckline and finished with ribbed edges. Part of our Menswear collection. Donegal-spun wool. High neck. Drop
+   https://us.toa.st/products/finn-donegal-wool-sweater-navy
+8. [Labour Union] Black High-Waisted Pleated Wool Trousers — Trousers — $153 — wool — score -0.7
+   Description These black high-waisted pleated trousers are tailored from a worsted wool blend that keeps wool's natural drape while improving breathability and wrinkle-resistance. Lightweight, low-iron men's pleated wool 
+   https://labourunion-1986.com/products/black-high-waisted-pleated-wool-trousers
+9. [Morning Witch] [LINEN BOLERO] Ginkgo — Shirts — $85 — linen — score -0.76
+   The linen boleros tie at the neck and have loose, dramatic sleeves. The arms are embroidered and have a tencel lining for comfort. linen does not stretch - if you are on the upper end of the a sizing, you may have to siz
+   https://shop.morningwitch.com/products/coming-may-3rd-linen-bolero-ginkgo
+10. [Morning Witch] [LINEN BOLERO] Scarlet Garden — Shirts — $85 — linen — score -0.81
+   The linen boleros tie at the neck and have loose, dramatic sleeves. The arms are embroidered and have a tencel lining for comfort. linen does not stretch - if you are on the upper end of the a sizing, you may have to siz
+   https://shop.morningwitch.com/products/coming-dec-13th-linen-bolero-scarlet-garden
+11. [Labour Union] High-Waisted Pleated Wool Trousers — Trousers — $153 — wool — score -0.88
+   Description These high-waisted pleated trousers are tailored from a worsted wool blend that keeps wool's natural drape while improving breathability. Lightweight, low-iron men's pleated wool trousers with a sharp, busine
+   https://labourunion-1986.com/products/high-waisted-pleated-wool-trousers
+12. [Universal Surplus] BLACK RAF TAILOR PANTS — Trousers — $87 — wool — score -0.93
+   Originally issued to Royal Air Force officers in the 1990s, these tailored trousers combine military functionality with the refined spirit of British tailoring. Made from a durable wool-polyester blend, they were designe
+   https://universal-surplus.com/products/black-raf-tailor-pants
+13. [Drake's] White Elephant Block Print Linen Camp Collar Long Sleeve Shirt — Shirts — $425 — 100% linen — score -0.94
+   The camp collar holiday shirt has taken many forms‚ and many names‚ over the years, but its essential essence remains undiluted. It's a simple, square-hemmed, long-sleeved shirt with an open collar. Not to be overdesigne
+   https://us.drakes.com/products/white-elephant-block-print-linen-camp-collar-long-sleeve-shirt
+14. [Labour Union] Icelandic Wool Sweaters Cream — Knitwear — $171 — wool — score -0.98
+   Inspired by a traditional Iceland totem, this round neck jumper features geometric patterns symbolizing the natural landscape of Iceland with ribbed detailing on the cuff and waistband completing the look. Shetland wool 
+   https://labourunion-1986.com/products/cream-icelandic-wool-sweater
+15. [Haspel] Granite Gray Seersucker Sport Coat | Seersucker Suit Separates — Suits & Blazers — $450 — 97% cotton, 3% lycra — score -1.04
+   Keep it in neutral or kick it into high gear in gray seersucker suit separates. The ultimate wingman, this look begs to be touched. Rock that granite! 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Ma
+   https://www.haspel.com/products/granite-gray-seersucker-sport-coat
+16. [Drake's] Grey Melange Cotton Reverse Weave Sweatshirt — Tees & Polos — $425 — 100% cotton — score -1.06
+   A proper cotton sweatshirt, built around the details that made old athletic sweatshirts so good in the first place. It’s made from a Japanese brushed cotton fleece, with a soft handle and the right amount of stretch. The
+   https://us.drakes.com/products/grey-melange-cotton-reverse-weave-sweatshirt
+17. [Kaidu Utility] Shoreline Wool Jacket - Black - M, L, XL, XXL — Jackets & Coats — $365 — wool — score -1.09
+   Brand: Merz B. Schwanen Made in 100% Portuguese wool. Very soft. The cut is relaxed so it can be layered over another jacket or heavy sweater without losing mobility. Size M: Shoulder 18 1/2", chest 46", front length: 29
+   https://www.kaidutility.com/products/shoreline-wool-jacket-navy-m-l-xl-xxl
+18. [Universal Surplus] SWEDISH OFFICER HIGH WAIST PANTS — Trousers — $87 — wool — score -1.13
+   Tailored Swedish Navy trousers manufactured by CBV Karlskrona, the historic outfitter for Sweden’s main naval base. Issued during the late 1980s and 1990s, these trousers were part of the official dress and duty uniform,
+   https://universal-surplus.com/products/swedish-officer-high-waist-pants
+19. [Universal Surplus] UNIVERSAL SAILOR WORK SHIRT — Shirts — $112 — 100% cotton — score -1.14
+   DESCRIPTION The story of the French sailor smock begins with its name. Vareuse comes from the old French verb varer , meaning “to protect” or “to shelter” a clear reference to its original purpose as a hard-wearing layer
+   https://universal-surplus.com/products/universal-sailor-work-shirt-natural
+20. [Indi + Ash] BIG EASY SHORT smoke — Shorts & Swim — $198 — unknown — score -1.15
+   New development in our exploration of reimagining miltaria. We've developed a handwoven ripstop for our spring collections texture and weight combined with airiness and drape marked by heavy ripstop dobby line. Extremely
+   https://indi-and-ash.com/products/easy-big-short-smoke-handwoven-ripstop
+21. [Casatlantic] MEKNÈS — Knitwear — $270 — wool — score -1.16
+   Meknès is defined by its deep, narrow V neck and generous proportions. A traditional wool sweater with a relaxed shape and a distinctly Casatlantic fit.
+   https://www.casatlantic.com/products/meknes-wool-ecru
+22. [Labour Union] Two Tone Knitted Tee — Tees & Polos — $92 (list $103) — 100% cotton, 100% cotton — score -1.17
+   Stay cool and comfy in this vintage-inspired Two Tone Knitted Tee. Crafted from 100% cotton, it features an eye-catching green palette with classic stripes for a retro 70s flare. Plus, with a baggy fit and dropped should
+   https://labourunion-1986.com/products/two-tone-knitted-tee
+23. [Universal Surplus] MILITARY RUBBER LAB SMOCK — Jackets & Coats — $245 — unknown — score -1.23
+   ERA : 60'S ORIGIN : FRENCH CONDITION : Used DESCRIPTION : This 1967 model heavy-duty protective suit is designed for military decontamination teams working in chemically contaminated zones. Crafted from double-sided buty
+   https://universal-surplus.com/products/military-rubber-lab-smock
+24. [Yitai] Pleated Wool Trousers - Charcoal — Trousers — $138 (list $168) — 100% wool — score -1.24
+   Production Notice: This item is currently in production and is expected to ship by 5th November, 2026. Orders placed in October are expected to ship by 30th November, 2026. Our wool fabric is custom-milled specifically f
+   https://www.yitai.la/products/pleated-wool-trousers-charcoal-1
+25. [Ryoko Rain] UNSEEN HOURS - EVERYONE WILL SEE SLEEVELESS TEE — Tees & Polos — $25 (list $50) — 100% cotton — score -1.25
+   A limited release in collaboration with Drew Hanlen and Unseen Hours. Sleeves have been hand-cut and left with a raw-edge finish. Printed and finished in Orange County, CA. - Standard and boxy fit. True to size. - Unisex
+   https://ryokorain.com/products/unseen-hours-sleeveless-tee
+26. [Manresa] The Shop Tee in Black — Tees & Polos — $70 — unknown — score -1.27
+   "...ooooh, ya, you can't get there from here..." 8 oz. 100% slightly oversized tee. Made in USA. Jonny is 6', 180 lbs and would have worn a large had we remembered to shoot him in the tee. Thanks.
+   https://manresaclothing.com/products/fw25-black-shop-tee
+27. [Haspel] Pink Lemonade Seersucker Stretch Pant | Seersucker Suit Separates — Suits & Blazers — $245 — 97% cotton, 3% lycra — score -1.29
+   Take on your next adventure with confidence in our Pink Lemonade Seersucker Stretch Pant. This bold and fresh look is perfect for all your spring good times. Pretty in pink never looked so good! Our pants are unfinished 
+   https://www.haspel.com/products/pink-lemonade-seersucker-stretch-pant
+28. [Haspel] Satsuma Orange Seersucker Pant | Seersucker Suit Separates — Suits & Blazers — $245 — 97% cotton, 3% lycra — score -1.29
+   Refreshingly lightweight orange seersucker suit separates are sure to brighten everyone's day. Your style, your call. 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Maximized Seersucker Pucker • Audub
+   https://www.haspel.com/products/satsuma-orange-seersucker-pant
+29. [Ryoko Rain] BAGGY BLACK PAISLEY MESH SHORTS — Shorts & Swim — $78 — unknown — score -1.29
+   
+   https://ryokorain.com/products/baggy-black-paisley-mesh-shorts
+30. [Ryoko Rain] BAGGY CLASSIC MESH SHORTS - BLACK — Shorts & Swim — $78 — unknown — score -1.29
+   
+   https://ryokorain.com/products/baggy-classic-mesh-shorts-black
+31. [Haspel] Granite Gray Seersucker Pant | Seersucker Suit Separates — Suits & Blazers — $245 — 97% cotton, 3% lycra — score -1.29
+   Keep it in neutral or kick it into high gear in gray seersucker suit separates. The ultimate wingman, this look begs to be touched. Rock that granite! 97% Cotton / 3% Lycra Haspel Exclusive Seersucker Stretch Fabric • Ma
+   https://www.haspel.com/products/granite-gray-seersucker-pant
+32. [Indi + Ash] NOVA SWEATER grey/walnut — Knitwear — $348 — cotton — score -1.29
+   We've re-imagined the Nova this season in a heavy blend of eco alpaca and organic cotton. We've run one yarn of undyded alpaca with two yarns of naturally dyed cotton simultaneously. In this case a grey alpaca yarn is ru
+   https://indi-and-ash.com/products/nova-sweater-greyalpaca-walnut
+33. [Full Count] [2026AW] 3773 Heavyweight Sulfur Dyed Zip Hoodie — Knitwear — $430 — cotton — score -1.32
+   ● Egg plant / Black / Olive / Brown ● Original High-density Fleece ● Cotton 100% A zip-up hoodie made from original heavyweight fleece fabric. Both the face and back yarns use thick #10 yarn, creating a dense and durable
+   https://fullcount.co/products/3773
+34. [Labour Union] Flared Raw Denim Jeans — Jeans — $164 — unknown — score -2.2
+   Introducing Flared Raw Denim Jeans, all features keep to the original design. These boot-cut jeans are cut from 15.5oz mid-weight wide-loom raw denim, offering a timeless look for denim fanatics. *Raw denim shrink after 
+   https://labourunion-1986.com/products/flared-raw-denim-jeans
+35. [Kaidu Utility] Wide Cut 15 oz Denim Trousers - 32 (NO RETURN NO EXCHANGE) — Jeans — $325 — unknown — score -2.79
+   *** NO RETURN NO EXCHANGE FOR CLEARANCE ITEMS. NO EXCEPTIONS. Brand: Fleur De Bagne Made in 15 oz denim. Hard handfeel for those who like to break in their denim pants in their own way. Bio washed. Size 30: waist 32", bo
+   https://www.kaidutility.com/products/wide-cut-denim-trousers-30-32-34-36
+36. [Found] Patchwork Jeans — Jeans — $203 (list $290) — cotton — score -3.03
+   The Pleated Relaxed Fit Jeans draw from the relaxed character of vintage denim. Made from sturdy cotton denim, the fabric has been washed to reveal natural fading and subtle variation across the surface. Front pleats int
+   https://found.store/products/patchwork-jeans
